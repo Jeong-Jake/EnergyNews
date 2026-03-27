@@ -104,14 +104,51 @@ def parse_rss(xml_bytes: bytes, category: str) -> list[dict]:
     return articles
 
 
+def normalize_title(title: str) -> str:
+    """제목에서 비교용 핵심 텍스트만 추출한다."""
+    # 언론사명 제거 (예: "- 한국경제", "| 연합뉴스")
+    title = re.sub(r"\s*[-|·]\s*\S+$", "", title)
+    # 특수문자, 공백 제거
+    title = re.sub(r"[^\w가-힣]", "", title)
+    return title.strip()
+
+
+def title_similarity(t1: str, t2: str) -> float:
+    """두 제목의 유사도를 0~1로 반환한다 (글자 겹침 기반)."""
+    if not t1 or not t2:
+        return 0.0
+    set1, set2 = set(t1), set(t2)
+    intersection = set1 & set2
+    union = set1 | set2
+    return len(intersection) / len(union) if union else 0.0
+
+
 def deduplicate(articles: list[dict]) -> list[dict]:
-    """중복 기사 제거 (링크 기준)."""
-    seen = set()
+    """중복 기사 제거 (링크 + 제목 유사도 기준)."""
+    seen_ids = set()
     unique = []
+    normalized_titles = []
+
     for a in articles:
-        if a["id"] not in seen:
-            seen.add(a["id"])
-            unique.append(a)
+        # 링크 기반 중복
+        if a["id"] in seen_ids:
+            continue
+
+        # 제목 유사도 기반 중복 (70% 이상 유사하면 중복으로 판단)
+        norm = normalize_title(a["title"])
+        is_dup = False
+        for existing in normalized_titles:
+            if title_similarity(norm, existing) > 0.7:
+                is_dup = True
+                break
+
+        if is_dup:
+            continue
+
+        seen_ids.add(a["id"])
+        normalized_titles.append(norm)
+        unique.append(a)
+
     return unique
 
 
