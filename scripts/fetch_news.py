@@ -67,8 +67,15 @@ def parse_rss(xml_bytes: bytes, category: str) -> list[dict]:
         source_elem = item.find("source")
         source = source_elem.text.strip() if source_elem is not None and source_elem.text else ""
         description = item.findtext("description", "").strip()
-        # HTML 태그 제거
+        # HTML 태그 및 HTML 엔티티 제거
         description = re.sub(r"<[^>]+>", "", description).strip()
+        description = re.sub(r"&nbsp;?", " ", description)
+        description = re.sub(r"&amp;?", "&", description)
+        description = re.sub(r"&lt;?", "<", description)
+        description = re.sub(r"&gt;?", ">", description)
+        description = re.sub(r"&quot;?", '"', description)
+        description = re.sub(r"&#\d+;", "", description)
+        description = re.sub(r"\s{2,}", " ", description).strip()
 
         # 날짜 파싱
         pub_date = None
