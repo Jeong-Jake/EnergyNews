@@ -1,15 +1,365 @@
 {
-  "lastUpdated": "2026-03-29T15:06:06.623394+09:00",
-  "totalCount": 39,
+  "lastUpdated": "2026-03-30T08:21:21.018014+09:00",
+  "totalCount": 56,
   "articles": [
     {
-      "id": "37374ba59cfb",
-      "title": "현대차그룹, 全계열사에 차량 5부제 확대... 에너지 절감 동참 이어져 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWNDQVVjRGxkQkktTWRCNDd0Nmdpc203b2IxQ05ZRU82TmVaS3NvQVNjdVV1S3hjU1Rsdnk5VkNhZDJfTzdjYXFlb0hCMXdyemNoZjBTV2VJbTNaXzBYOXhnRVVWQTZZVGlDWnRVeUYxWFMwTThVZDFtTDFCQ2JETHByeUhPcDVCTklaejFlTdIBowFBVV95cUxPbXpYUU9JMW84ejdJNXB2bVQ4LTlKazdrTGlrcVpqZHV4czJNcDFsckpQMUVPa0tfWXQ1UE94NTV2VUtidE1GQ0Q5OEJzQ3BJcGlFN00tQ1MwYW9VQ3FuSWtJZlM5TldsVkxRYlNPckE5c3RUbzVXSkdmTmJuNDRXSjBzdnVONWgtdnVjVnJ6NlhMV3Z2dHhsNDJVRzctT1J3Vmw4?oc=5",
-      "source": "조선일보",
-      "pubDate": "2026-03-29T05:34:20+00:00",
-      "description": "현대차그룹, 全계열사에 차량 5부제 확대... 에너지 절감 동참 이어져 조선일보",
+      "id": "27c3f86c004d",
+      "title": "렉스이노베이션, AI 바우처 공급기업 등록…분산에너지 AI 사업 본격화 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HTjRoajMwVDBZaXUwWXN4R0UwMmxEUE9BZjNubmF4eXFVNnM1NEJWYXRiNThZS3V0M3A5UUhzVldzamxqU2Vmb0hoX0RZVDUyYmJZX1RzVjhfMU5fNGVNa3hCYUM5QU9BbWNvZdIBcEFVX3lxTE9VOVQxZ3ptOFM0OUtscGZJWkZoQVllUVZsamNKMmlVMFJIUmxrcC1vbTktRm9GT1EyUDAzMFcwdjY3TFoxXzk2TGVvWFIxYVVaWGliWUhTSnM1UFNaa09GS2lNcEppUGl0MlI2dXZmQVI?oc=5",
+      "source": "전기신문",
+      "pubDate": "2026-03-29T22:13:58+00:00",
+      "description": "렉스이노베이션, AI 바우처 공급기업 등록…분산에너지 AI 사업 본격화 전기신문",
+      "category": "VPP",
+      "priority": true
+    },
+    {
+      "id": "c5be88e8cdce",
+      "title": "[AI 특집] 볼보건설기계그룹, 글로벌 거점 ‘창원공장’ 투자확대 - 국토일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yTEFTVWlHZVRUbjlabUlfeHAzSndIeEZLSnMtcUdRS1VCeS13SjI3SlpocnkweXhZOFZ1UmpsZUJoU210SWdIQlBSdDZDVVFVV2FiSmVMM0J3LUlxYTZNcTV6aw?oc=5",
+      "source": "국토일보",
+      "pubDate": "2026-03-29T23:20:00+00:00",
+      "description": "[AI 특집] 볼보건설기계그룹, 글로벌 거점 ‘창원공장’ 투자확대 국토일보",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "bfb58a8603ca",
+      "title": "K-배터리의 역습… LG엔솔, 美 전력망 배터리 ‘자급자족’ 시대 개막의 주역으로 우뚝 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZndIUGt1czZCdm1CbGlmQTRmYl9iMTRHY01saV9XSnc5Y1hNWUpiN0pxUTN2cHduWDZOQWx2VG84TlRubEtpWWl4MkprLVNUMkJEaHptVWZIQW5rOGlMQ1NKQWdLNGl2by1IMV8tZl93blZEUWxSVnVZalN3MzY3Wkstc2Z0TlUx?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-03-29T23:01:53+00:00",
+      "description": "K-배터리의 역습… LG엔솔, 美 전력망 배터리 ‘자급자족’ 시대 개막의 주역으로 우뚝 글로벌이코노믹",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "afabf401c9c4",
+      "title": "'LG엔솔 덕분' 美 ESS 자립 첫 발 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BSXE3OEdjaXhNblY5TGU1RnEyams5VUh5MEF4OHdkTWhWZ2NWR1MxVjlXcTFqS3Z2TVdyR3JIcDBXZlV6RndpWHEweWJaYlJlSVV2TTBtVzNFWktNYmxYaDRR?oc=5",
+      "source": "더구루",
+      "pubDate": "2026-03-29T23:00:10+00:00",
+      "description": "'LG엔솔 덕분' 美 ESS 자립 첫 발 더구루",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "241d61b0234e",
+      "title": "삼성SDI, 실적 바닥서 ‘기술·수주’ 동시 전진…ESS·전고체로 재도약 채비 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wM3lwYmxHcmRzcVFEa0Fjd1lHbkRpYmlub0hMaGtBbEtXTEJRa3VKTEI1akZEWE5aT3JoeEFsYXllZVhYMDlDRmJtOU1TMTRXOVRxMG14UDVfUGUxaVZYVUJRai1uMERhYXRKNHFIaw?oc=5",
+      "source": "이코노미사이언스",
+      "pubDate": "2026-03-29T23:00:00+00:00",
+      "description": "삼성SDI, 실적 바닥서 ‘기술·수주’ 동시 전진…ESS·전고체로 재도약 채비 이코노미사이언스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "6f5c3601eef9",
+      "title": "삼성SDI와1.6조원 규모LFP중장기 공급계약 체결 - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6dDIxVF85cHJiNnhoMmVaTzllUUEtRWdLT3JuWm9zN0x2SE52VDFkcURTOVVRcjljNVdIdzd3cThCNUNJaDdsdDJHcXE?oc=5",
+      "source": "한국AI부동산신문",
+      "pubDate": "2026-03-29T22:30:11+00:00",
+      "description": "삼성SDI와1.6조원 규모LFP중장기 공급계약 체결 한국AI부동산신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "139e7985aaad",
+      "title": "현대차그룹, 에너지 허리띠 졸라맨다…차량 운행 최소화 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mZmoyT09HeUxUb1ZRWk9LMkpEajFiWUpTWWhxc252ZnZJMU13VUliZW1qaEtuVHJqU1pWeEdmeWhtQkxTMjVnaURROHVWYmVRSXA1Z2Vn?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "2026-03-29T22:21:39+00:00",
+      "description": "현대차그룹, 에너지 허리띠 졸라맨다…차량 운행 최소화 지디넷코리아",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "febea3142a74",
+      "title": "대한민국 원전산업 '퍼스트 무버' 도약의 조건 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOFcxaWRxMXBFaEFndVBQblFfWlFYdURyOFZONE5NQTI5ZER5LTFEZUN6S2xyWEdpdmVxVVdESUtFMTFhZ2hHSU1CMFF2QVUyVmFPLXF0WXo4QTBvUkZ0YzdXSEc?oc=5",
+      "source": "에너지안전신문",
+      "pubDate": "2026-03-29T22:11:00+00:00",
+      "description": "대한민국 원전산업 '퍼스트 무버' 도약의 조건 에너지안전신문",
       "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "96dd6af9742b",
+      "title": "중구난방 재생에너지 주력전원화…\"정부는 전시행정 혈안\" - e2news.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMnF6S096T2IwN19kcXA4eWg3a1hBRXM5Wk1Ga0Y3ay1DV0hCRUNEanBiSXg3ZFVwYUhKYjhMbXFicU11OTVVeDZDTkdOalM5dWkzNkZCOGNmQWhKaHhralZtYnVWNDg?oc=5",
+      "source": "e2news.com",
+      "pubDate": "2026-03-29T22:00:00+00:00",
+      "description": "중구난방 재생에너지 주력전원화…\"정부는 전시행정 혈안\" e2news.com",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "db8aba251bc0",
+      "title": "\"전력수요폭증·기후규제 반사이익\"... 탄소배출권선물 ETF, 수익률 최상위권 [투자의 맥] - meconomynews.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FdnI4eUs5NEFZUkt5YXRJNlpBT0FpakVBYXV5M3hUdmZwYVNRUWJBUUhWS05tUloxVmpVNUZMSDROTlZDdzV5N0FNQVdWYnNWUGxSd1pjMVEyMTU2RTVZNzhYRXk4QjVxQUctZHBaUWQ?oc=5",
+      "source": "meconomynews.com",
+      "pubDate": "2026-03-29T21:30:00+00:00",
+      "description": "\"전력수요폭증·기후규제 반사이익\"... 탄소배출권선물 ETF, 수익률 최상위권 [투자의 맥] meconomynews.com",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "a273b11596ef",
+      "title": "K전선·전력업계, 에너지 고속도로 날개 단다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MeDktc005X21aTFlIb3g4bk1BakF1aDR0cHNRUHdhWkk2ZEFHMk1wYnYwTVNNcmFoVXFOdnlhLThsRTgwWHY5aHZwUDFGSjliRjFr?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-29T21:22:00+00:00",
+      "description": "K전선·전력업계, 에너지 고속도로 날개 단다 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "1007786c7a46",
+      "title": "\"에너지 정책 설계, 데이터와 모형으로 풀어냅니다\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GUGZTRXdIX2dOazBscktNT0ktbmIxbkZpa215WlFjb0trTDd6N2N0MnBPWm9sekVqanlfX3MxenN3cktBaHNITGFKVnRYOEVGcXlxWHhhQW1kZ9IBVEFVX3lxTE9aNF9kU01LNEl5d0RIRVo2b2E5bHJCb0IxV2VHWmhrLWM3cFFHckN4bmlHR3lleU9EOHZqTXRxQ29VVm1NaUY4OUlOYUVTTzhXX1dhTQ?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-03-29T21:00:31+00:00",
+      "description": "\"에너지 정책 설계, 데이터와 모형으로 풀어냅니다\" 한국경제",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "af2fad919e5e",
+      "title": "[기자수첩] 다양한 ESS 기술 도입의 필요성 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hdkFjaVZVbE9iSWZPRUV1dktVVDZHeXlsRWFHUy1sYmswMHRPYVBIbkZSRWxOREFsUXlIQV9jelJmQUJGeU0weHBNXzh3QkgtRnpZYlJIUlk4cmxoem12Umc3X0RQdFdZSHl0OQ?oc=5",
+      "source": "투데이에너지",
+      "pubDate": "2026-03-29T21:00:00+00:00",
+      "description": "[기자수첩] 다양한 ESS 기술 도입의 필요성 투데이에너지",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "94b74352b863",
+      "title": "AI 시대 핵심은 전력…'에너지 고속도로+α'로 돌파 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KQklQMzd1aDl1Z0hwOXcxc1JqNDBBdEpRb1p6d0RMTGozYi1YSFlvTGRmZWNLOG1QaXRPSlR5T3lmMXhubDBicHVDUDJna0xzVXZWWFJfUVZIMFk5Vko1TVY5dk9BM0ZoYTdpaG4teWJZV0MxbE5qNQ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-29T20:51:00+00:00",
+      "description": "AI 시대 핵심은 전력…'에너지 고속도로+α'로 돌파 네이트",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "4de7ccd76d37",
+      "title": "LG엔솔 vs 삼성SDI ‘한판ʼ 치열한 ‘배터리 특허ʼ 경쟁 - fntimes.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0QVU0NGxrVEQ2ZkpRTnJQMkpNWktIRG9fQUx0OHUxYUtSNXdLMjYteDVhZnBKbjctR1B2NzBQem1pa2ZPUVpzeVRpS3QzbFo5UFpIMzBMa0ZjbTI4WFJ2UERBd0JHN3ZhZFYtajBaOXRLYlFKcmV0NWlIU3g?oc=5",
+      "source": "fntimes.com",
+      "pubDate": "2026-03-29T20:00:00+00:00",
+      "description": "LG엔솔 vs 삼성SDI ‘한판ʼ 치열한 ‘배터리 특허ʼ 경쟁 fntimes.com",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "0cfe56739245",
+      "title": "우리금융, 해상풍력 등 재생에너지 투자 승부수 [생산적금융 투자 본격화] - fntimes.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yM25aV05LNHVTWG5DbUFvTmZZSEZnWWFRT2YyNzBtVzRUU3FUSHRtMzl5X3JlTUktczdwVVJJRjJUM0J3blY5bDJ1aThpSFNFYmNDNElwcmlkMXFyQkVrV3k1TkZsaDBQLXhQTGM1TUdSVW9ITGVhc0FRY2w?oc=5",
+      "source": "fntimes.com",
+      "pubDate": "2026-03-29T20:00:00+00:00",
+      "description": "우리금융, 해상풍력 등 재생에너지 투자 승부수 [생산적금융 투자 본격화] fntimes.com",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "c37a660c351d",
+      "title": "서울 강남과 부산 기장의 전기요금은 달라야 한다 [Deep&wide] - 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cGUxYW9ISzZUZWRVdUFsM29ITW9yYTQwWllLdEh6eFdLcTlJOEN3eGFlcmItLVBVMGY3UmNKdGpsNld4ZnU2Vk9TWGZGRW9Xejd1ekQwbjdVeVR2UFl3akxnTDJyNFFaTEpGTWRHdFlkYVHSAXNBVV95cUxQeXBlMWFvSEs2VGVkVXVBbDNvSE1vcmE0MFpZS3RIenhXS3E5SThDd3hhZXJiLS1QVTBmN1JjSnRqbDZXeGZ1NlZPU1hmRkVvV3o3dXpEMG43VXlUdlBZd2pMZ0wycjRRWkxKRk1kR3RZZGFR?oc=5",
+      "source": "한국일보",
+      "pubDate": "2026-03-29T19:30:00+00:00",
+      "description": "서울 강남과 부산 기장의 전기요금은 달라야 한다 [Deep&wide] 한국일보",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "c63111986d6f",
+      "title": "“출장은 화상회의로, 업무차는 친환경차로”..현대차그룹, 에너지 절약! - dailycar.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Mamx4eldBZVZES09vb3g3eUJXVDNscllmMG5VcC0wWDdMMEwwdmh3bDRKT085M19CenYwZHFwR28wT0h5UC00SFFRM3IzdC03M3lwaUxaMDJ3WkY3RE9xVFRDRFIyV3ZDeVFjOUg0OGU0WFJSdmc?oc=5",
+      "source": "dailycar.co.kr",
+      "pubDate": "2026-03-29T17:03:42+00:00",
+      "description": "“출장은 화상회의로, 업무차는 친환경차로”..현대차그룹, 에너지 절약! dailycar.co.kr",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "74ea40e6a7fc",
+      "title": "배터리, AI 전력 인프라가 되다 - 미래한국",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FbVQxRk9lTlRfYzAybFhxUGRSSGdQMXd0Ul9nZFBkYVR5Y2NoWnVrS3RpU1ZIR0NPbHNHWnNuWU9xaTVrU0h6OEt2NlFXT3RaNk14bnZLYzRna251WmFCN0lKSVJQY1ZDU04ybFd1N1Jvdw?oc=5",
+      "source": "미래한국",
+      "pubDate": "2026-03-29T17:00:42+00:00",
+      "description": "배터리, AI 전력 인프라가 되다 미래한국",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "0119b6b9670c",
+      "title": "대만 ‘탈원전’ 유턴이 한국 원전산업에 던지는 핵심은 \"AI 에너지 동맹’\" - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2U25XX3l4VHlPdlpQelFxUjNmQUlQamEzbmFIcVJMdV9NX0lPLXR5QlNwR09mNjJPU3QtblFCSWlOeDZPSk53ZGMtOUktZVkzejZXM3lEbFh3dzBqRFRrZmxySGQ?oc=5",
+      "source": "에너지안전신문",
+      "pubDate": "2026-03-29T16:59:00+00:00",
+      "description": "대만 ‘탈원전’ 유턴이 한국 원전산업에 던지는 핵심은 \"AI 에너지 동맹’\" 에너지안전신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "a461a01ec850",
+      "title": "[기자수첩] 중동발 가스값 폭등...‘에너지 속국’ 탈피할 대전환의 기회로 삼아야 - 산경e뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IODJyZWJiUzBMWExiWkVPOTctVkk1ZjhJNU9fSklIYk5BeWxleHp6NVlLYWFWVzl0dVBhOXBmQmJzc042cklXNDlwX0lRVC1mZExLZGxxSFQ0Y2RIUWJnX19MU0VLM1E?oc=5",
+      "source": "산경e뉴스",
+      "pubDate": "2026-03-29T15:30:55+00:00",
+      "description": "[기자수첩] 중동발 가스값 폭등...‘에너지 속국’ 탈피할 대전환의 기회로 삼아야 산경e뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "3a14fca4b32c",
+      "title": "[에너지트렌드②] 빅테크, 전력 조달 넘어 발전·저장까지 직접 챙긴다… AI 경쟁, 에너지 인프라 선점전으로 - 케이트렌디뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SNjUtcnhlTGRiWHc2cEdjTkl5Z2ptNk5sQXE3a0JXWkp6bDlPN2IxT0pjekhlRDkwOHBQck9BT1JIdllzajlRVENOc3R0akk5SW1UV1Vpd0dVQzZoZUZTZ3g3eFdpdlRkajlQdldQaXk?oc=5",
+      "source": "케이트렌디뉴스",
+      "pubDate": "2026-03-29T11:43:00+00:00",
+      "description": "[에너지트렌드②] 빅테크, 전력 조달 넘어 발전·저장까지 직접 챙긴다… AI 경쟁, 에너지 인프라 선점전으로 케이트렌디뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "74913354377c",
+      "title": "(이슈 점검) ‘에너지연금’ 청사진… 1GW 태양광, 실현 가능한가? - 대출든든.com",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xOGhFcmJlZEE1S01BVFJTa2Faa19VWDM0dEJuVElDaVdLYlpwcktoMnpPZVlFMkIzcEp6Sjc5OE0zcllILWww?oc=5",
+      "source": "대출든든.com",
+      "pubDate": "2026-03-29T10:32:00+00:00",
+      "description": "(이슈 점검) ‘에너지연금’ 청사진… 1GW 태양광, 실현 가능한가? 대출든든.com",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "3b89ab7d91d5",
+      "title": "SK아이이테크놀로지 투자분석 2026. 03. 29 - 주달",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43bkIwdWlzZjlhUXlGdG50T3A1MnY5UGYtNU5IQk1Qak9yZm1RNlNqVkxnVzQtNWlCM2VLdDhEcnV1Y2lsYWNYMGdIcWFoWHpKT2ZFRjNjRVRSRzRaSTV5TXltcHNkbG5ncHhIdUNEZk1VdHM?oc=5",
+      "source": "주달",
+      "pubDate": "2026-03-29T10:27:17+00:00",
+      "description": "SK아이이테크놀로지 투자분석 2026. 03. 29 주달",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "7bc168a701fe",
+      "title": "“아껴야 산다”… 에너지 다이어트 나선 기업들 [美·이란 전쟁] - segye.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYZHhkUDkxWW1pcmVIdndRSWJHdk1nbm4yU2owN1dfOV9QaGtNT3lwVUJ1aVQ0SHY1V1BEdHdQSzNnUnk3Vm9qOS1lXzA3MEZmWTc3MmFUOHN1M3MtWkplZFdpV2JScDFZWGpN0gFUQVVfeXFMTWlkbTI3Uk5wV1JLbEpsNm1TVTVxVUk3VzVtSFRrbFB1aUxQUEpuRkdFMHpDSmlrS1hsQU9fV0Z6ZXlrMGZiMzh3TDU0LVgyZGVsRHd6?oc=5",
+      "source": "segye.com",
+      "pubDate": "2026-03-29T09:52:22+00:00",
+      "description": "“아껴야 산다”… 에너지 다이어트 나선 기업들 [美·이란 전쟁] segye.com",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "9047f5fbb261",
+      "title": "“급격한 신재생 전환 위험...연료전지 등 에너지 믹스 필요” - 서울경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xd3ROVG9KM01NRFFHWVVzS3hKcEFCOHVvdVdldDRJdi1BWTFXUjE3MUVvRGZOcHRYLUZfOUd0N21aTnctSnp5NHlMaEN0U0h4YlHSAVNBVV95cUxNUVFQNXlFWjljTGRpQUE5c2VuYlNsZGlISDdSRTJ4U1JKelVXc0dRR2RZSmJWLWd0TnhQOVdZdVZiRW9ZNk8xVjA0UTdDaGZxTGlqcw?oc=5",
+      "source": "서울경제신문",
+      "pubDate": "2026-03-29T09:06:49+00:00",
+      "description": "“급격한 신재생 전환 위험...연료전지 등 에너지 믹스 필요” 서울경제신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "f88736671efe",
+      "title": "현대차, 통근 수소버스 늘리고 태양광 설치 확대 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wOVVVQ3NZcGRBQWJHUnJsLWJ0RmNhbkpEMUs0UDhQNEhINm1uMnZNdFBHeXFQMGs3LTVoejFTWUxtcUxRMDZnUG40VDlJUmdOR2NuaTJHbXlxZ9IBVEFVX3lxTE8zcEwxOTJpVWdUaDZudFBjWVloOFdBVXRtbksyYVd3Vm5Ob1B2X1c5UERHT01fdWZrMDNwX3FIeTJTMEZfLVhpNTZoNVc0TzJOeGR4RA?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-03-29T09:04:42+00:00",
+      "description": "현대차, 통근 수소버스 늘리고 태양광 설치 확대 한국경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "4e3f349c83c5",
+      "title": "AI로 불 끄고 데이터로 전력 줄인다…현대차그룹, ‘에너지 관리 플랫폼’ 전환 가속 - 투데이e코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WR0ZNTkdDQWNMaGNPUGFRWkc3OUVuejBVcHBfUXFjY2s4V3ItTFVUdHlUTTQ4d2FzaThITi1rTU8yOHJoWW1NVTJrYl96RHpVYTVMZWFWUEtrcF9XQ0FuWkhqSmw1QkE?oc=5",
+      "source": "투데이e코노믹",
+      "pubDate": "2026-03-29T08:49:16+00:00",
+      "description": "AI로 불 끄고 데이터로 전력 줄인다…현대차그룹, ‘에너지 관리 플랫폼’ 전환 가속 투데이e코노믹",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "a1939d1a44b6",
+      "title": "올해 신사업 키워드는 '에너지·AI·헬스케어' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aUmJOZXBUN1lsTWR4MzJZamJfei1NRnltWTJ2dlBVWkJ4RUlPQ2dTdGgxV3ZuMFVXZ01xRzlBcklrTzZreEpCSTZYRlllQ1EwY2wtT9IBVEFVX3lxTE5aUmJOZXBUN1lsTWR4MzJZamJfei1NRnltWTJ2dlBVWkJ4RUlPQ2dTdGgxV3ZuMFVXZ01xRzlBcklrTzZreEpCSTZYRlllQ1EwY2wtTw?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-03-29T08:24:50+00:00",
+      "description": "올해 신사업 키워드는 '에너지·AI·헬스케어' 한국경제",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "b853a1398074",
+      "title": "에너지·인프라에 뭉칫돈…AI가 바꾼 M&A 판도[시그널] - 서울경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3Ny0tcThhSzBROE9TTkgySXlvM0Jya1pYU3VhVnA0d0Q0VkdFSFFxM3hHYVhNSk1IcHpQdEtKM3gzSUxvejI1cnZMV3piLTNLWGZj0gFTQVVfeXFMUDc3LS1xOGFLMFE4T1NOSDJJeW8zQnJrWlhTdWFWcDR3RDRWR0VIUXEzeEdhWE1KTUhwelB0S0ozeDNJTG96MjVydkxXemItM0tYZmM?oc=5",
+      "source": "서울경제신문",
+      "pubDate": "2026-03-29T07:27:54+00:00",
+      "description": "에너지·인프라에 뭉칫돈…AI가 바꾼 M&A 판도[시그널] 서울경제신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "bfb41e2610af",
+      "title": "AI CCTV로 자동 소등, 전기·수소차 우선 배정…현대차그룹 스마트 에너지 절약 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GT1NaM1lmMTdKOHhwdjJtR3NSOEJCQkVZX1lsYkRMY3NwcTl6Uk1fMzdEbC1yV2VjNDdUUVhicDU2Q0ZZOUFwZ1BoVkNkWHM5UDVJ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-29T07:14:00+00:00",
+      "description": "AI CCTV로 자동 소등, 전기·수소차 우선 배정…현대차그룹 스마트 에너지 절약 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "2edf44b1c0fa",
+      "title": "현장 규제 뚫고 AI 날개 달았다…제도·기술로 이어진 에너지 혁신 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZG9UbzRIaHNybEZfSm5fZDBUNHVHSnhNcWxpTDl1dlB1aG1xWVBQVVhHZVI4MUMyMU9hTTkxQkpoV2xWZ1cyMDVIam1HSWZaUFlyatIBVEFVX3lxTE9HZG9UbzRIaHNybEZfSm5fZDBUNHVHSnhNcWxpTDl1dlB1aG1xWVBQVVhHZVI4MUMyMU9hTTkxQkpoV2xWZ1cyMDVIam1HSWZaUFlyag?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-03-29T07:02:00+00:00",
+      "description": "현장 규제 뚫고 AI 날개 달았다…제도·기술로 이어진 에너지 혁신 한국경제",
+      "category": "VPP",
+      "priority": false
+    },
+    {
+      "id": "e8719d1437a0",
+      "title": "기후부, 연내 전력감독원 설립 추진…\"전문성 없으면 옥상옥 될 수도\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1URFVFRGNxOGVRMXFLWG54QUoyVW5uOVFYck42XzN3N29TM1hMdks5NHNfWGlwaWcyQTY4cm9WTUNFdUFxaEM1VFJReV91cHlROFJkQmZ1WVlkZ1VXSHQ4N0xQc2RlRk5KMnNyNXpkYURERk5DQm1TYQ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-29T06:59:00+00:00",
+      "description": "기후부, 연내 전력감독원 설립 추진…\"전문성 없으면 옥상옥 될 수도\" 네이트",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "9080f75198e5",
+      "title": "현대차그룹, 전 그룹사 에너지 절약 확대…차량 5부제 도입 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DcWo4WTl5ejRyOFQyVWZNN3plU21NR2tEelo5UGhMV1RyaXJGeVE5NzJSamxhOHpTZGxQYnNZcWtTbnUxR3Z3ZUp2NDBabVBsWW4w?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-29T06:50:00+00:00",
+      "description": "현대차그룹, 전 그룹사 에너지 절약 확대…차량 5부제 도입 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "2a34ad569e8e",
+      "title": "AI CCTV가 알아서 불끄고, 전사 차량 5부제…현대차그룹 '에너지절약' 동참 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DaVBaT293TE00dDlsNHZrQzF1bXhIT2pTTC1ocG9QR01qX09pdGM1MXE5WGdQczYxd3NfaUpSd2hsVDNKcjM3bTZwa1ZvOHVsR3pZ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-03-29T06:22:00+00:00",
+      "description": "AI CCTV가 알아서 불끄고, 전사 차량 5부제…현대차그룹 '에너지절약' 동참 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "f464ac64c049",
+      "title": "필리핀, 전력 현장 시장 정지, 이란 전쟁이 에너지 공급에 방해 - voi.id",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQOEx2WUE4MmJNMENaSktnNkxHUG5BZHIzakd4TERPdmtVOF81d1VIZVdxOHcyYVlDbmpjYmVHUkgtMERicFlv0gFCQVVfeXFMTmFwUU9UZnhyRGxCQ0dQM0t0MG9iSGR1SUgwNV9BMnJ2WTFjMjFUQlhxQnJCMjN3Y1E0Rlc1NGxvU0pn?oc=5",
+      "source": "voi.id",
+      "pubDate": "2026-03-29T06:07:56+00:00",
+      "description": "필리핀, 전력 현장 시장 정지, 이란 전쟁이 에너지 공급에 방해 voi.id",
+      "category": "전력시장",
       "priority": false
     },
     {
@@ -19,7 +369,7 @@
       "source": "네이트",
       "pubDate": "2026-03-29T05:24:00+00:00",
       "description": "스테이지원엔터, 정기주총서 정관 변경·자본감소 등 안건 가결 네이트",
-      "category": "ESS",
+      "category": "전력시장",
       "priority": false
     },
     {
@@ -33,39 +383,39 @@
       "priority": false
     },
     {
-      "id": "0509a6a6f980",
+      "id": "10e8dbeda221",
       "title": "SKT·KT·LGU+, 정부 에너지 절감 기조에 발맞춘다 - 이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3UXUxMG92SVBIZmw0LTFvNzREUU5NMnlwRnQ4WmRLWS1RUDVhRGN2YnFka0tCRDkzTmlQVFBLRThLdmtuZzFXclpnT1R0cHZZeC1UNFRXVFNvZjJCWnB6amFFVHYxRThIWnRHMjQ0dHBvUdIBdEFVX3lxTE9OOHlhdzZVRUNTeTJfeThSbV81RFJ1akV3YmNPM3J3bXNoWHBBMmsyWm5FeG5BblhraDJOQ2dkazktMDBGNE5fQ1g5aXNLeERyQXpkMmtxVVBQYm5Ya3ljWGZsQ2djdmQtY3hSc0NhU3lkNVdk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOHlhdzZVRUNTeTJfeThSbV81RFJ1akV3YmNPM3J3bXNoWHBBMmsyWm5FeG5BblhraDJOQ2dkazktMDBGNE5fQ1g5aXNLeERyQXpkMmtxVVBQYm5Ya3ljWGZsQ2djdmQtY3hSc0NhU3lkNVdk0gF0QVVfeXFMT044eWF3NlVFQ1N5Ml95OFJtXzVEUnVqRXdiY08zcndtc2hYcEEyazJabkV4bkFuWGtoMk5DZ2RrOS0wMEY0Tl9DWDlpc0t4RHJBemQya3FVUFBiblhreWNYZmxDZ2N2ZC1jeFJzQ2FTeWQ1V2Q?oc=5",
       "source": "이뉴스투데이",
-      "pubDate": "2026-03-29T05:02:24+00:00",
+      "pubDate": "2026-03-29T05:09:21+00:00",
       "description": "SKT·KT·LGU+, 정부 에너지 절감 기조에 발맞춘다 이뉴스투데이",
       "category": "AI",
       "priority": false
     },
     {
-      "id": "c63111986d6f",
-      "title": "“출장은 화상회의로, 업무차는 친환경차로”..현대차그룹, 에너지 절약! - dailycar.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Mamx4eldBZVZES09vb3g3eUJXVDNscllmMG5VcC0wWDdMMEwwdmh3bDRKT085M19CenYwZHFwR28wT0h5UC00SFFRM3IzdC03M3lwaUxaMDJ3WkY3RE9xVFRDRFIyV3ZDeVFjOUg0OGU0WFJSdmc?oc=5",
-      "source": "dailycar.co.kr",
-      "pubDate": "2026-03-29T04:58:22+00:00",
-      "description": "“출장은 화상회의로, 업무차는 친환경차로”..현대차그룹, 에너지 절약! dailycar.co.kr",
+      "id": "0413af9f2789",
+      "title": "현대차그룹, 차량 5부제 전사 확대…에너지 절약 동참 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fYy12U3NkVnpFbEd3ZXZ6YnFJeEFuTW96cS1saUxPYnowbjUxbmR5VnhnU2hnYXhudkZESEcxM1VwV3NqMGNWUGRFSW8xMWJkbXduSVRZb3jSAVhBVV95cUxPX2MtdlNzZFZ6RWxHd2V2emJxSXhBbk1venEtbGlMT2J6MG41MW5keVZ4Z1NoZ2F4bnZGREhHMTNVcFdzajBjVlBkRUlvMTFiZG13bklUWW94?oc=5",
+      "source": "SBS Biz",
+      "pubDate": "2026-03-29T04:38:00+00:00",
+      "description": "현대차그룹, 차량 5부제 전사 확대…에너지 절약 동참 SBS Biz",
       "category": "AI",
       "priority": false
     },
     {
-      "id": "139e7985aaad",
-      "title": "현대차그룹, 에너지 허리띠 졸라맨다…차량 운행 최소화 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mZmoyT09HeUxUb1ZRWk9LMkpEajFiWUpTWWhxc252ZnZJMU13VUliZW1qaEtuVHJqU1pWeEdmeWhtQkxTMjVnaURROHVWYmVRSXA1Z2Vn?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "2026-03-29T04:22:31+00:00",
-      "description": "현대차그룹, 에너지 허리띠 졸라맨다…차량 운행 최소화 지디넷코리아",
-      "category": "ESS",
+      "id": "7c73e55e621f",
+      "title": "김재원 \"철강 위기 해법은 전기요금\"…SMR 도입 필요성 언급 - 포항노컷",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xY3Rvcm1FbmkydTY4VDJSLTI3Z21nTTMxdzVKakVFM1lyUDFkekg2WDY2alpLaTZpVm9jTm9oaFdSRjJDeGFRUWQzRjZrU0Jn?oc=5",
+      "source": "포항노컷",
+      "pubDate": "2026-03-29T04:22:00+00:00",
+      "description": "김재원 \"철강 위기 해법은 전기요금\"…SMR 도입 필요성 언급 포항노컷",
+      "category": "전기요금",
       "priority": false
     },
     {
-      "id": "ef67801ef20a",
+      "id": "d152871e451c",
       "title": "K배터리 '연봉 칼질'…대표까지 전면 구조조정 나섰다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZ2ZDdDhFcUkxT25TZnA5VUZzT3ViNHJwVGltRXlmTURyZ09NX2Fld2plVm1TQzRRVkEzT1k0RzRXR2tFdGVJMUZ2MmtmT1U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGSEVDOU1SazRFdVBua04tZnA2LXV2cUI5ejhNd3JvamdTdExMQ21sX2Q0NE44UmNEMHhkWnBPa2dqbkhhUFE?oc=5",
       "source": "v.daum.net",
       "pubDate": "2026-03-29T03:03:03+00:00",
       "description": "K배터리 '연봉 칼질'…대표까지 전면 구조조정 나섰다 v.daum.net",
@@ -123,16 +473,6 @@
       "priority": false
     },
     {
-      "id": "15f1f8a37c01",
-      "title": "현대차그룹, `차량 5부제` 전 그룹사 확대…통근버스도 수소전기버스로 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93emZyazc5QTY3cWlpTkotQ0RtWXhrZ3pMZTMzT3l5RDdDZ0hzdXN0dEtXakRPVHYxY3ZDQWo3Szc1NXNab0oxdlh0VjE0SnFnXzhCaW9rRjNUbnlsN0ZLcjJnWTc?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "2026-03-29T02:10:28+00:00",
-      "description": "현대차그룹, `차량 5부제` 전 그룹사 확대…통근버스도 수소전기버스로 디지털데일리",
-      "category": "AI",
-      "priority": false
-    },
-    {
       "id": "e182c2ef1978",
       "title": "전력 소모 100배 줄인 '하이브리드 AI' 등장...'에너지 블랙홀' 걱정 '뚝' - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUxIRVQtZ0E3eUFkUWVzSERrSnl3XzFvNGxCSFFkaV9XSWs3Y3hHTU5udVZkQXdPVzcyWUNQVC01bENRWTVabkNKUlRic1pkXy1meDdDZEJTUjlmNmNGdWV5X3dNdzY1MG5Ick14dkdhT0RabHlwMW9EQmZSNE1ubFVIUGVDRVUy?oc=5",
@@ -153,32 +493,12 @@
       "priority": false
     },
     {
-      "id": "bd0fbf7cef9c",
-      "title": "현대차그룹, 에너지 절감 전방위 강화…차량 5부제 확대 시행 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkx3amd0VmNnaE9IM3ozWERrYXZfLTRZZ0VQOUZCc0lwTmlEc3NuSkkxNHJJN1hMbkNsRGtzZWVraVpaSnNPVEprLU9iNVpFVkwzOUJRYXU0ODlOVEZIZ1VsX1hyU0wxX2p5NDA2WE9Way1VaFc0MjVsNFNXVzl1NGd2TVg?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-03-29T01:52:48+00:00",
-      "description": "현대차그룹, 에너지 절감 전방위 강화…차량 5부제 확대 시행 글로벌이코노믹",
-      "category": "AI",
-      "priority": false
-    },
-    {
       "id": "7a03cdbfb2a4",
       "title": "‘로비엔 AI, 빈 방엔 센서’⋯ 현대차그룹, 마른수건 쥐어짜는 ‘에너지 다이어트’ - 브릿지경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtRjJvd2VObi1GTWFSX082M3ZJM2FfbnJpTThHSHlhYVhaMUJpQUFibVZNUmFiVGJsWXlMWWVXanhxcC1GT09XclRQbGNKYV9sYXY5T2tfeDRuZw?oc=5",
       "source": "브릿지경제",
       "pubDate": "2026-03-29T01:49:00+00:00",
       "description": "‘로비엔 AI, 빈 방엔 센서’⋯ 현대차그룹, 마른수건 쥐어짜는 ‘에너지 다이어트’ 브릿지경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "c14dcb4cb4ba",
-      "title": "현대차그룹, 에너지 위기 극복 동참…통근 버스-〉수소 버스 교체 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaUUM3eUYyd2hqTDUwOVhLbDVrUWFxbkx4TzVsYnI5XzdWVk9TeUFjUnMxMlhraTBQeWVTeTVlSDZzN2gxbG1heWw2RlFIUQ?oc=5",
-      "source": "전자신문",
-      "pubDate": "2026-03-29T01:39:55+00:00",
-      "description": "현대차그룹, 에너지 위기 극복 동참…통근 버스-〉수소 버스 교체 전자신문",
       "category": "AI",
       "priority": false
     },
@@ -193,12 +513,12 @@
       "priority": false
     },
     {
-      "id": "1321096b5c96",
-      "title": "현대차그룹, 전방위적 에너지 절약나서…\"차량 5부제 전 그룹사 확대\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvSERDQ1VwMDhTdG5lZXktdUJQMHNjWThuZk9iY1NtdEZ5b184XzUwSDlndXJfZ2F5NlplcGU4bEVwM09DbU9UZFJfM0R6RXJyNmMwUDZzaVBOS0toSkZ3WTIzenN0a3NURFhDQjlWODF4djJvbm0xedIBeEFVX3lxTFBvSERDQ1VwMDhTdG5lZXktdUJQMHNjWThuZk9iY1NtdEZ5b184XzUwSDlndXJfZ2F5NlplcGU4bEVwM09DbU9UZFJfM0R6RXJyNmMwUDZzaVBOS0toSkZ3WTIzenN0a3NURFhDQjlWODF4djJvbm0xeQ?oc=5",
-      "source": "뉴시스",
-      "pubDate": "2026-03-29T01:10:24+00:00",
-      "description": "현대차그룹, 전방위적 에너지 절약나서…\"차량 5부제 전 그룹사 확대\" 뉴시스",
+      "id": "7d91431c9005",
+      "title": "현대차그룹, 차량 5부제 전 그룹사 확대 시행…전방위 에너지 절약 나선다 - 서울경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YTGZRaFpEX1p0YzNUa01FMDFzM0l3LXRfNW80RC1YY1VqdnU4YlRILUlFOUc1U1RaYXFFYXVHV09LeW5UUEFNMXQybmhVaDlfWEHSAVNBVV95cUxQb2tIVmNNVVhKZGJrNTBBOVVzWXcycC1lN1pzTDhlSk9wbFc3bzJGYW1ybTdkaTBYWF9DMWRNYVd3WlJWWXZZcHVydmp5VnZqZGtmdw?oc=5",
+      "source": "서울경제신문",
+      "pubDate": "2026-03-29T01:16:53+00:00",
+      "description": "현대차그룹, 차량 5부제 전 그룹사 확대 시행…전방위 에너지 절약 나선다 서울경제신문",
       "category": "ESS",
       "priority": false
     },
@@ -233,163 +553,13 @@
       "priority": false
     },
     {
-      "id": "60532bfebf6a",
-      "title": "'캐즘' 돌파구로 비전기차 \"정조준\"...배터리 3사, 정기 주총 '일단락' - 청년일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wMDBHYmNwSmVfMWtDMEprWlFHRnpaWjdnSXdRVUY4NGJXbmVuWVUtMXZSR1p3N1p5UkxtR2lPOFI1Q1JKR3BLckR5M1Fkdnlsa25UZXdrR2FGVFh3TFJoSGFQMUFxbUROTVE?oc=5",
-      "source": "청년일보",
-      "pubDate": "2026-03-28T23:00:04+00:00",
-      "description": "'캐즘' 돌파구로 비전기차 \"정조준\"...배터리 3사, 정기 주총 '일단락' 청년일보",
+      "id": "c9fda0434bf0",
+      "title": "[배터리 서바이벌] LG·삼성·SK, 보릿고개에도 R&D 투자 확대 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZbjFYV3dRcnhjbldpVjJrNUY2VTU1MDVIanZkdW9tWEZraVpncElEYWdfVnUxQnBxX3ItX3VkY1lLcUlMUDd6YTllVQ?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-03-28T23:38:44+00:00",
+      "description": "[배터리 서바이벌] LG·삼성·SK, 보릿고개에도 R&D 투자 확대 v.daum.net",
       "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ced7757b4fc0",
-      "title": "[정보운의 강철부대] 기술 아닌 조합이 승부 가른다…완성차·배터리 짝짓기 경쟁 본격화 - kyungjeilbo.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VWVlHeTNFMEJQcmFBamM3enNEWlZRSjlsX3U3SVEwTmZHeVRfNGVFVnZiWi1TeG1ISW1YOExmVVdBZnQ4NDdrNWNtdWhZcEdRbktHVXhXVXBENDZxZ05z0gFbQVVfeXFMUEFETFpLY0Ffd21xdzQ4aTNjR3BqQnFrWG94eFRGYUYzbFJUZW9aakY1TzE5SXh4TlNJbWZCYmdYVW9NQmEwdjNXY1ViMXRJbFhOemNuZER4OWM5WQ?oc=5",
-      "source": "kyungjeilbo.com",
-      "pubDate": "2026-03-28T23:00:00+00:00",
-      "description": "[정보운의 강철부대] 기술 아닌 조합이 승부 가른다…완성차·배터리 짝짓기 경쟁 본격화 kyungjeilbo.com",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7f35b246a641",
-      "title": "[배터리 서바이벌] LG·삼성·SK, 보릿고개에도 R&D 투자 확대 - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxVC12dzZmT2NiZXBGWlFNbUJsMjZ3WnRtSTQ1bl9jT3N1RzQ5UlJ1bC1nUVRxbUlQOVFLbUFYY2RuYURSZExrSEg4Zl9aREZWYXVxdGlYV0pkZGVjTmhzNkpvR1pULVgzZmFmStIBbEFVX3lxTFBxVC12dzZmT2NiZXBGWlFNbUJsMjZ3WnRtSTQ1bl9jT3N1RzQ5UlJ1bC1nUVRxbUlQOVFLbUFYY2RuYURSZExrSEg4Zl9aREZWYXVxdGlYV0pkZGVjTmhzNkpvR1pULVgzZmFmSg?oc=5",
-      "source": "블로터",
-      "pubDate": "2026-03-28T22:13:32+00:00",
-      "description": "[배터리 서바이벌] LG·삼성·SK, 보릿고개에도 R&D 투자 확대 블로터",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e7f0563a9dae",
-      "title": "‘탈원전’ 유턴한 대만, 마안산 원전 재가동 절차 본격 착수 - 에너지안전신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NHpKaW40WDloM1BzUEp4ckV5WFNtdUdBbHIwdG05d3lYNmFuYXBJd2lMOXhwYmpqejd0MG85ZW8yMEdFNDZBRzJZWlJiTFNwanpRbHRpTWVEdWxDbUlULTJYeGE?oc=5",
-      "source": "에너지안전신문",
-      "pubDate": "2026-03-28T21:33:38+00:00",
-      "description": "‘탈원전’ 유턴한 대만, 마안산 원전 재가동 절차 본격 착수 에너지안전신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "6c7be7bab241",
-      "title": "지구상 가장 단단한 반도체가 깨어났다, 전력 효율 5배 폭증시킨 다이아몬드의 습격 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0wtTVRnN0tJUklEcmF5aG9Fb0I2Qmw0dnQxZm8tZG0yT0U3enZpTFlId01XWlhzaWZUVUdGZkJ5NXJjbzlOODB0enZXY0kyMXQ3a2JyRWthSzBVeUhmTnBWaEFWTnZOV0NhQkd6ZjdQRUw1ODV1RGJxbTAtLWtFdU4tVFloTzJE?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-03-28T21:14:09+00:00",
-      "description": "지구상 가장 단단한 반도체가 깨어났다, 전력 효율 5배 폭증시킨 다이아몬드의 습격 글로벌이코노믹",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "c431747a2f99",
-      "title": "[심층기획] 농어촌공사는 왜 재생에너지에 공을 들일까 - 한국농업신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uYU16RDlvS19CMG5FZmF6VGNFLW54YzdKYUdwVWxycVRlM3lnVE1Tb0dyVXFsY3kxZmRHN28zSTFlY0xaT3BSMmZ4bjVXaWhxNDB4ZTg2dFRPTlc3SDNkVlZiM2ctNHNxU1o5ZXR30gFwQVVfeXFMUDlDZFlhdGJrSHhCNTBubGlBclM0bWkwa1FqdGVROVNfM2l1OWNQUUxzdHo5RjkweGJyQW9PTmVZNmdxRW5FRnVIQzlrcTVadGtUc0RfejZOc1dPSUROdzlRNDJFalhwamJSdUlmRVZUVw?oc=5",
-      "source": "한국농업신문",
-      "pubDate": "2026-03-28T21:11:00+00:00",
-      "description": "[심층기획] 농어촌공사는 왜 재생에너지에 공을 들일까 한국농업신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "572c2e30bb99",
-      "title": "트럼프 2기 미국 재생에너지 발전 급성장, ESS 배터리 '전성기' 예고 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMNW5mMlZoR1hXdnRRX28xRGVTYlBsNV9SZVpic3EtT0FEVnc5bk9EaHNsdzFuY3FsMUxfaTEtS3N0QXc5blJjVEpnbE03YkhHbF9CTDZRS010MFlCcjlfeEFWSllGSDBtOHJXWWI4ek1FVHc?oc=5",
-      "source": "비즈니스포스트",
-      "pubDate": "2026-03-28T21:00:00+00:00",
-      "description": "트럼프 2기 미국 재생에너지 발전 급성장, ESS 배터리 '전성기' 예고 비즈니스포스트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fe7465bca32b",
-      "title": "명노현 \"전력 인프라 수요 견고…LS일렉·LS전선 해외 사업 확대\" - MSN",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQTEhuaEZDSjd2RzhvdURaRXhQQThkaVhGVkRpTF82Nk9ONzBKWGZoZnlneU1RVHRQbzVCcnZSTTdjLTJpWjY2Ni1MVnF6b1U5RllnTU5uUjNjdkJUTTBuRG5yQVFQUDFIRV9xVzlFa0FOdXR5LTRycHRjbGVFd1lDSGRuSTBvRVU0c2JHMGRiaTZlYk96VnRKalVEUjZjR1hvY2g0Z0ttV19aMEQ1RndpVG9hdU9MUjBHeUNZblJ4Z0RodktqRXdPbnlFTW1zSkRkOEZqYnhjQVZscmstVEJocm5JOUY2WndOUFZBQ3JnUExYNnpZWGZnZ3V4eHVJUXJYTDh1UVVsRDdrVXk2aUdUZDFEcE5QUF9EWmF1Qk1JTXlVb18wTHpYZlZ6T1dLcU9mMFVldE9pLUZCWjdMZnlSTHJtSGo2bFQ0Tl9LeW5WZ1d4eWZCSGJoOG5GZC1iQW1HS1otc08wNXczM181dDNPWGk0Nk5XTWNUUWdtNnZ6RTM3MFU?oc=5",
-      "source": "MSN",
-      "pubDate": "2026-03-28T17:58:15+00:00",
-      "description": "명노현 \"전력 인프라 수요 견고…LS일렉·LS전선 해외 사업 확대\" MSN",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "e609aa7b55b7",
-      "title": "에너지 안보: 전국적으로 2026년 지구의 날 행사 기간 동안 약 463,000kWh의 전력을 절약할 수 있을 것입니다. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVZHWUhaaHlSVjNiYjctOGVYZnpUYWt4NnVYZnVvcmF4U185bEpCYUl4b1lELVZpQm92QkxwRnAtUFpTQjlHMW8wYUJlN1ozN2ZVemtHaXRqWGhzSDY5RXUzRnBqM3V5ODBVSGp5Tk1qOVVYVnpuNU9PRU4xdjBadkoyeDdLN3BiUUJHVG01N1RTX3VhMmhQcjhlT2hrWFJfcDc4WktPdVE3a2dnTVpN?oc=5",
-      "source": "Vietnam.vn",
-      "pubDate": "2026-03-28T16:15:19+00:00",
-      "description": "에너지 안보: 전국적으로 2026년 지구의 날 행사 기간 동안 약 463,000kWh의 전력을 절약할 수 있을 것입니다. Vietnam.vn",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "747b7fbf4ebe",
-      "title": "비트코인 채굴 업체들이 채굴 시대에서 빠르게 벗어나고 있는 가운데, MARA는 인공지능(AI)에 투자하기 위해 대량의 암호화폐를 매각하고 있습니다. - PANews",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMM21CSmRIZUxJQWFqbEw0cl9HQ0UzdWEyWVRfamxOaUdQWXVRWERYM1VzOTF4X296MWMwbVBBVmlsOG5QdWh3dXRGdGxKN0tlNlkxNXlMSGU2Q0ZwVkgxS2l5U2xIVk50STJSUGlUbHFIUVJ1Wk1XVTZyVlVLYTA?oc=5",
-      "source": "PANews",
-      "pubDate": "2026-03-28T15:47:00+00:00",
-      "description": "비트코인 채굴 업체들이 채굴 시대에서 빠르게 벗어나고 있는 가운데, MARA는 인공지능(AI)에 투자하기 위해 대량의 암호화폐를 매각하고 있습니다. PANews",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "d4e9ba770b78",
-      "title": "“기름값 2000원 시대 무섭다”…다시 주목받는 이 종목들 [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FSDVoTThSRHJ5RGltNGxEZmN2VEZuTTgtdTYxajk0Q0QxUGw2ay02UmFPQWRfZWtnSUhoOUh1TDVabmpKSTFVUUI4OXMwYldjb2MtUU1R?oc=5",
-      "source": "헤럴드경제",
-      "pubDate": "2026-03-28T15:22:07+00:00",
-      "description": "“기름값 2000원 시대 무섭다”…다시 주목받는 이 종목들 [투자360] 헤럴드경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "77b055f034a6",
-      "title": "제주TP, 농업 분야 RE100 실증 참여기업·농가 모집 - 뉴스N제주",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSeC13WVhUcWhXY2V4M2pzc3RzRlFHQ2Y2cDB6R05yTHBMUTJmRmZWTmRodnY5OUxfQXB2RmF0WjRIWHE2TW1fOS1OYS1TanpWUzN3Y0g3Vjd6VXMyRlVFeG1EZl9FbXV6bEhJ?oc=5",
-      "source": "뉴스N제주",
-      "pubDate": "2026-03-28T14:14:00+00:00",
-      "description": "제주TP, 농업 분야 RE100 실증 참여기업·농가 모집 뉴스N제주",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "bc80e03b3957",
-      "title": "유안타증권 '효성중공업, 이익 성장 가시성 주목…목표가↑' - 뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51Yi14ZTVaUjE0czlSZmVQRC1LYTEzWHZDeVh0eUQ2eFdJY1NsTnJVRkVIanV4R0F2NS1Hdk53M2VHbnZtTzFPQ3B5b3ZxS1VFa0xuSnJheUVkNGRpMFFES3JsLV9IZFRWSWVtQVd2TTJxUjg?oc=5",
-      "source": "뉴스통",
-      "pubDate": "2026-03-28T11:19:39+00:00",
-      "description": "유안타증권 '효성중공업, 이익 성장 가시성 주목…목표가↑' 뉴스통",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "ce9b47098b8e",
-      "title": "와이엠텍 투자분석 2026. 03. 28 - 주달",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WSXpNOE9OWnpCblhsU3VDMEtfaGQ1U1NCZnZwZWhsdk9EVmMxY0dyYXBfbno3MHBmc2ZQTWRqSmpEZkd6LS01dHNwYnNoaXVzaUtmWEFqQ2xPWWtEdl80M2x4RDU3My1xYVh4TXV6ZlZta00?oc=5",
-      "source": "주달",
-      "pubDate": "2026-03-28T10:35:51+00:00",
-      "description": "와이엠텍 투자분석 2026. 03. 28 주달",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "3658540c964f",
-      "title": "김용범 '리튬 우려'에 새삼 'LFP' 눈길...'SDI·엔솔·퓨처엠', 이미 전쟁 중 - 파이낸셜포스트",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jN0FBUkVfcWhyeGJVazBOcUdCYjdNUkdsSXpKb0VURl9ncmdFM1pWNTZNYlQ4dVo0ZnRBSHFhNzFIeXZBdXhaUFhNQVJ6d3NyajdDTTlyMUZvVVVDeHQ0dGVad3lZVEJBTzRTUDZxcDBvb01k?oc=5",
-      "source": "파이낸셜포스트",
-      "pubDate": "2026-03-28T09:24:37+00:00",
-      "description": "김용범 '리튬 우려'에 새삼 'LFP' 눈길...'SDI·엔솔·퓨처엠', 이미 전쟁 중 파이낸셜포스트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "eaf8e56e3db5",
-      "title": "[2026 한-미 전력망 포럼] 존 토메이 메이어 브라운 파트너 '한국 기업, 핵심 플레이어될 수 있어' - 뉴스통",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkVIY21Ta3VIXzdkdFdGUDZFQkxBX280N1dxYmJCdjdaNFg5Y2hqdWo1WmpKZEhiY0tvNkJ0SUo0c1N1QXBkcFhfQ1R0LXZLMmlaLUg2SkpoWHc0cmVRaExINGR5WUo5TEJNNDBlWENjS2d6dnlSU3RYSUJUa3lJcjV1RXJsSEQ4aUowMG5tanFUaGxZVnRpNFJFYnBxVmhhWFlST0RuQTNJalh0MWR1VWFlLUNIYl9HWVJqaVNXbl9zTUxOSkhR?oc=5",
-      "source": "뉴스통",
-      "pubDate": "2026-03-28T06:26:05+00:00",
-      "description": "[2026 한-미 전력망 포럼] 존 토메이 메이어 브라운 파트너 '한국 기업, 핵심 플레이어될 수 있어' 뉴스통",
-      "category": "AI",
       "priority": false
     }
   ]
