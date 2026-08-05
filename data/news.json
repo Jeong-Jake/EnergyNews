@@ -1,16 +1,586 @@
 {
-  "lastUpdated": "2026-08-05T16:31:04.594262+09:00",
-  "totalCount": 121,
+  "lastUpdated": "2026-08-06T08:44:22.220014+09:00",
+  "totalCount": 131,
   "articles": [
     {
-      "id": "14418b04ff53",
-      "title": "가정용 배터리 분산망에 1조 투자…베이스파워, 가상발전소 시대 앞당긴다 - 유스연합",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPZy1UMlViR3N0MHBheXYtamY3cUxHVXlRS0RhU1VKdXlUbW00clZvSC1CTjBXVXdMY3FtcUdtQlpTTm1uekxpdUlSYW1UaW8yWEE?oc=5",
+      "id": "64257a4a6d70",
+      "title": "LS일렉, 차세대 ESS 핵심장비 양산…글로벌 시장 공략 본격화 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yUWxwOGJPa04xbTdHbjl6cFdXZlc1YWJ0TTNscEVPcUdEZGNJbmNxTkNmUFphSjZfdU9nUWJXckt1QllkbXB4OUdZY1BWMERnVHBrTWZESWdsRnJnTjlORHJncHVLbGVSaTVBbzFFXzA?oc=5",
+      "source": "신아일보",
+      "pubDate": "2026-08-05T23:24:13+00:00",
+      "description": "LS일렉, 차세대 ESS 핵심장비 양산…글로벌 시장 공략 본격화 신아일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "51a39ef3c565",
+      "title": "미국, AI 공급망 '탈중국' 전방위 확대…데이터센터 핵심장비까지 수입 제한 추진 - 폴리스TV",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yM2hyVzBodkdUTjNlTExEa29DdnpnZGRoRlNIb0lBNG9HWmFHNUZMZEo0NUpzVTVaMWlmcExuODJyaGcwVlE1MHVMNm1GcllQTzhiSEh4WkU5RlEyNEJGWG1LMEpvM2RidGdz?oc=5",
+      "source": "폴리스TV",
+      "pubDate": "2026-08-05T23:22:23+00:00",
+      "description": "미국, AI 공급망 '탈중국' 전방위 확대…데이터센터 핵심장비까지 수입 제한 추진 폴리스TV",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "3150068463e0",
+      "title": "LS일렉트릭, 차세대 ESS PCS 출하…글로벌 시장 공략 본격화 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12dmF6RUJxalRWaFYweVA4Q1V1NzRwWjdwcGhQNkRFQlh4bVU0enl1UE9yVFVnRVJjb0Fzdmk2WlNEcDRFVkIybTNNQnZSbjRVcHFrRXBCVHViaUNVT1djbw?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-08-05T23:16:00+00:00",
+      "description": "LS일렉트릭, 차세대 ESS PCS 출하…글로벌 시장 공략 본격화 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "9cc1cd9dcbf0",
+      "title": "SMR 입지·거래 규제 좌우할 시간, 딱 2년 [린의 행정과 법률] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVkUycGk3X2tCSVZWTnp1bkZ0R2VMNTFTZDhyUklmS3V6QkhhZW9NVjVEeXJ2SV9wSDZsdV9rOWE1dXBCNEkwd0tMOFRHc1E2V1Q3aVpfaEg4QQ?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-08-05T23:13:45+00:00",
+      "description": "SMR 입지·거래 규제 좌우할 시간, 딱 2년 [린의 행정과 법률] 한국경제",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "0398f3a977e6",
+      "title": "LS일렉트릭, 차세대 ESS용 전력변환장치 G2 첫 출하 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hNk1wREFuOEtQVHRmQWw2ZVV6MS00SnREaGtLUm5LdGJabXhIbWpBWkVBbXV6anpWbWNSYTFkaGFQZFdORUsxQzRIdG9PLTIxYWtDMjlUeWRzZEp6b0R0MQ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-08-05T23:09:00+00:00",
+      "description": "LS일렉트릭, 차세대 ESS용 전력변환장치 G2 첫 출하 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "61649bf2c335",
+      "title": "지엘리서치 \"탑머티리얼, 배터리 수요 대응…전극·양극재 성장 기대\" - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTXVoQ3VWYlN5YkVfMzc1WE1PX1Y4ajkxamxIVG00YmtyWDZaWDlwUGxlbnpHVGhfdVl3b1o1bURDVWlZdzBCazVnY3BBNGJxUXZKNWRMWUk5NDN5SlQwZWM0U3ZyV2NybXFNN1BxNW9LdWpi?oc=5",
+      "source": "이투데이",
+      "pubDate": "2026-08-05T23:01:00+00:00",
+      "description": "지엘리서치 \"탑머티리얼, 배터리 수요 대응…전극·양극재 성장 기대\" 이투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ebdfd4033b7d",
+      "title": "LS일렉트릭, 차세대 PCS ‘G2’ 필두 글로벌 ESS 시장 주도권 강화 - 테크월드",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EYktOV2xXRkZrWUM5cWJ2ZkMxbzNKbzRVSDUxcEdIdDdoeGJKWlFSZnNSazc5enVmMEN2d2FObnMzRHFUZDUwSDM3Z1RBblVkMG1McF9HYXdhckxabFhvRHd4Nkp2czhH?oc=5",
+      "source": "테크월드",
+      "pubDate": "2026-08-05T23:00:00+00:00",
+      "description": "LS일렉트릭, 차세대 PCS ‘G2’ 필두 글로벌 ESS 시장 주도권 강화 테크월드",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c3dafb186309",
+      "title": "LS일렉트릭, 차세대 ESS용 전력변환장치 양산 본격화 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rUDd3d0xnd0xNN1MwYkp3VnFta1RXM2VtU2o5c2thTElzLUk4MVBwMElfSGRoOEoyMG8yZ0lrb1c0eTdPQ0ZmQWg3QVI2Y3IySFhjVUo0NXRIRVZSMmh2RHNhMjBLUmhfVHVV?oc=5",
+      "source": "라이센스뉴스",
+      "pubDate": "2026-08-05T22:57:22+00:00",
+      "description": "LS일렉트릭, 차세대 ESS용 전력변환장치 양산 본격화 라이센스뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "00507a79d6c8",
+      "title": "LS일렉트릭, 차세대 ESS 전력변환장치 'G2' 양산·출하…글로벌 시장 공략 가속 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZllLa1p5dGRrVmVuQ1diM0I2MGhYUWtTemxJM1Nhb0ZLV2NuQ0dJYzJKOWh3U09JOFRXNHVzSTBRNHlvVjJGWldreHJHVDhWcVl0SUJNcTJhWVNWRGlYVA?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-08-05T22:45:00+00:00",
+      "description": "LS일렉트릭, 차세대 ESS 전력변환장치 'G2' 양산·출하…글로벌 시장 공략 가속 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e4a47616056c",
+      "title": "K배터리 2분기 흑자 전환했지만...일회성 걷어내니 '절반의 성공' - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zSG9PWm1IZy12al84OU05SUxyUGlRek12NzZFRWxBZ285WEhKTW1WSkRrSGJDako0TUYtanNPdVRBemtpV0JxdElGdTZrWGRoaUFzLXNMQWk3bl8xOHZOVnRKZ3dwdEViU2Y2dEJCaFliQ0k?oc=5",
+      "source": "디지털투데이",
+      "pubDate": "2026-08-05T22:30:00+00:00",
+      "description": "K배터리 2분기 흑자 전환했지만...일회성 걷어내니 '절반의 성공' 디지털투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "3b8e698f8343",
+      "title": "'32조 CATL'의 벽…K-배터리 3사, 턴어라운드 불구 매출 절반 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3S2oyYV9QQlZzR2xSYzFnUTNtNVBRTmFVcGt6UXVWekFhd3pmS0NBZ0Q2NFlZcW1NNmM3bnRMOHY1YTdTQWRyaEtvdndFcmJNWXVNNnNyaHdWaUtTNmt6WEVzaWl5MER1aTE1N2dlSFQ?oc=5",
+      "source": "신아일보",
+      "pubDate": "2026-08-05T22:20:00+00:00",
+      "description": "'32조 CATL'의 벽…K-배터리 3사, 턴어라운드 불구 매출 절반 신아일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ecfc2b40de0f",
+      "title": "[N2 포커스] 포스코퓨처엠, '배터리 선생님' 된 이유는…'소통 실험' 눈길 - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiVFhFSEJYZzVTSk9YR1E4YzI3MnV0VFNTcGVNVHFiVTNVcEt1MFgwNWNVMnVjVGJBOFFDWl9iU19JOVRjSTlHRDJST0YxdVFhZXZYY0FRcmNsUXBLTXc?oc=5",
+      "source": "뉴스투데이",
+      "pubDate": "2026-08-05T22:00:45+00:00",
+      "description": "[N2 포커스] 포스코퓨처엠, '배터리 선생님' 된 이유는…'소통 실험' 눈길 뉴스투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "93afacb53c31",
+      "title": "\"3대 메가 프로젝트 성공하려면 원전 건설 계획 내놔야\"[김상연의 Deep Into] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OWl9NZW93cW85VXkyVUlGdkRoaEhXZVBNUjNON0wtMEZEa0NlOFZPN1VKWm9MaGNNenpzZ2V5aW4yUWtobU9YZ2hucVc4d1RtUFNubzI4T1BSWU9FbVY2Qw?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-08-05T20:14:00+00:00",
+      "description": "\"3대 메가 프로젝트 성공하려면 원전 건설 계획 내놔야\"[김상연의 Deep Into] 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "cf1868bf0d84",
+      "title": "수소·배터리·태양광·스마트 그리드까지… ‘스마트 에너지 위크 2026 가을’ 참관 등록 시작(From Hydrogen and Batteries to Solar and Smart Grids… Visitor Registration Opens for ‘Smart Energy Week Autumn 2026’) - 글로벌휴먼타임즈",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jbjZqanU5ZExzbnNoUFNkeDlaMDRTdVlEa1U3SzJCSFZ4QW04eEE1M0I0VTk2SGY3dURBOEt6N3BlcnR1N3R0VFJZN3ExeXpxaUpMdWhxQmJIZVppbjI0bDZaR3BMTm9KT0pURzBZMzMydw?oc=5",
+      "source": "글로벌휴먼타임즈",
+      "pubDate": "2026-08-05T20:11:22+00:00",
+      "description": "수소·배터리·태양광·스마트 그리드까지… ‘스마트 에너지 위크 2026 가을’ 참관 등록 시작(From Hydrogen and Batteries to Solar and Smart Grids… Visitor Registration Opens for ‘Smart Energy Week Autumn 2026’) 글로벌휴먼타임즈",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "670dc0a83019",
+      "title": "[열린송현] 3대 메가프로젝트의 전력공급 방안 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfVk40ZHhreGJxMEhGYlFoajRfa0NtOERueUFPV3pnY0g4UmRSeWFGNW54OGtLNjNUeVZSRVJMQkJNanR4RXc2Q0NtbERIVURhUjBF0gFTQVVfeXFMUF9WTjRkeGt4YnEwSEZiUWhqNF9rQ204RG55QU9XemdjSDhSZFJ5YUY1bng4a0s2M1R5VlJFUkxCQk1qdHhFdzZDQ21sREhVRGFSMEU?oc=5",
+      "source": "서울경제",
+      "pubDate": "2026-08-05T20:00:00+00:00",
+      "description": "[열린송현] 3대 메가프로젝트의 전력공급 방안 서울경제",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "9d0cc0d53d83",
+      "title": "전력장비도 AI 덕 톡톡...지멘스에너지 실적 신기록 행진 · 비결은? - supple.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DV2lEekY4MTJlaDYtbWpsdkpvX3VOckNydFVVNDRGeWpBb19hLUhrVzFFUF9TdXBKNjFsM2p4QndTMHotcS1YdlM3QldqdEpWZE12S1hTc1R4bFJw?oc=5",
+      "source": "supple.kr",
+      "pubDate": "2026-08-05T19:30:29+00:00",
+      "description": "전력장비도 AI 덕 톡톡...지멘스에너지 실적 신기록 행진 · 비결은? supple.kr",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "879ec8a854e3",
+      "title": "수소는 전력망의 유연성 근육이다 - 유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02Zm14dE5ldlZVRWdBMWtKS2lVQ2ZIc0R4aU9lT0hGTEplQWFkMzNJYTFEa3hZNzhsRm11OTZpZXZQYURjOFhQR1NCWmg2N1VzeVE?oc=5",
       "source": "유스연합",
-      "pubDate": "2026-08-04T17:19:46+00:00",
-      "description": "가정용 배터리 분산망에 1조 투자…베이스파워, 가상발전소 시대 앞당긴다 유스연합",
+      "pubDate": "2026-08-05T19:18:35+00:00",
+      "description": "수소는 전력망의 유연성 근육이다 유스연합",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "b7a23ba8e84d",
+      "title": "수소, 전력망 유연성 자원으로 재조명…KIST 이관영 단장 \"재생에너지 간헐성 극복 열쇠\" - 유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Od1pvNHdoQXhHQjlGRkpLWlZENF9uR2pZSkZBeXhHWW1qdnJkNE95MWFWUWFXN3VkWmZ4VmQyZ2VZNjN3OC1lSE9vbEZkR1BNUVE?oc=5",
+      "source": "유스연합",
+      "pubDate": "2026-08-05T19:15:28+00:00",
+      "description": "수소, 전력망 유연성 자원으로 재조명…KIST 이관영 단장 \"재생에너지 간헐성 극복 열쇠\" 유스연합",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "428ace32790d",
+      "title": "직접 전력 거래 메커니즘이 시스템에 통합되면서 기업들은 수조 동을 대규모 프로젝트에 쏟아붓고 있습니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEd5Y1pqeWhJQUM1bDdaVXRlZ1RyVFdXS2o1TURxNG04eGRlcmwwTG5NSnlJWGY1ZURSSDdhVDBCZkpfUVJxNy03SG5vRkFDeWREMFJ3LW5oYzJad1RsRHc2YWx1d3BmNklWUWhtOWtLcUxlbVhkVXF5Vnk2THI3YnJTTF9FV3IzNlVaZlNBbjE3a2NRYXdXMHA5ZElFa3U3VngwZA?oc=5",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-08-05T18:20:19+00:00",
+      "description": "직접 전력 거래 메커니즘이 시스템에 통합되면서 기업들은 수조 동을 대규모 프로젝트에 쏟아붓고 있습니다. Vietnam.vn",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "cd83feb61a6a",
+      "title": "수소·배터리·태양광·스마트 그리드까지… ‘스마트 에너지 위크 2026 가을’ 참관 등록 시작 - 스포츠 피플 타임즈",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wdkc2R281SG1kTzBBR1JQdS1rTy1mcUo1aDNyYm84TklfeWJ1dWwzTWJwend5YzM4cWdPUG1nZzg4Yml0S1pqTGl0VEpCdm4yRlBrWU9PMUM0VHZ4eHl3WlctM0RpckhvYkQ0UzdUcUJBWUc5RjJN0gF3QVVfeXFMTTB2RzZHbzVIbWRPMEFHUlB1LWtPLWZxSjVoM3JibzhOSV95YnV1bDNNYnB6d3ljMzhxZ09QbWdnODhiaXRLWmpMaXRUSkJ2bjJGUGtZT08xQzRUdnh4eXdaVy0zRGlySG9iRDRTN1RxQkFZRzlGMk0?oc=5",
+      "source": "스포츠 피플 타임즈",
+      "pubDate": "2026-08-05T17:38:55+00:00",
+      "description": "수소·배터리·태양광·스마트 그리드까지… ‘스마트 에너지 위크 2026 가을’ 참관 등록 시작 스포츠 피플 타임즈",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "4c5dfc719bed",
+      "title": "2026년 상반기 ESS 배터리 출하 71% 급증…CATL 1위, 한국 기업 성장세 뚜렷 - newsyonhap.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1cEQ1cjR5ckJwd1o2M3hvQmxqeEFkOXB2T0NjRm5tN1VKSm5UcjZwOU1SU2Uta1piWXBFUU9nZHVGblE4S0xnYmtR?oc=5",
+      "source": "newsyonhap.com",
+      "pubDate": "2026-08-05T17:27:33+00:00",
+      "description": "2026년 상반기 ESS 배터리 출하 71% 급증…CATL 1위, 한국 기업 성장세 뚜렷 newsyonhap.com",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b84a3998a7a5",
+      "title": "[쿠키과학] KAIST, 대용량 배터리 전해질 생산시간 단축 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CNHdRbzBTWG9uaFZGUW1ZbGd4RWJhMHR3ay1heEREMGpxQ2pOYW95Z09RcU5rYmhKMklCcnVxaFZkOV9maURBVDQ5NUUyU2w5YTFkRUJoTHUtRHpONnpUYnBTZw?oc=5",
+      "source": "쿠키뉴스",
+      "pubDate": "2026-08-05T17:23:02+00:00",
+      "description": "[쿠키과학] KAIST, 대용량 배터리 전해질 생산시간 단축 쿠키뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "1456bd3af306",
+      "title": "2026년 상반기 ESS 배터리 출하 71% 급증…CATL 27% 점유율로 선두, 한국 기업 고성장 기록 - newsyonhap.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55el9sTVpPM0tNM0ptQVAtOHp3YW5La2hOVnJScE5RVWlCOHFSb3U3NXRoZHQ0ZE9wSW5rTUZIQzlsSERoZWdxS1dB?oc=5",
+      "source": "newsyonhap.com",
+      "pubDate": "2026-08-05T17:17:31+00:00",
+      "description": "2026년 상반기 ESS 배터리 출하 71% 급증…CATL 27% 점유율로 선두, 한국 기업 고성장 기록 newsyonhap.com",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "27c28fe41354",
+      "title": "AI 시대 전력 대란 막는다…미국 에너지부, 전력망 현대화 이니셔티브로 디지털 전환 본격화 - 유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90ZHBvd29nMDljbGVkRnl5VWJfTFRhaEFJVDhScW80dTlhcDl5cXpFb2VOWEQwM1Y3RnNZMzFkZEY4c2VSYWItZ1FxMXFSc2V2M1E?oc=5",
+      "source": "유스연합",
+      "pubDate": "2026-08-05T16:33:47+00:00",
+      "description": "AI 시대 전력 대란 막는다…미국 에너지부, 전력망 현대화 이니셔티브로 디지털 전환 본격화 유스연합",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "d276d6fe8a1f",
+      "title": "미국 DOE의 전력망 현대화 전략, AI 시대 전력 수요 급증에 맞서 스마트 그리드 재편 박차 - kcemedia.com",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCYS1ZUWUxVXlOSjFOWWg3S1dCQXRPdENHN05jaTU1VEhlVnhNNmR1X1VOMEpyc3R4aUxyZ3U5bmNhdE0?oc=5",
+      "source": "kcemedia.com",
+      "pubDate": "2026-08-05T16:30:24+00:00",
+      "description": "미국 DOE의 전력망 현대화 전략, AI 시대 전력 수요 급증에 맞서 스마트 그리드 재편 박차 kcemedia.com",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "c207f128e278",
+      "title": "성균관대 엄숭호 교수 연구팀, 버려지는 DNA로 차세대 아연 배터리 성능,수명 대폭 늘린 친환경·고성능 양극 소재 개발 성공 - 국민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KMmp1WWUtZ0I0NUI4djEzdGotLVRZdk9NSnQxQ0dLZWZuRXJCSHVlYXBRWDRTS0JHLU1PWU5Kc1ZqWS1EVU9Ya0tR?oc=5",
+      "source": "국민뉴스",
+      "pubDate": "2026-08-05T15:02:00+00:00",
+      "description": "성균관대 엄숭호 교수 연구팀, 버려지는 DNA로 차세대 아연 배터리 성능,수명 대폭 늘린 친환경·고성능 양극 소재 개발 성공 국민뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2cfac1b41f56",
+      "title": "터널 나온 한국 배터리, 본격 반등 가능할까 [아침을 열며] - 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1seGZ5UTROQ182cEtPRlpLTF9DWmFMY1JJd2Q4OThDYkpNT0NBSllkUnYtSk5Nd1oyN1lOaFhHR1FLdG5XeDZVVnk5QlpOR2dhMjJYbktOeVB2V1VmZ0pJWjJsb3ZKZk5tUDAweE5nUFJnUDjSAXNBVV95cUxNbHhmeVE0TkNfNnBLT0ZaS0xfQ1phTGNSSXdkODk4Q2JKTU9DQUpZZFJ2LUpOTXdaMjdZTmhYR0dRS3RuV3g2VVZ5OUJaTkdnYTIyWG5LTnlQdldVZmdKSVoybG92SmZObVAwMHhOZ1BSZ1A4?oc=5",
+      "source": "한국일보",
+      "pubDate": "2026-08-05T15:00:00+00:00",
+      "description": "터널 나온 한국 배터리, 본격 반등 가능할까 [아침을 열며] 한국일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "44ebc2910d9e",
+      "title": "SK온, 분사 이후 최대 흑자…진짜 턴어라운드는 하반기 ESS에서 판가름 - 이코노미톡뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aX3dXV2pvRkR4X2l3cW1XYU83LVV0SlFLLS1MVk5NUzViMkktRjFva2Z3WFhyVG5KSVN4b2ZWYzNOYzRnSmNWNVY1Q1RwRDJUSGJORzU1d0gzZXdJNnJiVEI2S3lxalRiTHdLWg?oc=5",
+      "source": "이코노미톡뉴스",
+      "pubDate": "2026-08-05T13:00:19+00:00",
+      "description": "SK온, 분사 이후 최대 흑자…진짜 턴어라운드는 하반기 ESS에서 판가름 이코노미톡뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e13b3cc251de",
+      "title": "경북도, 공정한 “지역별 전기요금제”실현 토론회 개최 - hgnet.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3NWs4UHBYZER6TmNVTlJqTHprUi12SktvbnZmYm1vejR5U0NKRGNvYV9GN2tBMTFKSUNmR1BlTXFYMkpnZHZaYkZRWXc?oc=5",
+      "source": "hgnet.co.kr",
+      "pubDate": "2026-08-05T12:10:27+00:00",
+      "description": "경북도, 공정한 “지역별 전기요금제”실현 토론회 개최 hgnet.co.kr",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "8e0f7dc9fdbc",
+      "title": "전력 나눠주는 인천 ‘특별한 차등 요금’ 적용될까 - 경인일보",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NWdTejgyQkc2VDlRQ1ZVaVZMRDhSTG9XR2c2ZEJRSXNaa2pfOEN4akZSb054ZHphR3dZYVNGUkhmd3RMcHFTa0luTUo5Nldja2c?oc=5",
+      "source": "경인일보",
+      "pubDate": "2026-08-05T10:53:19+00:00",
+      "description": "전력 나눠주는 인천 ‘특별한 차등 요금’ 적용될까 경인일보",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "dca44933831c",
+      "title": "산업 전기요금, 하반기 전국 4개권역 나눠 차등해 인하하기로 - 경북신문",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0R2hhVXJvdWZwNGVpT2FKNHQ2a2E4SUQ3ZjdQaEtvMnVrSGVHRmU1M1BHUWsxaDRESkxJOVNPVkt5cmh1a3daUV9XMlh4Q2hmUFJTeXFvLXA?oc=5",
+      "source": "경북신문",
+      "pubDate": "2026-08-05T10:45:15+00:00",
+      "description": "산업 전기요금, 하반기 전국 4개권역 나눠 차등해 인하하기로 경북신문",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "ce53d100985b",
+      "title": "경북, 원전 혜택있나…산업용 전기료 4단계 차등화 - kyongbuk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tNFpfa2w3S0VMWTg3cUJPU0NiYjBlNGo1RVZGU210NWtCSE1aUXdzblA5NGdpaEZvOENXWl92TlpoakpqOVIxSy1FMjR1LXZEY0owaS13SkozbVBRcDg3c3Zmc1MxbTBnRUZ5NG5MSQ?oc=5",
+      "source": "kyongbuk.co.kr",
+      "pubDate": "2026-08-05T10:02:01+00:00",
+      "description": "경북, 원전 혜택있나…산업용 전기료 4단계 차등화 kyongbuk.co.kr",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "48971e75d802",
+      "title": "2개분기 연속 영업이익률 30%대 통영에코파워…HDC “안정적 수준으로 관리” - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LS1hQa3ZQQTF4RkI3MEdValNjVEZEb1FwY0lSOUJ3TWV4T24zbVp6eTJvQ19ua3VaWTVaakdtZGxaT3ZZMU16Y0FKWXg5WkpabEl6OU8tVE9Za2RURC1selE0Q3dyR3picVVEdG5n?oc=5",
+      "source": "아시아투데이",
+      "pubDate": "2026-08-05T09:26:34+00:00",
+      "description": "2개분기 연속 영업이익률 30%대 통영에코파워…HDC “안정적 수준으로 관리” 아시아투데이",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "27d13b85ecb9",
+      "title": "K배터리 소부장, 미국 ESS 공급망 현지화 확대 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTBhcWFZRDVrb2VyaWY4Tm9qOGd5b2xXMTRHNWlSVGV2NWtNMTN2eXZNOWQxM2l3LUhpX3lVaEJtNmIzcXp6aHp3QzVWSTVkX0dTdWpwaGl4TUxrV3FyUGtjd3pBZmt3RURGN1lRSF9YQWlyUnhsLVBlVXd5S1dNYUFlNXdHU3pPOFJjREphWUtHck5yNXc?oc=5",
+      "source": "Traders Union",
+      "pubDate": "2026-08-05T09:12:27+00:00",
+      "description": "K배터리 소부장, 미국 ESS 공급망 현지화 확대 Traders Union",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c5b62b63b8f6",
+      "title": "“美 ESS 시장 잡아라”…K배터리 소부장 잇단 현지화 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIaDZQTGwzcGVtdDBNT2dSTzVVbHNkYVRLRmxzS0hQMEN3VGtaSTNDWkZwdGxoak5raVlxOFVobHppRUJiWkQ4MkFMRFNoWlAyQi1r0gFTQVVfeXFMUEhoNlBMbDNwZW10ME1PZ1JPNVVsc2RhVEtGbHNLSFAwQ3dUa1pJM0NaRnB0bGhqTmtpWXE4VWhsemlFQmJaRDgyQUxEU2haUDJCLWs?oc=5",
+      "source": "서울경제",
+      "pubDate": "2026-08-05T09:06:18+00:00",
+      "description": "“美 ESS 시장 잡아라”…K배터리 소부장 잇단 현지화 서울경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "dcafc7606478",
+      "title": "\"전기료 폭탄 피하자\"… 코레일, 싸게 사고 똑똑하게 달린다 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mRXkwU3lsQmVyNE5Bamk0RGQ3S0hBUTh0Zml2X1NPWl9sNFJWaGo2VWo5emVZVGRoUmtXWmxnTkM0NDVwYWpCVGlURC1nT2o2QldpeUVzd09IQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "pubDate": "2026-08-05T09:03:01+00:00",
+      "description": "\"전기료 폭탄 피하자\"… 코레일, 싸게 사고 똑똑하게 달린다 파이낸셜뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "d839c0fb294c",
+      "title": "[신지아의 산업예보] K배터리 3사, 국내 LFP 생산 경쟁...AIDC·3차 ESS 시장 정조준 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVmMyNFZhTVUwaWxKUmh6RmdTaThWSXN5ZUJacHlkRzlsb2VqUHplX1pFeWVpSWRadDZjXzlCdXJrOVNYaVhNQTZuZS1fQnZ0ZW9MaGNpLURlZ9IBWEFVX3lxTE1YMWxHamRVamlZLXRpNF9qemQwQXVQRUZDRU1OenJVOENMZlFtcFFDZU0tdHFfcElXakRXbjhvVnFsMEhseGVTNjl3RHAxTlVFdW5nZGVhQmI?oc=5",
+      "source": "아주경제",
+      "pubDate": "2026-08-05T08:41:31+00:00",
+      "description": "[신지아의 산업예보] K배터리 3사, 국내 LFP 생산 경쟁...AIDC·3차 ESS 시장 정조준 아주경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "cd648150f042",
+      "title": "주요 철강사 전기료 부담, 실적 반영 현실화…\"글로벌 경쟁력 위한 요금 완화 시급\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iUWM3YlpWOHpBcUFaNzV5OGtwWm5xXzY3ZF9tai1SNllaVURaSkdWYTdSRWthc2xrSVZHQ3pwcW8wV1FqblZTN2RQQno2UzU2Rm9nQWJ6TmJ6aV9wNWVWeQ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-08-05T08:38:00+00:00",
+      "description": "주요 철강사 전기료 부담, 실적 반영 현실화…\"글로벌 경쟁력 위한 요금 완화 시급\" 네이트",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "dcbd70730949",
+      "title": "삼성SDI, 국내 공급망 넓혀 1조 ESS 사업 잡는다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52MG9jWkp6dThjQ01GSkdsLUVFcGZPS3J0U3FSOUxuSFlyNERsM2tPdEFhaTY1RGoyeDJFbGZIeDFWNkJtcHVFOVdPajNjbGVnWk5aZ1V6azU1Wm9LenpjUQ?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-08-05T08:34:00+00:00",
+      "description": "삼성SDI, 국내 공급망 넓혀 1조 ESS 사업 잡는다 네이트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c154e375a55d",
+      "title": "케이엔에스, 13억원 규모 46파이 배터리 자동화 설비 수주 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CbVFTRmdzeTRlWWVzVXd2cE90eC1mcW9FWWZKR3FBNTMyZ3ZJOGktWVl6SG1XWHJYa0Zia2RGV3k5SkY0SUd2VTl4eXFTM1RxRkFTc3JjSmw4YjMw?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "2026-08-05T08:33:00+00:00",
+      "description": "케이엔에스, 13억원 규모 46파이 배터리 자동화 설비 수주 뉴스핌",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "28414afdc3f4",
+      "title": "흑자는 같은데 이유는 딴판…배터리 3사 2분기 실적 이끈 3색(色) 열쇠 - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5heUNOVTBHQmozZUgzV2xjN2VmMTk0X01teGZpVXozXzJUZ1owTmV4RWh0RVVxS0Vtd3VIZHBEVXlQMDNzV3dtejJjMEt6dFltRjZ5MTMzeDBEQVU5d0VBajltMFIxMVlvb1JNb3Fvb0hlZDDSAXNBVV95cUxOYXlDTlUwR0JqM2VIM1dsYzdlZjE5NF9NbXhmaVV6M18yVGdaME5leEVodEVVcUtFbXd1SGRwRFV5UDAzc1d3bXoyYzBLenRZbUY2eTEzM3gwREFVOXdFQWo5bTBSMTFZb29STW9xb29IZWQw?oc=5",
+      "source": "뉴스퀘스트",
+      "pubDate": "2026-08-05T08:32:27+00:00",
+      "description": "흑자는 같은데 이유는 딴판…배터리 3사 2분기 실적 이끈 3색(色) 열쇠 뉴스퀘스트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "7ddd65335b6f",
+      "title": "KAIST, 대용량 배터리 핵심 소재 생산시간 67% 단축 공정 개발 - 워크투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BTTREdjU0QWJjUFAxQ2plRUVQVkVGT054bXNWbUwxajcxYjA1QmxoNjZSZjBxWXpWRFRfY0pJTklEcVNHRmJhalk1MDkyQzhMMWppUXJVLUF2d0VsWm1mRE9KTTA3VmxBYzdkdQ?oc=5",
+      "source": "워크투데이",
+      "pubDate": "2026-08-05T08:32:04+00:00",
+      "description": "KAIST, 대용량 배터리 핵심 소재 생산시간 67% 단축 공정 개발 워크투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "bbd9abf964b0",
+      "title": "[단독] ‘메가프로젝트 시대’ 첫 한전 수장 찾는다… 차기 사장 인선 돌입 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHcFFvZ2RKY1AxaC1mNXVMOGtCaVhiMVQ5eW12Um8zYl9Ybkg3SnpBUUh1emVDTWxNdG13QWhaUHlMREJzR1NoT196eWNsYWJiQkJTZkY2dzZ6SDh6cUppeVZsZmEzSnJ4Ym9yUTJR?oc=5",
+      "source": "아시아투데이",
+      "pubDate": "2026-08-05T08:31:29+00:00",
+      "description": "[단독] ‘메가프로젝트 시대’ 첫 한전 수장 찾는다… 차기 사장 인선 돌입 아시아투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "2f809982e15d",
+      "title": "메타, RE100 떠나 AI 전력 위해 가스발전소 10기 투자…빅테크 탄소전략의 현실 드러났다 - 기후에너지경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16cDFsdEQ4ODF3LVZkbUVvaGwtQ0cwUlhzU0psQ0lKbElPdE1ZckZjSmVES045X0o5VXFYdEZ4QWRWTlFhRDN6V3NEaVBvTXl4ZG1nZ0lZU2hQSjBad2c4bVk3Mnk?oc=5",
+      "source": "기후에너지경제",
+      "pubDate": "2026-08-05T08:24:44+00:00",
+      "description": "메타, RE100 떠나 AI 전력 위해 가스발전소 10기 투자…빅테크 탄소전략의 현실 드러났다 기후에너지경제",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "76b7b965a69e",
+      "title": "KAIST, 대용량 배터리 전해질 생산 67% 단축…AI 데이터센터 ESS 병목 뚫었다 - MIT 테크놀로지 리뷰",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNamIzenlKQXhkRmk5d2pxRVlVa0N4cm9KTHFJVkhvdlQwaTFVci0yUlJJaUlLLTdrYUVVdnlpTWdidDVjVEl2R0o0eVI5SHNudXM1UEw0aU9BLVMzcWdXYllFQkZWT3RBcXJSZnN5RkNrWjQyallTeFlXZHQwQTVxdEt3ZWJkelBHY05nQm5CWGF1NW93TDVEa0t5Y3d3dlpLejRxSVNuTVU5QnJuZDlQS3FkWlRvX3hjRGJVaUhwdXJFNVlFbVYycUc5LUZZT0RFbzIxbnBiMld1Ym5sdEdtc1hjeV9uS1N4Z1NCVWlHNDcwbHlSUHg2VHJCTnhLU2RLNmpRRXpjZlNjNUkyR0tkT1VnUUg3My1RZWtuMTBOYml0VWJqaUNrRklxTDhOREt0RzhKZzA3MFVMYVY4aWxOU2QwNzlHQ2c?oc=5",
+      "source": "MIT 테크놀로지 리뷰",
+      "pubDate": "2026-08-05T08:23:31+00:00",
+      "description": "KAIST, 대용량 배터리 전해질 생산 67% 단축…AI 데이터센터 ESS 병목 뚫었다 MIT 테크놀로지 리뷰",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "49802fae049d",
+      "title": "재생에너지 100GW 조기 달성 본격화… 태양광, AI 시대 국가 전력 인프라로 부상 - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zRkppVGhwSVpIWHRLMUU4aTV4QVJGWlpJVEwyaXFvVnJzUWhJVHRuMmZ3WnA2X0hKOTlwcTJ0NVRMaXRMcXJQNDhIcGtiNjVZbU1aRVBod1lzZUlJQkRKbEgxaXhlSkUyeUZfUm45b2lyZw?oc=5",
+      "source": "인더스트리뉴스",
+      "pubDate": "2026-08-05T08:18:53+00:00",
+      "description": "재생에너지 100GW 조기 달성 본격화… 태양광, AI 시대 국가 전력 인프라로 부상 인더스트리뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "27f7d88a099c",
+      "title": "SK이노베이션, 배터리 사업 회복세…실적 전망 엇갈려 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pY3VyX0NWS3ZkZmlGTTVnSmZDUXVvRHpiMXMxekd3Y2JfTGxQSkE5SGNkV181Q3p3bnBrY19OU01WMm02R3FQNWR1Q1ZiVkZzQTVobkhBV1pMQWZU?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "2026-08-05T08:04:00+00:00",
+      "description": "SK이노베이션, 배터리 사업 회복세…실적 전망 엇갈려 뉴스핌",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b33d3a9ba161",
+      "title": "AI 데이터센터용 초대형 배터리 상용화 성큼… 생산시간 67% 단축 - 세종충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OUNnVTlya2dncmlMdkRkM0hKU0dBb1lvSUF6Z29QSnVhVDNaZ25OdEQ2NDNmZUN6bU5LeGhiQ0liVWM0c1hTRW01N1Q1a3FvOE1LenhPMFdkY2dDRmdVSjk1TExDOU5ab2ww0gFvQVVfeXFMTUxjc3ExQTk0dlR1bFV3U2RoclVCMXgxNUpBYXpJU2JUV19RcWIzQlhPZVpieWUwb0tBUjdMWk5uNEpabFhBQzFZaEkzdE9iZFVkNmJiV3Iya0dnSUthd25QclB3NUdVMUFwNm1kb1pr?oc=5",
+      "source": "세종충청뉴스",
+      "pubDate": "2026-08-05T08:00:51+00:00",
+      "description": "AI 데이터센터용 초대형 배터리 상용화 성큼… 생산시간 67% 단축 세종충청뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "3a1012b32200",
+      "title": "[테크 차이나] 中 핵전력 1위 광둥성, 다시 한번 에너지·AI 산업 지형 바꾼다 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OaEYwdWNraXNUVlprR0N2ajktZzZYUU9BbzB3S3pSNmtnSVR2RmVxSU9zbWVUTjlYMldOeVBPNkFfZnJzVWNNb0FVbV9kUQ?oc=5",
+      "source": "전자신문",
+      "pubDate": "2026-08-05T08:00:00+00:00",
+      "description": "[테크 차이나] 中 핵전력 1위 광둥성, 다시 한번 에너지·AI 산업 지형 바꾼다 전자신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0647a3adb3d4",
+      "title": "산업용 전기료 지역별 차등 인하… 경기도 '고지서 부담' 초읽기 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WcGtXTFg5UEpsV2FqUDhtN0sxdzFKS1pEcXFwRWJZWnQxS2UyWDJHeTk0VGtlOEtUbE9tM0ZOR29wZkh1c2JkQXVJbw?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-08-05T07:59:45+00:00",
+      "description": "산업용 전기료 지역별 차등 인하… 경기도 '고지서 부담' 초읽기 v.daum.net",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "6a24a8388bd5",
+      "title": "[AI남동이] KAIST, AI 시대 '거대 배터리' 생산 시간 3분의 1로 단축 - namdongnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxdVNNc0ZfS29zYlI1YTQ1YVdQWU1ydUdEZTBRajRVNkNrcVRPdGlxZHhfVzVUSGJ5cHdUbzhQU0w3NUZmVDIyLTBIZXljckdkcWhQc1pNYXN1SFN3bWdaSDdjQWpMMWFEWjZYbElyTm1qU1nSAXNBVV95cUxQMXVTTXNGX0tvc2JSNWE0NWFXUFlNcnVHRGUwUWo0VTZDa3FUT3RpcWR4X1c1VEhieXB3VG84UFNMNzVGZlQyMi0wSGV5Y3JHZHFoUHNaTWFzdUhTd21nWkg3Y0FqTDFhRFo2WGxJck5talNZ?oc=5",
+      "source": "namdongnews.co.kr",
+      "pubDate": "2026-08-05T07:56:07+00:00",
+      "description": "[AI남동이] KAIST, AI 시대 '거대 배터리' 생산 시간 3분의 1로 단축 namdongnews.co.kr",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "8eca13d2d6cd",
+      "title": "커지는 전기차 배터리 시장, 더 세진 중국…한국은 ESS·LFP 대응 과제 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Kc1dsaW5ONnZCTnBIdkVuNldBVUNHTlRJM09xM3pScEVFdGpYaXFTaDNJY2xqS3FZQkRrMWpwZGJDNkROSDJKRU0tX1pzaWxHNUtsTUs5WGhhczctSHJTdlZmQk5FRGVjcHZPa3l5aWdFZw?oc=5",
+      "source": "한겨레",
+      "pubDate": "2026-08-05T07:52:00+00:00",
+      "description": "커지는 전기차 배터리 시장, 더 세진 중국…한국은 ESS·LFP 대응 과제 한겨레",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "1d859b225b5d",
+      "title": "전남대 지역개발연구소, 우즈베키스탄 대통령 산하 최고 국가 교육·연구기관과 MoU 체결 - jntoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Oc2tDN1drazR4SVp2d192YzRaTjVZY29LMjRFSjFBTEJwWmlMWDZ0R2k2UW9GTVh0WEdBbHotZTdDWWdJZzFJR3VyWlR1VWZLV0QxUXRzVE1qU2JyWFBRQnBlUQ?oc=5",
+      "source": "jntoday.co.kr",
+      "pubDate": "2026-08-05T07:50:23+00:00",
+      "description": "전남대 지역개발연구소, 우즈베키스탄 대통령 산하 최고 국가 교육·연구기관과 MoU 체결 jntoday.co.kr",
       "category": "VPP",
-      "priority": true
+      "priority": false
+    },
+    {
+      "id": "a7f1591820a4",
+      "title": "AI 데이터센터용 배터리 상용화 앞당긴다···KAIST 새 공정 개발 - 헬로디디",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HVEZCcjJKdnhTZmlGeElhdkhib2pMU3BZRXZwZUdZTWdZUk1tN0VzUDZwVzNNV2dkMFRpelhCU1VYLVVqS05TLWdNc3NkOFNWZnRKU1FBbGxXRHBNdzkxNjhWN0l4dDlaZnc?oc=5",
+      "source": "헬로디디",
+      "pubDate": "2026-08-05T07:50:00+00:00",
+      "description": "AI 데이터센터용 배터리 상용화 앞당긴다···KAIST 새 공정 개발 헬로디디",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d5b8bb1e4ea4",
+      "title": "춘천시 오탄2리 '햇빛소득마을' 선정…3개 마을 추가 도전 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SbW1rTkF3MzdtNW93ek5wTHo3SlpBU05helg4TTlPRG9jN0RtQVNOUk1Na0FnWlFUZGdjVUR4Tk9tNEZVZHh5Mk1vc3JHSFpFLUU4NjBXdGFscjZSVjZOX9IBYEFVX3lxTE9SbW1rTkF3MzdtNW93ek5wTHo3SlpBU05helg4TTlPRG9jN0RtQVNOUk1Na0FnWlFUZGdjVUR4Tk9tNEZVZHh5Mk1vc3JHSFpFLUU4NjBXdGFscjZSVjZOXw?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-08-05T07:46:14+00:00",
+      "description": "춘천시 오탄2리 '햇빛소득마을' 선정…3개 마을 추가 도전 연합뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ef8b8af75f85",
+      "title": "팔란티어 호실적·미·이란 협상 진전… 광통신·전력·태양광 동반 강세 (2026.08.05) - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlJRREV4VlNfd19PR09Iem4tLVo5UmROdHdKUXpMT2dCd19zMW9FZzhpNEwtWmpvWjZWa1RHUm9nVEZXSmdCZGR0MEhqbUZLckF5T0ZFWWR5M0YtOXlrZlZDYi13YWhmZURXLVNwNDJtYUxvaHpCcUhpaWRfUmx3dkZSYlBVdG84dXc?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "pubDate": "2026-08-05T07:46:00+00:00",
+      "description": "팔란티어 호실적·미·이란 협상 진전… 광통신·전력·태양광 동반 강세 (2026.08.05) 네이버 프리미엄콘텐츠",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "ef95260d56f7",
+      "title": "AI가 전력장비 시장도 뒤집었다…지멘스에너지 실적 신기록 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVmNYZG5YRG1JMWhHT0xzdjVCOHNqOE9Fc3BudDRTR1ZYMkJaUVhoZDBYT0xGQkk1Rjd0N1FvMFRnZFZZRkN5TmlLdlNZZWI3QkFIZlNVWW5LemdLMWJoVg?oc=5",
+      "source": "네이트",
+      "pubDate": "2026-08-05T07:38:00+00:00",
+      "description": "AI가 전력장비 시장도 뒤집었다…지멘스에너지 실적 신기록 네이트",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "4d8d32ace7d3",
+      "title": "섭씨 40도 폭염 속 원자력·가스·풍력·태양광의 진짜 생존력은? - ESG비즈니스리뷰",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1eHlJQVRMbUtDSjZzcFdOX0U1VXR3Q2h1U1dnMG1zWjB3cEhkYTBfVzlTS3RvMmZsZEduWnpFRURhcHJ3bmRRQzNjenR5b010alBsZ1pYWGFmdF9NNmVRV0ZJUkdFSVNHbzRBc0t2WDRTZWs?oc=5",
+      "source": "ESG비즈니스리뷰",
+      "pubDate": "2026-08-05T07:34:43+00:00",
+      "description": "섭씨 40도 폭염 속 원자력·가스·풍력·태양광의 진짜 생존력은? ESG비즈니스리뷰",
+      "category": "ESS",
+      "priority": false
     },
     {
       "id": "e5556285cc5a",
@@ -23,12 +593,22 @@
       "priority": false
     },
     {
-      "id": "666fd4583ff2",
-      "title": "수소·배터리·태양광·스마트 그리드까지… ‘스마트 에너지 위크 2026 가을’ 참관 등록 시작 - 광흥타임즈",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHRk5DV25XbG9GMW15aHB2bFVrOTJRVG4wSUthZVFvUTBVNXFPRUhQc0hzNDNoU0pVUjFCLVItTlZTTExKVWpYbExvd0dMYWx1bVBLS3UtcFVFV1BEeHlv?oc=5",
-      "source": "광흥타임즈",
-      "pubDate": "2026-08-05T07:25:47+00:00",
-      "description": "수소·배터리·태양광·스마트 그리드까지… ‘스마트 에너지 위크 2026 가을’ 참관 등록 시작 광흥타임즈",
+      "id": "d3e050a0f723",
+      "title": "SK넥실리스 북미 ESS용 전지박 수요에 매출 급증, 김종우 폴란드 공장 가동 시기 고심 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yRG1NcmxZUU55ODF4a2tfZEpoNzVaWWpkdlc5Mm1mQnltc2tLQm5oMEQ1OWNnaWh5R01HaXhfRkdZdG5tZFRoX19uOFlvbVNNVVVLbS1mQ1R1aFNSenl5cmdjbmV4SkxHalQyeHZxNEloYWM?oc=5",
+      "source": "비즈니스포스트",
+      "pubDate": "2026-08-05T07:17:24+00:00",
+      "description": "SK넥실리스 북미 ESS용 전지박 수요에 매출 급증, 김종우 폴란드 공장 가동 시기 고심 비즈니스포스트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b8ae9ac2d7b1",
+      "title": "AI 전력 폭증 시대, 화재 없는 초대형 배터리 상용화 높였다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CZ2VqRktnNHVndWthZXFrZFpCZi1WNExPT0Y2NEUwbm01QS1JQ0F5NnVOSXg1U296bEpyeEd5N1lZc0R4bGRhWW5ITm9zMzQ?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-08-05T07:15:00+00:00",
+      "description": "AI 전력 폭증 시대, 화재 없는 초대형 배터리 상용화 높였다 v.daum.net",
       "category": "ESS",
       "priority": false
     },
@@ -43,32 +623,92 @@
       "priority": false
     },
     {
+      "id": "119dfa45fee5",
+      "title": "썬볼트 배터리, '2026 그린에너텍' 참가… ESS·4세대 블레이드셀 배터리팩 전시 - ksilbo.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Lclh6VmxCaVBnYWJnS2duNWpTYmhqaUlhUk5wV1pXWmdJak1Ld3VpZFpZemtPRms1YnlnNmN5RVJTN29ESFdXQUFQMUlJb21lZ2tRTHRCSTZIR1l3eUtWckpWaUI0aFBCb1Qteg?oc=5",
+      "source": "ksilbo.co.kr",
+      "pubDate": "2026-08-05T07:09:51+00:00",
+      "description": "썬볼트 배터리, '2026 그린에너텍' 참가… ESS·4세대 블레이드셀 배터리팩 전시 ksilbo.co.kr",
+      "category": "ESS",
+      "priority": false
+    },
+    {
       "id": "7b4b01469ccc",
-      "title": "KAIST, 대용량 ESS 핵심 전해질 생산시간 67% 단축...'거대한 배터리' 상용화 앞당겨 - etnews.com",
+      "title": "KAIST, 대용량 ESS 핵심 전해질 생산시간 67% 단축...'거대한 배터리' 상용화 앞당겨 - 전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMZnBBMHJyem90TG1vMzMyX00wb2VsdW9VaUFGUFpTVGxKcW9OUGpodldjTUJleWwwYlVteEdLeWtsbi1qNGYwblhtNGtvQQ?oc=5",
-      "source": "etnews.com",
+      "source": "전자신문",
       "pubDate": "2026-08-05T07:09:32+00:00",
-      "description": "KAIST, 대용량 ESS 핵심 전해질 생산시간 67% 단축...'거대한 배터리' 상용화 앞당겨 etnews.com",
+      "description": "KAIST, 대용량 ESS 핵심 전해질 생산시간 67% 단축...'거대한 배터리' 상용화 앞당겨 전자신문",
       "category": "ESS",
       "priority": false
     },
     {
       "id": "ecab35867f42",
-      "title": "KAIST, 차세대 대용량 배터리 상용화 물꼬 - ggilbo.com",
+      "title": "KAIST, 차세대 대용량 배터리 상용화 물꼬 - 금강일보",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02VTlFLWdxOFN5dU90alRlc05ZbE1MTzlYODlzUW53ZHpLYlYtbW5rc1ZPMndDNktFVEUxMDBXWXotSnl0SWVnOF9ObEFEYnNtcG5aX0lQVy1zcnVQajVBOEpzNVZGUi1m?oc=5",
-      "source": "ggilbo.com",
+      "source": "금강일보",
       "pubDate": "2026-08-05T07:06:13+00:00",
-      "description": "KAIST, 차세대 대용량 배터리 상용화 물꼬 ggilbo.com",
+      "description": "KAIST, 차세대 대용량 배터리 상용화 물꼬 금강일보",
       "category": "ESS",
       "priority": false
     },
     {
-      "id": "c25e34563961",
-      "title": "김성환 장관 “전력망 확충 더 미룰 수 없어”…철탑 최소화·지중화 확대 등 제시 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lTmNxSHVEdm5hakR2NE5LX3RBeURWMUVzMjhzUHQ5SmROVm1LTkZibDFmVDdHT0pOZ3d3eHJ6NXNtbVlndDEyeVdrVHN0M01qR1dQbnVyUkJlelhfUzJNYVJPVXdYNk52S29fZV9jQ3p0c1U?oc=5",
-      "source": "마켓인",
+      "id": "75b7dac089bd",
+      "title": "독일 스타트업 리볼타, 가정용 소듐이온 ESS 출시 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ESGd4N2JVbHhPRThMV2FIalBPdHo2eFZDWGM0RW5GeHF0Q2Z6MDJaUlhzRzgzZ0QyLXlZS2pZa0dOU3F6TVZmQzc3eU81cms3TDVyS2Z3alJvY1Y5LWdBTkNuUVNNVmlJX1A5eHFR?oc=5",
+      "source": "투데이에너지",
+      "pubDate": "2026-08-05T06:42:40+00:00",
+      "description": "독일 스타트업 리볼타, 가정용 소듐이온 ESS 출시 투데이에너지",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "245ad4b7be27",
+      "title": "팽창하는 美 ESS 시장... \"우리 기업 신규 진입 기회 커져\" - 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Xamk2ckZWYnJSOWpTcFF4aERJa3JPRnRTeWVJQ0g5WENZQ0R2TjZkekl0azZHdnRnaEp3NE1wNGx4dzhQeVlFQkg3Sk1pTTY4U1lFVk93R1k0cGZ6SFNXWWVaeXZpTlNEc0RVdzNzMEhmanPSAXNBVV95cUxPV2ppNnJGVmJyUjlqU3BReGhESWtyT0Z0U3llSUNIOVhDWUNEdk42ZHpJdGs2R3Z0Z2hKdzRNcDRseHc4UHlZRUJIN0pNaU02OFNZRVZPd0dZNHBmekhTV1llWnl2aU5TRHNEVXczczBIZmpz?oc=5",
+      "source": "한국일보",
+      "pubDate": "2026-08-05T06:39:00+00:00",
+      "description": "팽창하는 美 ESS 시장... \"우리 기업 신규 진입 기회 커져\" 한국일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "fa3bd349f9d0",
+      "title": "중국 폭염에 전력수요 최고치 … 성간 송전·저장장치 확대 - 세이프타임즈",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMWRNSjNEZGw4Zzc0dldQUDlISm55S3pSNkRnVTBzZDlsRU1CTW16cTd4SnBQVVFWRW9CN2NsVUp0cUFReUtISlZaSkFWeGlZY0NQRkZMRXJoQWtheWpYWjRiYmgxZGpfWDRkWDQ5c1VxX0HSAXNBVV95cUxPaTFkTUozRGRsOGc3NHZXUFA5SEpueUt6UjZEZ1Uwc2Q5bEVNQk1tenE3eEpwUFVRVkVvQjdjbFVKdHFBUXlLSEpWWkpBVnhpWWNDUEZGTEVyaEFrYXlqWFo0YmJoMWRqX1g0ZFg0OXNVcV9B?oc=5",
+      "source": "세이프타임즈",
+      "pubDate": "2026-08-05T06:27:42+00:00",
+      "description": "중국 폭염에 전력수요 최고치 … 성간 송전·저장장치 확대 세이프타임즈",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "e0345875f657",
+      "title": "[단독] 전력거래소 ‘전자봉인체계’ 도입 추진 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMjVxenFNYWtRMGdOMDZoblAtMWFDalJhczNFaVBQbk81V0RmT0hsRGVHMl9ocWdId0d5Z2hVVzZ6N1VvN1dVWUtFN2E1OTdxNklEQVFDQk9wdw?oc=5",
+      "source": "브릿지경제",
+      "pubDate": "2026-08-05T06:16:00+00:00",
+      "description": "[단독] 전력거래소 ‘전자봉인체계’ 도입 추진 브릿지경제",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "ceb8e61ceff7",
+      "title": "김성환 장관 “전력망 확충 더 미룰 수 없어”…철탑 최소화·지중화 확대 등 제시 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWM2b1VVMW8tQzJNTUxBUEF5YXhoTXJyUHNNcjR1UjNYSlB4RzJVU2pYSUhqVFpEczZQQnBXcVlhZWVZamZyRlVPYndoeld3anZUYzlfOGI0dGpwVWo1djNPT2E4aE9zZ3B4ZVNMcGVicDBqM2c3dS1ObDlvdEVoZw?oc=5",
+      "source": "edaily.co.kr",
       "pubDate": "2026-08-05T06:12:26+00:00",
-      "description": "김성환 장관 “전력망 확충 더 미룰 수 없어”…철탑 최소화·지중화 확대 등 제시 마켓인",
+      "description": "김성환 장관 “전력망 확충 더 미룰 수 없어”…철탑 최소화·지중화 확대 등 제시 edaily.co.kr",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "01d516becb16",
+      "title": "왜 인공 지능 데이터 센터는 고성능 컴퓨팅, 지속 가능한 혁신 및 지능형 클라우드 생태계를 통해 디지털 인프라의 미래에 전력 공급 - Spherical Insights",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQM1M4MW9HTUtPcTRfb0pDLU0teExBcHIzWVZ3dEZqcTNweWVLdWF0N3VKcTRFNnJrdWhHazlDbDUwcy1XS0ppWkF2M0Q2VEU0N1hqYUxUd3Z0a0R4ajhiRmlINHlkQjdUUXZxNTRodjM3VGVoaWRzTHNYMVFYM1laa18wZkZOYXJ4QkZ0c29hM0lDWFVLN3JWSWZPaklwT3AxbmdIelRUeEQ0a1d4N2RtVmR6dXp4SzU2V25KaF9GbmZvWTl6bkFIaTNnbzcta0JiMWVLNGFJTFpzaEx6akoyWGlzdGM2RjE3MXJ6cWpjbm1lbHlEZVIxOUxaTGZCYkIxV21IRi1sRmxQa3NxUk0yQjFVSDN2dkhmeFpQZ2V1QmZEQ1pyWU1ZS3R2ODNJalh4WF8zMjR0WFFaT1paTWpMU0YwU1NPMTA?oc=5",
+      "source": "Spherical Insights",
+      "pubDate": "2026-08-05T05:56:00+00:00",
+      "description": "왜 인공 지능 데이터 센터는 고성능 컴퓨팅, 지속 가능한 혁신 및 지능형 클라우드 생태계를 통해 디지털 인프라의 미래에 전력 공급 Spherical Insights",
       "category": "AI",
       "priority": false
     },
@@ -84,11 +724,11 @@
     },
     {
       "id": "ca824432ad59",
-      "title": "자비스, '배터리 3대 폼팩터' 검사 라인업 완성… ESS 시장 첫 진입 - etnews.com",
+      "title": "자비스, '배터리 3대 폼팩터' 검사 라인업 완성… ESS 시장 첫 진입 - 전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxUDBLSVNrTzczVTJKTGlaU1FiRDNRSzhSNHhDMUwyeGhOTTFvc25NUXVueDl3dU44c1ZxRHpQcHd5Z0x3ZGRRb0IyRVFrdw?oc=5",
-      "source": "etnews.com",
+      "source": "전자신문",
       "pubDate": "2026-08-05T05:49:00+00:00",
-      "description": "자비스, '배터리 3대 폼팩터' 검사 라인업 완성… ESS 시장 첫 진입 etnews.com",
+      "description": "자비스, '배터리 3대 폼팩터' 검사 라인업 완성… ESS 시장 첫 진입 전자신문",
       "category": "ESS",
       "priority": false
     },
@@ -103,9 +743,9 @@
       "priority": false
     },
     {
-      "id": "f8d1595ea686",
+      "id": "2a37afe88e52",
       "title": "석유화학도 ESS 훈풍 노린다…고부가 중심 체질 전환 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpU1RzdDNvQUZnWG9Nc29nNDV4X0FObXpweXJESEVGS0pfMTREWVZvMnhIZGFrY0pqVmlpd0xZRzhtTzMxSHNiSFlFU3M5QWVUWWg5SnZUOGdRdjdBTFRNWHRteHo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44T1VCaTlraUQ3X3Fva3JITzBqZmJiOHZSMnRzMS1oc2RsdjNPTWs2WC0zT3pOei04VnBicWFQSDFGY1J1RGpXS3JJTEt4T3o1SC1xMXQ3Mjk2ZkJPV0FXcW1qYw?oc=5",
       "source": "매일일보",
       "pubDate": "2026-08-05T05:37:49+00:00",
       "description": "석유화학도 ESS 훈풍 노린다…고부가 중심 체질 전환 매일일보",
@@ -123,13 +763,13 @@
       "priority": false
     },
     {
-      "id": "8c2dfdea3473",
-      "title": "케이엔에스, 13억 규모 46파이 배터리 자동화 설비 수주…실적 모멘텀 확보 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdGIwS09mMmZLalJRVnhMSl80cUFsZk8zZ1dfSDI2VXhBQW1NLXRFWnJWc3NtWDZTWFpBSWplcE52NXZVYTJkZ1JQTDdLRjlPRTUzbENSOFRBMzd1TDJrNUNqMi1CX3JTMm5HT2Vn?oc=5",
-      "source": "이투데이",
-      "pubDate": "2026-08-05T05:16:00+00:00",
-      "description": "케이엔에스, 13억 규모 46파이 배터리 자동화 설비 수주…실적 모멘텀 확보 이투데이",
-      "category": "ESS",
+      "id": "f2c2b74d4bb7",
+      "title": "한국전력기술, 공공기관 최초 자체 AI '넥사코드' 업무 투입 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41N2ZRUWJFWjhyM2VOR250UXNtQTBTbDJ4MEFDTnIycGtDcnc4cnhDVUlRcDJ0enRSaGZsdFFEdlNRMVZlYlFFQ3VRek82NU5XMkRNWDlWMmY4bmZpUUNuRFhfX0g?oc=5",
+      "source": "에너지안전신문",
+      "pubDate": "2026-08-05T05:23:09+00:00",
+      "description": "한국전력기술, 공공기관 최초 자체 AI '넥사코드' 업무 투입 에너지안전신문",
+      "category": "AI",
       "priority": false
     },
     {
@@ -150,6 +790,16 @@
       "pubDate": "2026-08-05T04:39:10+00:00",
       "description": "‘배터리액 순환식 전지’ 대량생산 길 열었다··· “초대용량 ESS 실용화 물꼬” 이뉴스투데이",
       "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b29ffcd9ef45",
+      "title": "한국전력기술, 바이브 코딩 서비스 ‘NEXA CODE’ 정식 운영 - 인사이트에너지뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdDd1YkpaSC00UEM4T3NUYThDTXFZRDlIbHhQNk53cDUtVFRma1hEMDc0TVdEYndwUWk5OEF5Vnhjdno0WEhTQWpHdFdRRGhwVDVPaVl5b0puNlRDQklVaHp3UnhwbnPSAWtBVV95cUxOVWdoSE80dnd3RHFQYVRiZTltcWkzX0xfZlVSUWUxSzVxcmpJNmxvT0U1aE8zM0Y2UWFuSjZ6N0c0T0V3XzhwMnFDRGxXeVhzWFZRT0EzLU1EQzlmVmo1TWJqTDg2WnhvLVJ0OA?oc=5",
+      "source": "인사이트에너지뉴스",
+      "pubDate": "2026-08-05T04:35:33+00:00",
+      "description": "한국전력기술, 바이브 코딩 서비스 ‘NEXA CODE’ 정식 운영 인사이트에너지뉴스",
+      "category": "AI",
       "priority": false
     },
     {
@@ -193,6 +843,16 @@
       "priority": false
     },
     {
+      "id": "db58f2ebd16a",
+      "title": "수소·ESS·태양광·스마트그리드 한자리에…‘스마트 에너지 위크 2026 가을’ 일본서 개최 - 스타트업엔(StartupN)",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45cUk2TDlrUFllcGgzUVVWUDNNRnJnNEdxV0NPdG84Y04xeFF6MWZWal9oMGl2Z0V1bC04Q2VWSjJhYnFianlQazRKdmwzTzE4YnFEc3cwZVJ5WERCQ2g3NF9QaXZ1dENL0gFsQVVfeXFMUDd4NEoyUkxYQ1Z5d25ZRDJsNmNwUmxxaHIwTkVxM2c2X2hEaC14dW1UOVItSm43djBNMWJzN054cWt4a3ZKc3RiSkduVkxfbzExZkw0MzJKUXQxRjJkOW9mVjMwSllzZDNoeFNq?oc=5",
+      "source": "스타트업엔(StartupN)",
+      "pubDate": "2026-08-05T03:04:02+00:00",
+      "description": "수소·ESS·태양광·스마트그리드 한자리에…‘스마트 에너지 위크 2026 가을’ 일본서 개최 스타트업엔(StartupN)",
+      "category": "ESS",
+      "priority": false
+    },
+    {
       "id": "54d3ed9b4760",
       "title": "‘中 독점’ ESS용 LFP 생산 확대… 북미서 반격나선 K배터리 - 문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6Y1FXbThMbEkxR2dVOU85NndBSVpvVFg2R2xUNnV0c3JtMEFKa0V0Z19NUjdPSFk5cHNRa3lMR1VwNThUbG50Y1A3VC1kejIy?oc=5",
@@ -213,9 +873,19 @@
       "priority": false
     },
     {
-      "id": "65ebcad7a7ae",
+      "id": "106ae5923587",
+      "title": "[특징주] 삼기에너지솔루션즈, “美 전력망 핵심된 ESS” K기업 북미 진출 호재에 ‘미국 특허 부각’ - 와이드경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QYmh0enQ3dmg3bUpqZUdJVDBoVWpaeFMwS0xCUldkT3B5M1lWQmQ4SFRNU1h2V1VacHJJNXNCUWk5VGpOY09jS19IazFBdnpPRmw3YjNmdTF2WkRkV1B1VFFGM0R5cVh0cTdHcA?oc=5",
+      "source": "와이드경제",
+      "pubDate": "2026-08-05T02:39:17+00:00",
+      "description": "[특징주] 삼기에너지솔루션즈, “美 전력망 핵심된 ESS” K기업 북미 진출 호재에 ‘미국 특허 부각’ 와이드경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "810b5ade156d",
       "title": "KAIST, AI 데이터센터 시대 '거대한 배터리' 상용화 앞당긴다 - 세무사신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZF9YX3VFdmN1QnZoVzhaeUhtMjdpR0dkMS1RNGtWZE5hUTNKZ2dFLUFBaHN2TEE5UXA4V3N5SnVKMFV0ZXFETUtvd3VLLTJUUFBSaURvR0RWbXg5cmsyU1NmNG1USjZFM2xiTw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WWkZpcWxwREs1dVFkOU9tSDVfdUJOUnhrZEtHUk9hbE5TTWtOeFBXdlFrTVBJTGpJNDUyU2pZNzBmN1dtQ0t3Mk1WR2lRN0V0SThBMXZlcUZaY2p6bnlGVnRjSWMzTVFzT0hzdmN3?oc=5",
       "source": "세무사신문",
       "pubDate": "2026-08-05T02:33:11+00:00",
       "description": "KAIST, AI 데이터센터 시대 '거대한 배터리' 상용화 앞당긴다 세무사신문",
@@ -253,9 +923,9 @@
       "priority": false
     },
     {
-      "id": "1a7daa782918",
+      "id": "12e2cb724693",
       "title": "‘흑자’ 배터리 3사, ESS 기대 업고 다시 뛴다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBODB0MXdPTFBER0RMWHhSYmVHcDRsa0p3Nnc3X3psUHoyMnIxc3RhTnBScTNiazNNSTdXTDloMy1aMm1WUjB6cDBWSTE5aGs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sYzN4LXRtQU8wclBMWEQ1dHhZRmdNa0ViQ0RTVkJLb3NOUFpHbTJ0ZGFtRkRGZ2YzTDZsMHJudHcyTzJQOUE?oc=5",
       "source": "v.daum.net",
       "pubDate": "2026-08-05T02:20:28+00:00",
       "description": "‘흑자’ 배터리 3사, ESS 기대 업고 다시 뛴다 v.daum.net",
@@ -273,6 +943,16 @@
       "priority": false
     },
     {
+      "id": "ae8dca28e0f0",
+      "title": "경북 전기요금 인하 가시화… \"포항 산업 경쟁력 기대\" - 핫콘뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ydHhGX2NvVG5XUktXclZTcWgxNDU2cm5ETEZRc01yY01NQTVIelJ3LVJrUUowSFllR3RxNUhVdDZyb2JlZHA4Zlh3QWJqWFVpMG56Q0FNNVRGblhoYXdkdnBXcjlWY2k2ME84?oc=5",
+      "source": "핫콘뉴스",
+      "pubDate": "2026-08-05T02:11:34+00:00",
+      "description": "경북 전기요금 인하 가시화… \"포항 산업 경쟁력 기대\" 핫콘뉴스",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
       "id": "c26b2258ea67",
       "title": "LS에코에너지, 2분기 영업익 253억…전년比 7%↑ - 조선비즈 - Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRG9yVXJ3akxMUUp1SERvNXIzVS1xaF9qOExUWlZjRVBTazd5Y05URWdNVWRmNUhPdEJuVE5QZ1F1d2ZWNkV6MjBzX0ZMTFhNYnBYUm4zWnk3VzgtNmM2MWVDOTZTMW1wUl95N0lWWmxDbVowS3d4a2U2S1JPcVpsX2U0MU0tSzhxNmxzV1BUb2E5ZGtYZUo1Y9IBmAFBVV95cUxPRG9yVXJ3akxMUUp1SERvNXIzVS1xaF9qOExUWlZjRVBTazd5Y05URWdNVWRmNUhPdEJuVE5QZ1F1d2ZWNkV6MjBzX0ZMTFhNYnBYUm4zWnk3VzgtNmM2MWVDOTZTMW1wUl95N0lWWmxDbVowS3d4a2U2S1JPcVpsX2U0MU0tSzhxNmxzV1BUb2E5ZGtYZUo1Yw?oc=5",
@@ -283,9 +963,19 @@
       "priority": false
     },
     {
-      "id": "c2438ebe4869",
+      "id": "ffb7b986088f",
+      "title": "LS에코에너지, 상반기 매출·영업이익 역대 최대-연매출 1조원 달성 기대감 - 미디어파인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uR0JaWmpsSmVhQVZFUGxRbTZuYk9nRmlFeENDR3VyWHRtR0xXYzRwMjM1RURFTmNXRW9CeTJjeG44RUFrd1F4VXhBQUlqQWpfX0xlU1hka0FYREY3VmVreHBVSjVHOTh6ZS1Hc1F3?oc=5",
+      "source": "미디어파인",
+      "pubDate": "2026-08-05T02:06:46+00:00",
+      "description": "LS에코에너지, 상반기 매출·영업이익 역대 최대-연매출 1조원 달성 기대감 미디어파인",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "87e4203137a1",
       "title": "배터리 3사, 호남 ESS 시장서 ‘격돌’ - 뉴스토마토",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBld1dhbmxXR3JqczF5eDEtQ1Jnb0RoUEFpN2MwLWhYWTJyaGFDYnlpQWdXdWNuN1I4VG5sX3h4X3JZRUZSajVTakV6cS03U1VBcE1LNzkzVFhQOUNUSnNIRg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LVGRQekRRalB3VmVvbGdQZFlsM09yRVlSdy11OUhKTjdTUVVlak53S1FkbnBDOWx2Q3hMWDM5UlV2ZTRvSXNCRXlWeFRzSnFEaTBBX0ZpcDJpY0p6NTlpOQ?oc=5",
       "source": "뉴스토마토",
       "pubDate": "2026-08-05T02:06:18+00:00",
       "description": "배터리 3사, 호남 ESS 시장서 ‘격돌’ 뉴스토마토",
@@ -314,12 +1004,42 @@
     },
     {
       "id": "82a30776724c",
-      "title": "효성중공업 주가, 급등세... 왜? - ggilbo.com",
+      "title": "효성중공업 주가, 급등세... 왜? - 금강일보",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfLTJhbTl5Y2ZXQWt2cU10UEtONHFfSzRYVUVVX2Y3b0RhdXBpcjF1RDJBeHVnb0tDczVaNGFTTjhzZlgtWlF4MVgycm42XzhsbzdFWnJsOW50UkpSNlRWZGUtTG1fQXhVUUE?oc=5",
-      "source": "ggilbo.com",
+      "source": "금강일보",
       "pubDate": "2026-08-05T01:57:22+00:00",
-      "description": "효성중공업 주가, 급등세... 왜? ggilbo.com",
+      "description": "효성중공업 주가, 급등세... 왜? 금강일보",
       "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "93b6ca716454",
+      "title": "LS에코·LS마린, 나란히 반기 최대 실적…'AI·전력 붐' 동아줄 | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zY21pV2tscENCRmF5S3c3OFpRNGRma0laMGZrbUxQYmNGeVpxNkV2Y0NxMkp2UloxcVAxQWxEN1I2QmU3UTZaMUE1N2JtWkM2aXR0cGJhVmRZbkZRbFdPSk1lN25uMWc4Mi1SaS1TTTIxZ0pC?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "2026-08-05T01:52:50+00:00",
+      "description": "LS에코·LS마린, 나란히 반기 최대 실적…'AI·전력 붐' 동아줄 | 연합인포맥스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "3d326f858739",
+      "title": "AI 데이터센터 ‘초대형 배터리’ 상용화 걸림돌 해결 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQ3VrRzBRQkd2UU55aUhmTzh3ZkFwalFwdjJESjdRdlpScy1nNEhxYVV4TWZSZkFKVDV0VWxSWXRWZ1hKdVNVWF9HYmw3X2M?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "2026-08-05T01:52:09+00:00",
+      "description": "AI 데이터센터 ‘초대형 배터리’ 상용화 걸림돌 해결 v.daum.net",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2d214d347ddb",
+      "title": "‘스마트 에너지 위크 2026 가을’ 참관 등록 시작 - 에너지타임뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtdXA0bzVQRzhYWTF2V1JHWmpaYUY1LVZaeWhCb1RBa0xiajktVFNGbFlISXlMZWUwbzFiektDMTB6aHAwZTJXWFdUaXNCcmFZUlVRS1dxNHFOa2ctR3NOc184VkVzWDA0UGVHcFVHbHJZSGswYXfSAXZBVV95cUxQbXVwNG81UEc4WFkxdldSR1pqWmFGNS1WWnloQm9UQWtMYmo5LVRTRmxZSEl5TGVlMG8xYnpLQzEwemhwMGUyV1hXVGlzQnJhWVJVUUtXcTRxTmtnLUdzTnNfOFZFc1gwNFBlR3BVR2xyWUhrMGF3?oc=5",
+      "source": "에너지타임뉴스",
+      "pubDate": "2026-08-05T01:48:52+00:00",
+      "description": "‘스마트 에너지 위크 2026 가을’ 참관 등록 시작 에너지타임뉴스",
+      "category": "ESS",
       "priority": false
     },
     {
@@ -340,6 +1060,16 @@
       "pubDate": "2026-08-05T01:43:38+00:00",
       "description": "산업용 전기료, 전국 4개 권역으로 나눈다 중소기업신문",
       "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "35da895717c4",
+      "title": "주성엔지니어링·한화솔루션 등 신재생에너지주 장중 강세 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jVWZXbXlIUnQwMW1FWkVOeFpLejlpNFNZWi1GNzNSQUEzYTBqamNtVFJYVzM3ampJNzRpZjFyekxnRF9kV3owNGxUN0ZPb3Jyd3hTWUhpTTJvdW15RGxROURCaHhhZjM4?oc=5",
+      "source": "CBC뉴스",
+      "pubDate": "2026-08-05T01:34:39+00:00",
+      "description": "주성엔지니어링·한화솔루션 등 신재생에너지주 장중 강세 CBC뉴스",
+      "category": "전력시장",
       "priority": false
     },
     {
@@ -373,6 +1103,16 @@
       "priority": false
     },
     {
+      "id": "e584e718ebdd",
+      "title": "LS에코에너지, AI 데이터센터 수요에 상반기 최대 매출 경신 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzlxekp6SzNnVkt2RW1LSjNoQnBiS0RIUFpYc01MUzl5MjlUdWdvSUFLV0NiUzhnWkZOZU9PWlJOQkU4V3BVZTcxOGl2Wm9fd1lZQ3hwMnBZVjg0VXkxMHNMUUg1VDFpd3BtbnZ1Qlo2NmxXU0hxak8zQmVheDJVYl9KQWttRlpxNkVUdE1MNkZ5OEFfcHYyaHpBQlplZFlQaU84?oc=5",
+      "source": "Traders Union",
+      "pubDate": "2026-08-05T01:09:23+00:00",
+      "description": "LS에코에너지, AI 데이터센터 수요에 상반기 최대 매출 경신 Traders Union",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
       "id": "6d5fe769a6c2",
       "title": "카이스트 김희탁 교수팀, AI 데이터센터용 ‘거대 배터리’ 상용화 성큼… ESS 핵심 전해질 생산시간 67% 단축 - 한국강사신문",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KV0FwcjJjTGNmdHdlMFY1NWlmM1MwZ0NXT2FZM3dhLWJldkhNVmMwQ1B4a19GblBFWXUwZjdqRGJmU2NpRWlpWkVocWU1aTRFVW80MHFrYm0zNFEyZ190ZjRwR1lGbGZNVGxlMGRGVU4?oc=5",
@@ -383,12 +1123,12 @@
       "priority": false
     },
     {
-      "id": "961e04ba8adc",
-      "title": "경북도, 공정한 “지역별 전기요금제” 실현 토론회 개최 - 경북뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GZ0JZYjlJQXRXbGliZzNWOWpqbklKUFp1emtsZnhnZUE2TktYNFF0ZFRvT3ZXdVQ5a1lMdVppYnNtMElweGVjb1JhRjJXam5NVkcweE9JUXBIbTVHT2FnVFU2REFkcENUVkV3?oc=5",
-      "source": "경북뉴스",
-      "pubDate": "2026-08-05T01:04:19+00:00",
-      "description": "경북도, 공정한 “지역별 전기요금제” 실현 토론회 개최 경북뉴스",
+      "id": "13f9d1959977",
+      "title": "한전, 다시 물가안정 혼자 짊어지나…2분기 영업익 악화 전망 | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9paF9BaXVKTmxndF93WEZEVWVrX3VuSjdNVUpSWTNfMVdreHBmRFYtUTFSTmVIV2JRcEx2dldpOVhuNGR5NjZtcmdMdHB3Zm13bk1fdFVSSWdEdlUzSy0tekg3MGpSclpnekVXX3czNWJaMUN3?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "2026-08-05T01:02:09+00:00",
+      "description": "한전, 다시 물가안정 혼자 짊어지나…2분기 영업익 악화 전망 | 연합인포맥스",
       "category": "전기요금",
       "priority": false
     },
@@ -453,13 +1193,13 @@
       "priority": false
     },
     {
-      "id": "2bcff2f1af43",
-      "title": "중앙대, 단열·열저장·난연 성능 통합한 바이오기반 다기능 열관리 복합소재 개발 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vOTEyMXRkZEhiTk9mWHRwam5iWWhfdElwRVZrSHJGVUZRSkw2dWc3OTRYbjVRa2kzblZKS19Rd3k4RVdsUnVGbGJoS3kzemZxSGhnbW1fSXRKelhlQUoyNHVVNm40WHM?oc=5",
-      "source": "한겨레",
-      "pubDate": "2026-08-05T00:30:00+00:00",
-      "description": "중앙대, 단열·열저장·난연 성능 통합한 바이오기반 다기능 열관리 복합소재 개발 한겨레",
-      "category": "ESS",
+      "id": "5da496fdc7bd",
+      "title": "LS에코에너지, 올해 상반기 사상 최대 실적 경신 - DealSite경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrUGx6UUwxVDI4YnpfMmhTNVo0eUtxcTNHMFBPU0ZwdE5jWUROZU1Fa013TzJabXdMSmpYa01RM3ZRTUs4LWZLWlYzMExOTGJOOE9meEtn?oc=5",
+      "source": "DealSite경제TV",
+      "pubDate": "2026-08-05T00:43:57+00:00",
+      "description": "LS에코에너지, 올해 상반기 사상 최대 실적 경신 DealSite경제TV",
+      "category": "AI",
       "priority": false
     },
     {
@@ -489,7 +1229,7 @@
       "source": "환경포커스",
       "pubDate": "2026-08-05T00:27:05+00:00",
       "description": "김성환 기후부 장관 \"AI 혁명과 기후위기 함께 넘어야…재생에너지 확대가 미래 경쟁력\" 환경포커스",
-      "category": "AI",
+      "category": "전기요금",
       "priority": false
     },
     {
@@ -499,7 +1239,27 @@
       "source": "서울경제TV",
       "pubDate": "2026-08-05T00:22:27+00:00",
       "description": "포항시·경북도, ‘지역별 전기요금 차등제’ 조기 안착 해법 머리 맞댔다 서울경제TV",
-      "category": "전기요금",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "0dcea5240b03",
+      "title": "\"AI 데이터센터용 배터리 생산 병목 해결\"…KAIST, 전해질 제조시간 67% 단축 - 티제이비",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zei1TQ2xISTNKYkVXbjRNbHRmR2xZdHNLeU01dEwzRE5KZ0tvZVF6SnNDWjA1S0Q0bW00WmFOeThfd1RUX2hBNGh3czZjRTZnVS1qSXlndzhCR1hiZ1pPaGdIV0dHSWdIZVE?oc=5",
+      "source": "티제이비",
+      "pubDate": "2026-08-05T00:18:26+00:00",
+      "description": "\"AI 데이터센터용 배터리 생산 병목 해결\"…KAIST, 전해질 제조시간 67% 단축 티제이비",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2e14ba6846c4",
+      "title": "AI 시대 최대 수혜주는 전선?... KBI메탈·일진전기 등 상승 행진 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yTDgyR0RsNXZFNXowMVA5UXhGRWdvLXNSUEJlYUc5dmxRVkgxbmJHOTJaODhuc2t1eDZnOWxfYm5peFpfU0V1SGNoOHdBakdsbnAzVlE4Z2g0VHduUE91R1c3Vks1ckdVN3c0elBZUXhweUnSAXdBVV95cUxNWnFydTk2el9qenB4b2ozOFVtcjVqLTNCaWVKNFAzNXdTV1liQVZZMkRkcmNGQTU1SURUTVJHa3loVjRfQ2ZSdFRhMXI4U0dMMnRZZkxJaVRXTHRrQm5jRWZBeDh2UklYNFlVWDE3aVhMeFJDTDk2TQ?oc=5",
+      "source": "핀포인트뉴스",
+      "pubDate": "2026-08-05T00:05:09+00:00",
+      "description": "AI 시대 최대 수혜주는 전선?... KBI메탈·일진전기 등 상승 행진 핀포인트뉴스",
+      "category": "전력시장",
       "priority": false
     },
     {
@@ -524,11 +1284,11 @@
     },
     {
       "id": "a78c007c4258",
-      "title": "\"대용량 배터리 상용화 앞당긴다\"…KAIST, 핵심 전해질 '생산 병목' 풀어 - ER 이코노믹리뷰",
+      "title": "\"대용량 배터리 상용화 앞당긴다\"…KAIST, 핵심 전해질 '생산 병목' 풀어 - econovill.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWkFVUXZNa2ZzWDc3QXhVLW45VDFLeXNuc3dncVdLTEwza0FycHIzVEd2d1NzSjBCSmJ1MmVDQUNhbjlDUFFFc2VnY2EyTXd5M29UbDYwcG1jcXdDMWhiUU4yeV9obV9PRmdvaQ?oc=5",
-      "source": "ER 이코노믹리뷰",
+      "source": "econovill.com",
       "pubDate": "2026-08-05T00:01:18+00:00",
-      "description": "\"대용량 배터리 상용화 앞당긴다\"…KAIST, 핵심 전해질 '생산 병목' 풀어 ER 이코노믹리뷰",
+      "description": "\"대용량 배터리 상용화 앞당긴다\"…KAIST, 핵심 전해질 '생산 병목' 풀어 econovill.com",
       "category": "ESS",
       "priority": false
     },
@@ -550,666 +1310,6 @@
       "pubDate": "2026-08-05T00:00:20+00:00",
       "description": "구광모 회장 힘 싣는 'One LG' AIDC 사업, 그룹 핵심으로 부상 뉴스포스트",
       "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e3ab79aaf85d",
-      "title": "'거대한 배터리' 상용화 눈앞에, KAIST 바나듐 전해질 생산 공정 개발 - 2news.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMWWRlT3BQWXVjbUhZWW0wQWhtUXpYZWkxdnBVMjNLOHZTaFZpYXFrRjFYSFdVWnlYaTdmWlZiMUNWRklUTWdRd2NUdmJqQkVxVlRQZzg2S3pMdkhxU0lzWk1LSTI3bHFx?oc=5",
-      "source": "2news.co.kr",
-      "pubDate": "2026-08-04T23:28:00+00:00",
-      "description": "'거대한 배터리' 상용화 눈앞에, KAIST 바나듐 전해질 생산 공정 개발 2news.co.kr",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "910f5a06daff",
-      "title": "기후부, AI 시대 '전기+물' 국가인프라 재편…“전기국가 실현 속도” - 인사이트N파워",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SWWNXMm80eFpoakNhZlFJdkF3c3lkQkZjR1NvcDN6Y0VUaVRsU2l0N0RJbjdYTmFKTk16V2dWU21XRDdTaWtZaURLVS1xeUtibWctbTBRWm9WcE9WWW82X1Zock83dw?oc=5",
-      "source": "인사이트N파워",
-      "pubDate": "2026-08-04T23:10:10+00:00",
-      "description": "기후부, AI 시대 '전기+물' 국가인프라 재편…“전기국가 실현 속도” 인사이트N파워",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "0e5f23105954",
-      "title": "포스코퓨처엠, 전구체·음극재 두 병목 모두 풀 수 있어…'매수'-SK - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50em03Q1Fzb21zS0FRWHNFa2M2a00tNTE5N2VNSEgyUGd2SlkzQWlNY1VoRGNvMmhTajJtREpRMUFiWThjS0Jhb1QyMm1mLWJvY1NhQ2wweWRIdk5mSlBSXw?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-08-04T23:09:00+00:00",
-      "description": "포스코퓨처엠, 전구체·음극재 두 병목 모두 풀 수 있어…'매수'-SK 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e90684dd06d7",
-      "title": "경북도, 지역별 전기요금제 실현 공론화…에너지 분권 ‘첫걸음’ - 영주시민신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EQ0hOQ3J5X2E4ekJBb25rVFZLZ05UcVNNcXhHMng3dlZXWERpM2ZyWUx3VkNnaGZib2JXV0JEREZscUJFbFREUXdrRXFqWkxtZ3lWTnBLTkQxT1BsZHliVDhxTEtLbDRG?oc=5",
-      "source": "영주시민신문",
-      "pubDate": "2026-08-04T22:45:05+00:00",
-      "description": "경북도, 지역별 전기요금제 실현 공론화…에너지 분권 ‘첫걸음’ 영주시민신문",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "ea5ac6a48da3",
-      "title": "美 듀안 아놀드 원전 재가동 청신호…구글 AI 전력 공급 - 에너지안전신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81c3F2WGliWkd4TldJdGZPTEVpTGNVelpDZ040QjlWTG5DWFBMOXNlTVRPeGRlaUVGRFduMFhrbEJxU3BWR0NGcUt1b09WTjNwc1ZUZVdxZ19aWlRfV3FpRC0wNWQ?oc=5",
-      "source": "에너지안전신문",
-      "pubDate": "2026-08-04T22:29:48+00:00",
-      "description": "美 듀안 아놀드 원전 재가동 청신호…구글 AI 전력 공급 에너지안전신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "14d779f36a58",
-      "title": "[Who Is ?] 김동명 LG에너지솔루션 대표이사 사장 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByVWgzX3hodjZSNXB6dEJwb29WYW4tX2ZlN0RoSTlKN3dLSDlZM0V6SXBZVGp5VnlzMDdzTW1yMEVMZTk3bWc5MElJc3gzNGFXaE03WndwdEE0dlI2RWVkWV9yVENFWG43VzNjdS1yekRVNnc?oc=5",
-      "source": "비즈니스포스트",
-      "pubDate": "2026-08-04T22:00:00+00:00",
-      "description": "[Who Is ?] 김동명 LG에너지솔루션 대표이사 사장 비즈니스포스트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "86ea62afe978",
-      "title": "ESS, 美 전력망 핵심 인프라 부상…코트라 \"K기업 진출 기회 확대\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZVdEblFSSUdVVUxDX0ZfV0NLWU9zeFhkdFdubTFvajJRSUVtcm9ZOVhYeVdranFaTzhVNmRCMkdPdjQwZURCbHdwdWlmanI4NG52UEVGTHlVYU5aN2ctOA?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-08-04T21:03:00+00:00",
-      "description": "ESS, 美 전력망 핵심 인프라 부상…코트라 \"K기업 진출 기회 확대\" 네이트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ff1d41d4d6be",
-      "title": "“美 ESS 시장 수요 증가…韓 기업, 신규 진출 기회 잡아야” - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YRDl4Y3FaWDkyY1UybTkxcVgtNlEyZ2hDNVc5WUhNM1hLeVZmeFFYS1RvbVFDOU8yNXh1RlpFTWFiQVlFQ2xibEhiMXFDak0?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-08-04T21:02:00+00:00",
-      "description": "“美 ESS 시장 수요 증가…韓 기업, 신규 진출 기회 잡아야” v.daum.net",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fbad2ecf9ca3",
-      "title": "美 ESS 시장, 전력망 핵심 인프라 부상…\"K전력 기업 진출 청신호\" - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55bXI3Nk9sUVFQT1BlbmpWZFZGSFltcHk4bnRqTTVaOTNHMTdmRE1kc0VHVFdpcVkzSnhzRDkyT3l2S2poaWxPc2tUcy1QdUpUUFRqMHVBUVNTMmZEazRJeg?oc=5",
-      "source": "아시아경제",
-      "pubDate": "2026-08-04T21:00:00+00:00",
-      "description": "美 ESS 시장, 전력망 핵심 인프라 부상…\"K전력 기업 진출 청신호\" 아시아경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "edf4dbd3945e",
-      "title": "코트라 \"美 전력망 핵심된 ESS에 韓기업 참여기회 확대\" - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ejRRVVRROWJ3Nl9pNDNqN19RanM4NGtkQWwwQVk1R1A2S1RPTEl1YzVrMzNRbzJla1A3SkE5Q3JuRGFybkx3WXJFUjVFbnRtV2Y2NjBHNVZ6QQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "pubDate": "2026-08-04T21:00:00+00:00",
-      "description": "코트라 \"美 전력망 핵심된 ESS에 韓기업 참여기회 확대\" 파이낸셜뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "33c30e7b5335",
-      "title": "“美 전력망 핵심 부상 ESS…韓기업 진출 기회 커졌다” - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeFJXMl9ZSV9XcEI5QW1xak1TYkR5dm1uSHFwZEFQWU1xZXd1TVJTNThJak91bWZTZjlFSGxEZ0llUGlUeEthQnBmc2d3QW9kY2930gFTQVVfeXFMTkR4UlcyX1lJX1dwQjlBbXFqTVNiRHl2bW5IcXBkQVBZTXFld3VNUlM1OElqT3VtZlNmOUVIbERnSWVQaVR4S2FCcGZzZ3dBb2Rjb3c?oc=5",
-      "source": "서울경제",
-      "pubDate": "2026-08-04T21:00:00+00:00",
-      "description": "“美 전력망 핵심 부상 ESS…韓기업 진출 기회 커졌다” 서울경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d28ff95cdf1f",
-      "title": "영국 EV 충전 시장, 인수합병으로 새 국면…InstaVolt, 1000거점 시대 연다 - 얼리어답터뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94b3Rvb0ZaU3gzWDlrM3Ruc295ZDlUa1RxZFU4ZUY4U3VRazZZT1dpUGdCUnVnWUFNelJhWVAxRTBCWkpmd2lacQ?oc=5",
-      "source": "얼리어답터뉴스",
-      "pubDate": "2026-08-04T20:26:24+00:00",
-      "description": "영국 EV 충전 시장, 인수합병으로 새 국면…InstaVolt, 1000거점 시대 연다 얼리어답터뉴스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "286e454489ee",
-      "title": "폭염에도 전력난 없다…민간 생산·신재생·가전 '진화의 힘' - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0VHdWMWFpQk1ROWJWeUg2UFZrelpUSnU4Wm9uNGpvOG13STVZRVBHbGt3M3hMT1Y2QWpaVWtjbGNUSW1CSk1XMUFncWFrY0E3V1B1aEpaSk1EbGU1VjJROQ?oc=5",
-      "source": "네이트",
-      "pubDate": "2026-08-04T20:04:00+00:00",
-      "description": "폭염에도 전력난 없다…민간 생산·신재생·가전 '진화의 힘' 네이트",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "dd48acb3ac96",
-      "title": "오레 에너지, 철-공기 배터리 상용화 위해 4,300만 달러 시리즈 A 투자 유치 - 유스연합",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DX1I1MHJEd1ZQSzJhcnVxbnZCbktuUXhGeFRzblMwRjQ1NUpwNFl3RjZacWNKNHR0NkJDQ2R1N2ptOWlodUg5SkV5dmxkMVN4MXc?oc=5",
-      "source": "유스연합",
-      "pubDate": "2026-08-04T18:05:36+00:00",
-      "description": "오레 에너지, 철-공기 배터리 상용화 위해 4,300만 달러 시리즈 A 투자 유치 유스연합",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "f13db34d628a",
-      "title": "배터리 완벽복원 > 벼룩시장 - SeattleN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96T015UWpoUlF4M0tYQVJCOVpneWhFMUVNaVVuTHdfaHFzLUx5UE11RDdZRDRpbDA2Wm8tb2xTaWxSUDZfd2IyeVFOMGZLUjQ3VXg4emRqb2NYRFJxTVk5NUJWa3BKQkM1OWlFbnpha25Cdw?oc=5",
-      "source": "SeattleN",
-      "pubDate": "2026-08-04T17:47:24+00:00",
-      "description": "배터리 완벽복원 > 벼룩시장 SeattleN",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ea0d2d5237c3",
-      "title": "가정용 배터리로 분산망 구축한 베이스파워, 1조 4천억 원 시리즈 D 유치 - 유스연합",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53czVPM1J2bzJZdzE2THpoU1R5VVFDWWoxU1o2SGRGYU8zXzg5VVZ2ZEpjVklTQWlWLTBUTWFrQmc5MXNPbXN5WkdIb0pLdnRJTHc?oc=5",
-      "source": "유스연합",
-      "pubDate": "2026-08-04T17:16:20+00:00",
-      "description": "가정용 배터리로 분산망 구축한 베이스파워, 1조 4천억 원 시리즈 D 유치 유스연합",
-      "category": "VPP",
-      "priority": false
-    },
-    {
-      "id": "4c49708b8c33",
-      "title": "코트라, 동남아 수출 지원 가동·美 ESS 보고서 발간 - cstimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EclBPOEpSOEFMSEpPNlp6RzJqTzJteFFOZjRkVktfdmVkNXdCTDhaaUVzak5sV3Ruc3AtUnkxWExPTWRkdjlnVnFvWWIxR0J5M2F3ZW1pejZ2dzRqNFdtUWpnME5pbFE5bkE?oc=5",
-      "source": "cstimes.com",
-      "pubDate": "2026-08-04T17:01:56+00:00",
-      "description": "코트라, 동남아 수출 지원 가동·美 ESS 보고서 발간 cstimes.com",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "0a679d5d68b1",
-      "title": "에너지 저장 시스템 (ESS) - climatepol.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtZUNNUVByT0dkWE5SYXZUTmdzenRDQTFUa0E0b0V0dGJyZHVUb2FObGVTVWZQemZBRkZCYU9zSW1xMDZKZ1pRNVI3WENUMkE2Q3AweEkwQnZ0STRKZWpCSEZ4cHpGOXducVQ2Qg?oc=5",
-      "source": "climatepol.com",
-      "pubDate": "2026-08-04T15:51:49+00:00",
-      "description": "에너지 저장 시스템 (ESS) climatepol.com",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "4d965ef5eec6",
-      "title": "12.5MW 시설 인수한 포티튜드, 자체 운영 확대 - tokenpost.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmRmd0VENzb3NTQTZIR2ZnN05xS2ZIdDZTLWl1M290N003dnF6eU5EdGlUcTNvQXFyNFFEZEJNbnBiRXFjekVhMVZvbHBJS1RYNFZCbDYtazVsUzJNSnNkQXpzc09wZ9IBZkFVX3lxTFBmRmd0VENzb3NTQTZIR2ZnN05xS2ZIdDZTLWl1M290N003dnF6eU5EdGlUcTNvQXFyNFFEZEJNbnBiRXFjekVhMVZvbHBJS1RYNFZCbDYtazVsUzJNSnNkQXpzc09wZw?oc=5",
-      "source": "tokenpost.kr",
-      "pubDate": "2026-08-04T15:05:46+00:00",
-      "description": "12.5MW 시설 인수한 포티튜드, 자체 운영 확대 tokenpost.kr",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "543cde432405",
-      "title": "다우 티엥 5 태양광 발전소 건설이 시작되었습니다. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1RDFMOWZTcmpSTW9RT3ZIY1FEY3ViUHlKSEVUSTJVT05POEQ2VmhGWkUycmU4TF9RQXJXR0VLQmdkeTdES1ljVGNON3ZSZ2w0S2dtcmIzZWtCZFcyVE1yU3ZMUEpROWI4RlFrbDhMU0RCdkROVUxPUw?oc=5",
-      "source": "Vietnam.vn",
-      "pubDate": "2026-08-04T13:29:18+00:00",
-      "description": "다우 티엥 5 태양광 발전소 건설이 시작되었습니다. Vietnam.vn",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "8e752e8c977c",
-      "title": "에너지 전환 관련 최신 소식 - 어드밴티지 리뉴어블스, 배터리 프로젝트를 통해 미시간주 전력망 강화 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckZBQU5nNmxWeWwzWGxZRGoxczZWaG96bUFpVmVhcEJrdGoxd1ViWURPT1NYWU5aR2V0UWNmNHR6REFUMHFaQnBEeFpqX28wZ1BQaHVySFFKczZkZG5mNmg0VC1wZ1NTeS05ZFdYcGFycmNBUHBPZk5wYTZtemdUdW1NNDkxR284TGoyMF9Ta9IBlAFBVV95cUxPUnZJSXVKMmJnSFAwZHZ0Um5NaE5TaHdzWjBVSXN3Qi1Gc0RSa1BCT2NLU2tqd3FfM2RiSmJRM2JOcTd1WmVwU1gzb1VHN1V2dlZsVlVDNHh5eUl2cDZENGFLdHpNd0pyT3FSY1BuTEZ0YnIwNVFPZXYxT2U5ZlZ0WXdKV0YtMi0za245NTF3WHFaV0VC?oc=5",
-      "source": "simplywall.st",
-      "pubDate": "2026-08-04T12:05:54+00:00",
-      "description": "에너지 전환 관련 최신 소식 - 어드밴티지 리뉴어블스, 배터리 프로젝트를 통해 미시간주 전력망 강화 simplywall.st",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "7cff2e78821e",
-      "title": "전기국가 구축 속도…원전·재생E·ESS‧전력망 확대 동시 추진 - 에너지타임즈",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HN1J1T0c2Vm1rQndTTUlITnhRREgwcFRoQmh1Y3FTaHRZdmZNUklpZ2xXRlgyZzM5eHI2Yk56T1RiTnUzWFBobTEtR3dyVnhXRDEzR0xuWkRKblJKT3JjYWxQelZWTWk4NDMyaA?oc=5",
-      "source": "에너지타임즈",
-      "pubDate": "2026-08-04T12:00:00+00:00",
-      "description": "전기국가 구축 속도…원전·재생E·ESS‧전력망 확대 동시 추진 에너지타임즈",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "752726f96dfb",
-      "title": "'전기국가' 속도내는 정부...AI·재생에너지·물 인프라 구축 '총력전' - 수소신문",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yM0hwODdyWWx0elNzWnJRM0FUUzdHbGo4TEhKSlNMTno3TVA4WWtFeW5PYWVtSlp3d2R4NVlDbDBiVVRJTHhqdEduMkh5aUMyNWhnRzc2ZkNXd0NyempmN0s5YmpzUmxYYUVSdE04cGFVanI50gF0QVVfeXFMTjIzSHA4N3JZbHR6U3NaclEzQVRTN0dsajhMSEpKU0xOejdNUDhZa0V5bk9hZW1KWnd3ZHg1WUNsMGJVVElMeGp0R24ySHlpQzI1aGdHNzZmQ1d3Q3J6amY3SzlianNSbFhhRVJ0TThwYVVqcjk?oc=5",
-      "source": "수소신문",
-      "pubDate": "2026-08-04T11:45:54+00:00",
-      "description": "'전기국가' 속도내는 정부...AI·재생에너지·물 인프라 구축 '총력전' 수소신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "2fa549398094",
-      "title": "[2차 부처보고-산업·에너지·노동] 李 \"AI 대격변기, 과감한 투자·속도전 필요\" \"3대메가 핵심 전력·용수 공급에 차질없어야\" - polinews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iSFh0S3F6MFUxcEJxNXVhVEdqUV9BT0JZdEdOWGhfNUdzeDByaHhBcmlyMm0yeFBHb2ZaWlgySFhmM0VlNnBPUVdCaGhYR2VGckZiRmRWRE9CY211Z0FpTlcxR2Y2bWlXOGktRlNn?oc=5",
-      "source": "polinews.co.kr",
-      "pubDate": "2026-08-04T10:52:16+00:00",
-      "description": "[2차 부처보고-산업·에너지·노동] 李 \"AI 대격변기, 과감한 투자·속도전 필요\" \"3대메가 핵심 전력·용수 공급에 차질없어야\" polinews.co.kr",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "948277023115",
-      "title": "기후부, 재생에너지 100GW 조기 달성 추진…AI 전력·용수 공급 확대 - 한국사회복지저널",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rWUl5WjNMTTBlaG9Va0FzT1VuRTNPNzhpSzdWWXBCNkZFbWlldE04d0R4TklIUmkyNm1YZEFhSWMwSl81Y1cwbUlFcjZnNnNhWnRteEoyTndkYzU2c0dXMVBUdzRqTTVJdzFV?oc=5",
-      "source": "한국사회복지저널",
-      "pubDate": "2026-08-04T10:51:37+00:00",
-      "description": "기후부, 재생에너지 100GW 조기 달성 추진…AI 전력·용수 공급 확대 한국사회복지저널",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "204177b98859",
-      "title": "[하반기 경제전략] 기후부 \"지방 산업용 전기료 낮춘다\"…전국 4개 권역 차등 적용 - 신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xb0J3NDVja0RWMHZ5WGduWndyc2JfREZCbXFUR1Yzckh2ZVdwQllEWHV3ZS04RkJMZ3hDZk1DVEtNTmlXaWFxNkpUNkR6V21TSjhERnlYSkdMdVQ5RTllQ2l2d3pUM2NlMnZ1OGR6SmE?oc=5",
-      "source": "신아일보",
-      "pubDate": "2026-08-04T10:26:47+00:00",
-      "description": "[하반기 경제전략] 기후부 \"지방 산업용 전기료 낮춘다\"…전국 4개 권역 차등 적용 신아일보",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "59bef077e5f9",
-      "title": "李 대통령 “재생에너지 중심 전환 불가피…태양광 농사로 지역소멸 막아야” - 기후에너지데이터뱅크",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIeTRJc2QtNFBVZFhBS2hoTE1UNkh5QTZjNThUYjJ1UXlvcWxhX0lWTDJiQWU2TjlDdW84T1ZFOENheTRpQlBHUEh0ZF83Vk1ESWUzRzJ4TWpEUzM1dVE?oc=5",
-      "source": "기후에너지데이터뱅크",
-      "pubDate": "2026-08-04T10:10:03+00:00",
-      "description": "李 대통령 “재생에너지 중심 전환 불가피…태양광 농사로 지역소멸 막아야” 기후에너지데이터뱅크",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "ef2f2892fbe7",
-      "title": "호남권 메가프로젝트 전력공급 ‘갑론을박’...“재생에너지 100% 조달 가능하다” - M이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44d3Z5bTMxSmdMbGRsVlB0U3NaMXZlbTNQc2NRcDRsUWplekEyNDJPM3VLdDhvX1k5bV9Ccm1jMmdkYnhMZldrVExPM0pxYzNXakpaT2l2Wk9reWEwbG50dUllVVJYbHc?oc=5",
-      "source": "M이코노미뉴스",
-      "pubDate": "2026-08-04T09:59:28+00:00",
-      "description": "호남권 메가프로젝트 전력공급 ‘갑론을박’...“재생에너지 100% 조달 가능하다” M이코노미뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "30e501ba0171",
-      "title": "산업용 전기요금 지역별 차등 적용…철강·석화 부담 낮춘다 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MR0JEb0NkRXVKV2lCQ2hJeDVhYUVpRE93YUVCRGF3OEtaMllhYWp1OEk4YWRLNUM3dHRfZ25wdmlLby1jOHZZdGVpM2RZLXExcUhTLTk2d3NEM2Y5eEFoYzZpX2s?oc=5",
-      "source": "매일일보",
-      "pubDate": "2026-08-04T09:53:02+00:00",
-      "description": "산업용 전기요금 지역별 차등 적용…철강·석화 부담 낮춘다 매일일보",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "490dfb4cf655",
-      "title": "[인도 특징주] 타타 그룹, 중국 규제 속 배터리 셀 '독자 기술' 생산 박차 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1SHZUaUVkaXNha0tzdXZoczItZFI3WGNnWXgxaVE1aXAtMF90NGRiS2IwcWNVUTZNQURHSUFkeU85QkJUUTlzcDNTSUQ1Vno3Z0FVUWtsQVhxNm9u?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "2026-08-04T09:46:00+00:00",
-      "description": "[인도 특징주] 타타 그룹, 중국 규제 속 배터리 셀 '독자 기술' 생산 박차 뉴스핌",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "2ec9ae298d98",
-      "title": "\"호남 반도체 산단에 LNG열병합발전소 건설 검토\" - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5YnZDRnJyWklnenM1ZFNIZjZoTEtRSEZwWk1ya2RmY2l3MW5vOUd5MG5HOEZyQW1fbEpkMkM1d01iSGJVZmNqLW4zOENoeUlLbmFwSXppcWZaZw?oc=5",
-      "source": "파이낸셜뉴스",
-      "pubDate": "2026-08-04T09:14:51+00:00",
-      "description": "\"호남 반도체 산단에 LNG열병합발전소 건설 검토\" 파이낸셜뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "315ab978396d",
-      "title": "글로벌 ESS 71% 급성장, LG에너지솔루션 출하량 357% 증가 - 엠투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FZXd2SXIycUc0QVIyTWhDdG9qV29FMkFmOEhEOFpkXzFzYndmY3F6Uy1qZmg4aFQ5a05MRTZBNFFqY1pYcUszMkdfVUQxTWo1VkUwNHBlbno3cW5Xalk1ZlF0NGN2MlFIdXBCR2FudndZT2PSAXNBVV95cUxNRWV3dklyMnFHNEFSMk1oQ3RvaldvRTJBZjhIRDhaZF8xc2J3ZmNxelMtamZoOGhUOWtOTEU2QTRRamNaWHFLMzJHX1VEMU1qNVZFMDRwZW56N3FuV2pZNWZRdDRjdjJRSHVwQkdhbnZ3WU9j?oc=5",
-      "source": "엠투데이",
-      "pubDate": "2026-08-04T09:10:44+00:00",
-      "description": "글로벌 ESS 71% 급성장, LG에너지솔루션 출하량 357% 증가 엠투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "c814502764fe",
-      "title": "“EV 캐즘 뚫는 북미 ESS 대풍년…LG에너지솔루션, 2027년까지 실적 우상향 그린다” - 뉴스퀘스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XVEhIYXNVaENnZTRNM1JmMkVWdjJSem5QdlpIMXczV1ZPSmJZN2s4cXZ5RU5yQVplUnN3SGY2QzdGamhjUEZiOFk2V3RzYXZ2Zjh4NHl0enRlcE1NMFRMTHZlOEs3N3RrZ1ViOHVqdGNnQlXSAXNBVV95cUxPV1RISGFzVWhDZ2U0TTNSZjJFVnYyUnpuUHZaSDF3M1dWT0piWTdrOHF2eUVOckFaZVJzd0hmNkM3RmpoY1BGYjhZNld0c2F2dmY4eDR5dHp0ZXBNTTBUTEx2ZThLNzd0a2dVYjh1anRjZ0JV?oc=5",
-      "source": "뉴스퀘스트",
-      "pubDate": "2026-08-04T09:08:52+00:00",
-      "description": "“EV 캐즘 뚫는 북미 ESS 대풍년…LG에너지솔루션, 2027년까지 실적 우상향 그린다” 뉴스퀘스트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7315d57d13af",
-      "title": "‘中 독점’ ESS용 LFP 시장… K배터리, 북미 타고 반격 모드 - 국민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CU3p2UFpXVF9IU29SVGtjWkJNckZHVUktNENHUFk5T19qZENSMWJHZTVKUkJ6ZF82dGtwZVdINDl6aUkwdlBBdmZRU3YwRTNRejloQnFoN0JycGxwcjJhbEZDRlJxdE1yNVBOctIBbEFVX3lxTE9CU3p2UFpXVF9IU29SVGtjWkJNckZHVUktNENHUFk5T19qZENSMWJHZTVKUkJ6ZF82dGtwZVdINDl6aUkwdlBBdmZRU3YwRTNRejloQnFoN0JycGxwcjJhbEZDRlJxdE1yNVBOcg?oc=5",
-      "source": "국민일보",
-      "pubDate": "2026-08-04T09:00:00+00:00",
-      "description": "‘中 독점’ ESS용 LFP 시장… K배터리, 북미 타고 반격 모드 국민일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "a9753b21b55d",
-      "title": "포항시·경북도, ‘지역별 전기요금 차등제’ 총력 대응...“전력 생산지 희생 보상하라\" - 포인트경제",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2dlpmd2FlYUlvSWN2cUhLU1dyeXZ2QmVKY2xNLWVJbUpxaEdzNGx0VUpleks2YUZ6bVliQjBvNmstVWU5Y19rMHBuVURFaE83RUZSUkkzVk1YZ1p3NXpoU183MDBRTGZRc3c?oc=5",
-      "source": "포인트경제",
-      "pubDate": "2026-08-04T08:56:51+00:00",
-      "description": "포항시·경북도, ‘지역별 전기요금 차등제’ 총력 대응...“전력 생산지 희생 보상하라\" 포인트경제",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "cb845e2431be",
-      "title": "경북도, ‘지역별 전기요금제’ 조속 시행 촉구…“전력 생산지역 혜택으로 돌아와야” - 미디어디펜스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YOTFjcUM3czNpOF9VOU9fWVRBdDY3UE4tZm93dzhhVi1Ua0V1c0RCckFtcXlXZk4zRUlIcllBZ3FZQXRzem9YLVNscUs4TVNUX1hCeWlxdUcxbVcyV2lDZXMwdUVock9oTmxz?oc=5",
-      "source": "미디어디펜스",
-      "pubDate": "2026-08-04T08:52:43+00:00",
-      "description": "경북도, ‘지역별 전기요금제’ 조속 시행 촉구…“전력 생산지역 혜택으로 돌아와야” 미디어디펜스",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "34797f14f4db",
-      "title": "배터리 3사, 美 ESS 수주에 하반기 사활…'AI 데이터센터' 잡는다 - newsworks.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Bc1JaRVlhOUdWTVlxMU4yZjFNeGtwQ3BvcTJXMzhKcWV5M1lvaGtmb01tSl9WYUZPNDlmcmM3R21lUFNFM29lZVllTmtJel93dFVRTGM1ZW9pY05xcDd4V2tYSXprX3FFSEdrTnRhTy1PSGfSAXNBVV95cUxOQXNSWkVZYTlHVk1ZcTFOMmYxTXhrcENwb3EyVzM4SnFleTNZb2hrZm9NbUpfVmFGTzQ5ZnJjN0dtZVBTRTNvZWVZZU5rSXpfd3RVUUxjNWVvaWNOcXA3eFdrWEl6a19xRUhHa050YU8tT0hn?oc=5",
-      "source": "newsworks.co.kr",
-      "pubDate": "2026-08-04T08:45:50+00:00",
-      "description": "배터리 3사, 美 ESS 수주에 하반기 사활…'AI 데이터센터' 잡는다 newsworks.co.kr",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "c88652d736e4",
-      "title": "李대통령 \"재생에너지 중심 사회로 갈 수밖에\"…ESS·지능형 송배전망 속도 주문 - 남도일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcGRCNllQbDRpeExuUU1ZYklJRUtmamFpNHBocHB3amd3Nko0VlpIQ21OaFlGVjVJS3l4UWFTbWZuWFZLal9tS0tBbzVMMXRuLWNBckp3dnNvQy1oZUtUS2pIbjJhQUFqUUFsUUJHVU3SAXBBVV95cUxPZHBkQjZZUGw0aXhMblFNWWJJSUVLZmphaTRwaHBwd2pndzZKNFZaSENtTmhZRlY1SUt5eFFhU21mblhWS2pfbUtLQW81TDF0bi1jQXJKd3Zzb0MtaGVLVEtqSG4yYUFBalFBbFFCR1VN?oc=5",
-      "source": "남도일보",
-      "pubDate": "2026-08-04T08:43:16+00:00",
-      "description": "李대통령 \"재생에너지 중심 사회로 갈 수밖에\"…ESS·지능형 송배전망 속도 주문 남도일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "b9ad59b35ee2",
-      "title": "\"전력 생산지 희생 안돼\"…경북도, 지역별 전기요금 촉구(종합) - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hcV9DWmZ3UXNraEtPdTB4YnJpd1pISjc3UkFxbUlwaGlEeEpodWFmdHdJMEdUUXVnN0FZN1M2T1ZXSE9UaHlqemRWZUlCTjZzWkUtVUM1ZnBIVjBhTWJn?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-08-04T08:42:00+00:00",
-      "description": "\"전력 생산지 희생 안돼\"…경북도, 지역별 전기요금 촉구(종합) 뉴스1",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "f29d978486b4",
-      "title": "LG·삼성·SK, ESS 시장에서 날개 달았다…북미·유럽에서 ‘반사효과’ - ceoscoredaily.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sRXpKcGgtU0xlZk1hdDh6X1U2YlJpSWF0Rlp1VWtkYTJVVFdPTDRSOEluMDlRdURGQ3RPNXRaMTVtX3dtZ05GWGdGNzAwME9zd01pMWhwaTZIN3lkLTBRMFR2VmlCMHY2aXVR?oc=5",
-      "source": "ceoscoredaily.com",
-      "pubDate": "2026-08-04T08:38:08+00:00",
-      "description": "LG·삼성·SK, ESS 시장에서 날개 달았다…북미·유럽에서 ‘반사효과’ ceoscoredaily.com",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d804bed0f2cb",
-      "title": "'전기국가' 속도…기후부, AI 시대 에너지 인프라 총력 - 국토일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WQXFseG5yc2tpNE9rSjMyeTExRGZrYnExTzJIN2hwTHNBeHRpNDdTM3dSdjRzSGVtUEkxSURIQ09HVDFSV09nNnYwM1p2UkZzMWV2RjREWEVQZjFhNklqM3hJU1M?oc=5",
-      "source": "국토일보",
-      "pubDate": "2026-08-04T08:30:00+00:00",
-      "description": "'전기국가' 속도…기후부, AI 시대 에너지 인프라 총력 국토일보",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "c667938f13bb",
-      "title": "[업무보고] 기후부, AI 데이터센터·반도체 전력망 선제 확충…지역별 차등요금제 도입 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDekowdl9yZzRMSTEzRmpvQ2NWc3hzU0loQzBYRzNJUjlOUlotVjdkZEhKSVFwQWQxUXJwelpFVzhVbmdRaE44VnQtalZNUG1fVTJHWGlvdDJtWWxi?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "2026-08-04T08:29:26+00:00",
-      "description": "[업무보고] 기후부, AI 데이터센터·반도체 전력망 선제 확충…지역별 차등요금제 도입 뉴스핌",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "7dea0c9aa638",
-      "title": "[사설] ‘산업용 전기요금 100원’ 현실이 되려면 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpYmdhNHZiTFp5bG5USHZmaWMwbktIRHJYT2tGZENPNDR6b1l5MXo5LWhydm1RZ2VuZHd5OVhYajdTVGdoUzJWdVVwbC1SQ1U?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "2026-08-04T08:26:11+00:00",
-      "description": "[사설] ‘산업용 전기요금 100원’ 현실이 되려면 v.daum.net",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "f7ffce8ebe0c",
-      "title": "[에너지 기획] 빅테크가 버리는 RE100… ‘탄소중립 쇼’인가, 현실 전력의 반격인가 - ainews1.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mOWlTRjA0UDczdVpEemNqbVlQdFUtbGszeWRhVUNYM1hIekkxNTR0blNxTlotOUFDeTRidWFTaWpnNi0zVnNxZUoxNm0yamg0VGhTOEJ2X1E2Y0FnT2JWbXRicXJNaGdKdG9Z?oc=5",
-      "source": "ainews1.co.kr",
-      "pubDate": "2026-08-04T08:24:40+00:00",
-      "description": "[에너지 기획] 빅테크가 버리는 RE100… ‘탄소중립 쇼’인가, 현실 전력의 반격인가 ainews1.co.kr",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "c8a4221e3a90",
-      "title": "\"전기 생산한 지역이 혜택 받아야\"… 경북도, 지역별 전기요금제 토론회 - hankookilbo.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tNXNycFA3UFA2RmE5cWRfaEJYa2I2UDFneEZkbFFSd2F0Vzhsdk91dk9pOUd4Z19OQzZBN19CZ0pZdUR4VXZLdnpRNm1Ic09SU1UwNm5mcWJ6Y1k5SVZ5TFJaYVdyOE1XQTdXbzRB0gFzQVVfeXFMTlBtVFRlWG85d3VsOXJZcGZlcUdlWWV3TjZPc084Q3o2Q2Jzcno4amdBSjBUMFFvZDF3bGNiRzZWdm5JT096T1RlVnBXbHVfX2VvY0hZN2FaenRmX3B5MTN6MFgySVJwZHJLTU50UlFDazRGdw?oc=5",
-      "source": "hankookilbo.com",
-      "pubDate": "2026-08-04T08:20:00+00:00",
-      "description": "\"전기 생산한 지역이 혜택 받아야\"… 경북도, 지역별 전기요금제 토론회 hankookilbo.com",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "41dd4412a5a1",
-      "title": "포항 철강 전기료 내려가나?… 정부, 4개 권역 차등 인하 - 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSjhwa21CaDgwRDhkU3Y1MHQyU0FHSkxoSXo0VUlPbUVyN1lwNWF6d2NwVllVUkZOM1dUYThYUlhfdHNYZ2RDWUtEaG9KZTA0NzFPeHE1WHU2dw?oc=5",
-      "source": "경북매일",
-      "pubDate": "2026-08-04T08:19:00+00:00",
-      "description": "포항 철강 전기료 내려가나?… 정부, 4개 권역 차등 인하 경북매일",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "3299e55637fc",
-      "title": "기후에너지환경부, \"AI·첨단산업 용수·전력 집중 공급\" - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83YTR1LWpfZllHV0xrbTZHVm1zX3BEU3BpbWEzRnNyU1VvUlNhX2FpcVotaWVDWFVGM1BnSW4zU0xWemNjWlhEZl9vMG92cXI4ZnpjSVBGMFNHeUo3dThBak9DY3A?oc=5",
-      "source": "매일일보",
-      "pubDate": "2026-08-04T08:17:46+00:00",
-      "description": "기후에너지환경부, \"AI·첨단산업 용수·전력 집중 공급\" 매일일보",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "7fc00be2547a",
-      "title": "산업용 전기요금, 전국 4등분해 차등적용…사실상 `인하` - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JZEJnWmhKMWZwYXBNR2pOamo2TUtzVHdhZ0hGTXZjdjRuQzNiTkNpREo3YmRHQWV5X1RuaFJmVkx3Z2dEZUtIQ3ZSRUVURHpmUU9WZ3dtMVZaNm1SZVJhaEgxMzBOSVE1ajBQNjNZZ1I0MEpm?oc=5",
-      "source": "부산일보",
-      "pubDate": "2026-08-04T08:15:36+00:00",
-      "description": "산업용 전기요금, 전국 4등분해 차등적용…사실상 `인하` 부산일보",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "3c73a88c8ebc",
-      "title": "양수발전, 한수원·발전 5사 ‘미래 성장동력’으로 떴다 - 데일리한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3YzVGUXVFdDJxOGd5Nzk4V21QMUFnd2NaZU8wcmJRWGotVUhfTC0zd3JLd0htekdoRWpZdXBwbmt5QzJVYmFEX3VGek5zS0ZfcEJRazU0YkZNM3otdzl2VlBRYTJZbE1PN0ZnNlFBNNIBc0FVX3lxTFBYTURTVXBEMUk5dkZiSzZValBXa2RNOE0ybjE5WXFONDRkY1lpbThReXhKRGZZamtxdDlHSHlWX1BvNzItSm1ZMGRJNVpEMk1POFp6Y0Qya2hzU1RpdF92VTlJUndIeFN4VUk5VXZpcTQtZXM?oc=5",
-      "source": "데일리한국",
-      "pubDate": "2026-08-04T08:15:36+00:00",
-      "description": "양수발전, 한수원·발전 5사 ‘미래 성장동력’으로 떴다 데일리한국",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "78a10dcb711e",
-      "title": "산업용 전기요금 하반기 4개 권역 차등 인하…AIDC 전용 요금제 연내 도입 - 스페셜타임스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SaGI5bzhCc3VfR0ZxSl9iaERlWGhEcl9PeHpHeW1hTFdHWl8yYUZ1NzdRUXRKUUxaV3dyZzJIMGhhWFVoR0taQ2hkeUNDMUI1Y2RfTmxveU5DZHRZaG1oVWNBZ3NJZ2t4Q1MwUHRITkFwd2M?oc=5",
-      "source": "스페셜타임스",
-      "pubDate": "2026-08-04T08:11:34+00:00",
-      "description": "산업용 전기요금 하반기 4개 권역 차등 인하…AIDC 전용 요금제 연내 도입 스페셜타임스",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "c43d5e29cf23",
-      "title": "북미 ESS 기회 열린 ‘K-배터리’라지만…3사 사업화 속도는 ‘온도차’ - 쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2LXQ0ZEg3enhma0xwUW04WkE3ME5icXNKNGtRcjdoOUhBOExBZlBBNnk1djN1MmFWM0J3UHdtZVhfZ3V4TTlHdjVTeHhKNkdvMEZNNVQ0Vnc0QXJRWEVGTWMtWQ?oc=5",
-      "source": "쿠키뉴스",
-      "pubDate": "2026-08-04T08:04:27+00:00",
-      "description": "북미 ESS 기회 열린 ‘K-배터리’라지만…3사 사업화 속도는 ‘온도차’ 쿠키뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "f2a3a62a83de",
-      "title": "산업 전기요금, 하반기 전국 4개권역 나눠 차등해 인하(종합) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XS0pDMWxtcjFpMFY0MXdLLU9FWGxJcDMzN01QSGRUTFlHUnRzZHJ1RVdFemtTNzBKSFNjNExxNzlUZ0ZXbXZMRkoyZ2JKV1M4RHNGR0NwSUJMZ3RuMVdhY9IBYEFVX3lxTE9XS0pDMWxtcjFpMFY0MXdLLU9FWGxJcDMzN01QSGRUTFlHUnRzZHJ1RVdFemtTNzBKSFNjNExxNzlUZ0ZXbXZMRkoyZ2JKV1M4RHNGR0NwSUJMZ3RuMVdhYw?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "2026-08-04T08:02:53+00:00",
-      "description": "산업 전기요금, 하반기 전국 4개권역 나눠 차등해 인하(종합) 연합뉴스",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "4426a9682966",
-      "title": "재생전력 30% 시대, 설비용량 아닌 ‘계통접속’을 세자 [이창언의 지속가능성 나침반] - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11X2ZlOERydVpLYmV3Z3NwTFN2NWFHVVRjbG9Ha29ERmdlWTNRSVA5TVFlQ0JfcjM4ODBWM2lQLXBZLTBleDlQSVJ3dWZPN2xHWEVHai1sY3p3aHNHYW5MYmFZZw?oc=5",
-      "source": "에너지경제신문",
-      "pubDate": "2026-08-04T08:00:00+00:00",
-      "description": "재생전력 30% 시대, 설비용량 아닌 ‘계통접속’을 세자 [이창언의 지속가능성 나침반] 에너지경제신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "9d1bf9bd1f8b",
-      "title": "‘격전지’ 된 ESS⋯ K-배터리, 美 생산능력 확보 총력전 - 브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16SzFrTTAxSGxjMlY1bFNUbGZYM0o1bVoxcThNOVpWUUZNaW43eEJRcDRlOGxyNGJwc05ZM2ZpOGVoNkh0WTlGOG9BajF5V3ZpX0E4R1dnZFNYQQ?oc=5",
-      "source": "브릿지경제",
-      "pubDate": "2026-08-04T07:59:00+00:00",
-      "description": "‘격전지’ 된 ESS⋯ K-배터리, 美 생산능력 확보 총력전 브릿지경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "b6c779c73bbc",
-      "title": "기후부 “가정용 태양광 잉여전력, 현금으로 정산받게 하겠다” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04Y2lnWDZfRE5QM3EtUmZfSXJydTllM0VVUzlCRWZzZ3RBTHZBVy1FbjZMSVVERWg1eG5IVVZuNHhaZGpSM3JfTHo2VVRZeEcyT2pPMmFYUFVkSmlTcnRmb2ZtUkJzaGt3YW9pM3cxa1FaZUFVMDNN0gFmQVVfeXFMTVBaMjdRSUREY2VVZmNfYTdpTVJqM3dxeE90eUxFV1N5a0ZNelpZT19vNmtLR3dUbWdTaW5TOHBLTDY1WF80RU5Oc0J4VGJPQlhsbHFhZGJKRnkzTTIwdDlOdzlYSmF3?oc=5",
-      "source": "동아일보",
-      "pubDate": "2026-08-04T07:58:00+00:00",
-      "description": "기후부 “가정용 태양광 잉여전력, 현금으로 정산받게 하겠다” 동아일보",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "7f1bfcaf8dff",
-      "title": "\"AI 시대 전기는 국가 전략자산\"... 김성환 장관이 꺼낸 '전기 국가' 구상 - OhmyNews",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1idnB2SWo2YmVRQ3dRNThGYzlKcFhvblduSHNXZVJvVWJtUkNfY29fSTVrUmVXa2ZoNFplMGwxaVZLMUp0MDZFWmNGYmJHMk0xZm5HVjRkNTlxNWg1WmM5WXZJZFNTNHRBNmRTUlFKWnBSOEZa?oc=5",
-      "source": "OhmyNews",
-      "pubDate": "2026-08-04T07:54:00+00:00",
-      "description": "\"AI 시대 전기는 국가 전략자산\"... 김성환 장관이 꺼낸 '전기 국가' 구상 OhmyNews",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "088a80523509",
-      "title": "기후부, 안정적인 전력.용수 공급으로 AI 대전환 뒷받침...하반기 업무보고 - BBS불교방송",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXbDFJZHpsZ1JZMGR4X3puaWwwd0huVlRNOG1TNy0tSGlmUU9JZ1plUklhODI2emRKTlZXX21JQllyNnQwbVQ3ZEJ0RjN4WnNCRGdzcENNWGRHTktWUW4tNmZaRzJWbzFib29R?oc=5",
-      "source": "BBS불교방송",
-      "pubDate": "2026-08-04T07:47:21+00:00",
-      "description": "기후부, 안정적인 전력.용수 공급으로 AI 대전환 뒷받침...하반기 업무보고 BBS불교방송",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "59465982101a",
-      "title": "'전기국가'로 AI 혁명 선도... 2030년 재생에너지 100GW 달성 - OhmyNews",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Rl9xbHhsQlhZR2lfenRneUZkVFd5a0RZR01EQ2RiZndiWWItQzVhVjBlSWNkQXlLWWd1V2ZmSDZSNEFWNHM4SFl2NnB5Q29IX0JLY2xLb05EMEpGdnpEcDlCTDlfLXZsdjZwN3h3bUZVeF8t?oc=5",
-      "source": "OhmyNews",
-      "pubDate": "2026-08-04T07:47:00+00:00",
-      "description": "'전기국가'로 AI 혁명 선도... 2030년 재생에너지 100GW 달성 OhmyNews",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "5743a23f97f2",
-      "title": "AI 시대 전력수요 대응 해법 찾는다···수소 역할 집중 조명 - 가스신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDU3NLT0NKSnllV2ktM2lwRkNNLTJuaFNZUURDdGxZUDU3RHdnUGpvbWZydUhFQk9tUENNSWUxbjl6MmNJMUJVTjRLUEpJRllGaWlheVkyRTVFcjBzYW5hQ01PbmVzYk85ekNpSzlR0gFuQVVfeXFMUENTc0tPQ0pKeWVXaS0zaXBGQ00tMm5oU1lRREN0bFlQNTdEd2dQam9tZnJ1SEVCT21QQ01JZTFuOXoyY0kxQlVONEtQSklGWUZpaWF5WTJFNUVyMHNhbmFDTU9uZXNiTzl6Q2lLOVE?oc=5",
-      "source": "가스신문",
-      "pubDate": "2026-08-04T07:45:29+00:00",
-      "description": "AI 시대 전력수요 대응 해법 찾는다···수소 역할 집중 조명 가스신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "3da090f3490d",
-      "title": "‘지역별 전기요금 차등제’ 연내 확정…기간산업 부담 낮춘다 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Vb3I5U2t3Z2pmOXNVMXl3aEtlX1ZEWVlPTm45NUhjbWZ1WjlfTlVXQ0UwT3R5STd1N2g4ZWVzMDFYTElZTmZOekxhWjl4RmtlZzlZS3BKbF91YXJqUldCUVY4TVpHWHRQaWxfU21GbEVKSDZ6YjNN0gFmQVVfeXFMTVlJSEVQX1R5bVNyMi0wX3lwaFBHcnExTEk1WUNmd1h1QkxETklCREhWb3ZiRklyOVN6dFVpcXd0LTZ1M3NDYXdfa1EwYW44dHpUWnlRSm0wNmVTc19kMHNJbDRsdHRR?oc=5",
-      "source": "동아일보",
-      "pubDate": "2026-08-04T07:44:00+00:00",
-      "description": "‘지역별 전기요금 차등제’ 연내 확정…기간산업 부담 낮춘다 동아일보",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "86551afce8ad",
-      "title": "美 ESS 붐에 ‘배터리 밖’ 기회…K-변압기·케이블 공급망 부상 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ed1RhRVhxZ2VJak9FTEZ6WFdZazNMSklWc0ZUTGJCelVpSXZNbTR1c3lZMS1NT0Qtek0xOE1zLVFVc2lsSnB6T1FEcDJRb2NHWEhuNkpqMXZoV2tOVHRSNzhvV1Q?oc=5",
-      "source": "매일일보",
-      "pubDate": "2026-08-04T07:43:49+00:00",
-      "description": "美 ESS 붐에 ‘배터리 밖’ 기회…K-변압기·케이블 공급망 부상 매일일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "03ba840362eb",
-      "title": "2차 전지업체들, 2분기 깜짝 호실적…앞으로 '뭉칫돈' 신호탄? - 논객닷컴",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTTm14cmdCdXJBYmdPYlk2VHo2YnpXSXVYdC0wemdWRUFMellELTNNZng1S2lteTJGanZIWEp2cy0ySmZxenZ3bmxXN3F2VjFFN2xsMGUwOEdHTHhVN2pTdmE2czY1dXgxVzU40gFrQVVfeXFMUFNObXhyZ0J1ckFiZ09iWTZUejZieldJdVh0LTB6Z1ZFQUx6WUQtM01meDVLaW15MkZqdkhYSnZzLTJKZnF6dndubFc3cXZWMUU3bGwwZTA4R0dMeFU3alN2YTZzNjV1eDFXNTg?oc=5",
-      "source": "논객닷컴",
-      "pubDate": "2026-08-04T07:41:41+00:00",
-      "description": "2차 전지업체들, 2분기 깜짝 호실적…앞으로 '뭉칫돈' 신호탄? 논객닷컴",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "cc1638453422",
-      "title": "[거래소 기관] NAVER 사고 삼성전자 팔았다… 수급 변화 뚜렷 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5d1VZc2F0TDNlTE5VN054a09Oby1mWC1uVG5sWEpxdUNKc2VqbG5zX3RTX3l6UGJyM0t4bGxpaG9FTUUyYVl1RWtuM05MMjhqSWRJV3RITjFzU1JUa3gzRkREbURUbUkzZm50V2RKaEZtUDFyMFBR0gF3QVVfeXFMUHl3VVlzYXRMM2VMTlU3TnhrT05vLWZYLW5UbmxYSnF1Q0pzZWpsbnNfdFNfeXpQYnIzS3hsbGlob0VNRTJhWXVFa24zTkwyOGpJZElXdEhOMXNTUlRreDNGRERtRFRtSTNmbnRXZEpoRm1QMXIwUFE?oc=5",
-      "source": "핀포인트뉴스",
-      "pubDate": "2026-08-04T07:38:15+00:00",
-      "description": "[거래소 기관] NAVER 사고 삼성전자 팔았다… 수급 변화 뚜렷 핀포인트뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "88b12c317348",
-      "title": "기후부, AI 시대 '전기국가' 속도…재생에너지 100GW·물공급 혁신 추진[업무보고] - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByQ0NiU3BVYklZUVpVVGE4TGs4bE9tck13cE5vallzQXFiZjJDU2ktM2hOWUtoODNpRlpkMXZobl9BT2lhOHZjbWx5VVgyRGpMU3B0U2FmbnF4aEtMMEd2Ng?oc=5",
-      "source": "아시아경제",
-      "pubDate": "2026-08-04T07:36:27+00:00",
-      "description": "기후부, AI 시대 '전기국가' 속도…재생에너지 100GW·물공급 혁신 추진[업무보고] 아시아경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "8b9286cc4db7",
-      "title": "\"지역별 전기요금, 송전비 반영 체계로 설계\"…도입 촉구 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DYVZNRGtPcG9UbmRneDZpdmluLVFJR1ZoZVE5ZWFHM050dExaUlROMV9mMUNnQzYtQ3dnWU50Z2VRS1VuREJkd2FlcFd1cFd6dW1BS1k0YVk5WEM5N3FURnRxMWVDZ0ROZ2dJRjdrbWNsSllaaHlQWdIBeEFVX3lxTE9DYVZNRGtPcG9UbmRneDZpdmluLVFJR1ZoZVE5ZWFHM050dExaUlROMV9mMUNnQzYtQ3dnWU50Z2VRS1VuREJkd2FlcFd1cFd6dW1BS1k0YVk5WEM5N3FURnRxMWVDZ0ROZ2dJRjdrbWNsSllaaHlQWQ?oc=5",
-      "source": "뉴시스",
-      "pubDate": "2026-08-04T07:32:15+00:00",
-      "description": "\"지역별 전기요금, 송전비 반영 체계로 설계\"…도입 촉구 뉴시스",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "93f99b1039d9",
-      "title": "[분석] AI가 바꾼 전력 질서… 에너지 패러다임의 전환, 흔들리는 RE100, 떠오르는 CFE - ainews1.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBZU9CQk1pbGF4TV81LVktbkh6RVl6VGNaMkxPTjd6WUtJVWx6RnU2RUt0dnZqR0syT3BsbnN1bmxacmFnYjI1THZjdnBKN3ZlYVhfNUZvcFNIOXVrM3BoYnNRU1JDcV9DVm1j?oc=5",
-      "source": "ainews1.co.kr",
-      "pubDate": "2026-08-04T07:31:54+00:00",
-      "description": "[분석] AI가 바꾼 전력 질서… 에너지 패러다임의 전환, 흔들리는 RE100, 떠오르는 CFE ainews1.co.kr",
-      "category": "AI",
       "priority": false
     }
   ]
