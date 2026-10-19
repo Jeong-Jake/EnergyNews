@@ -1,13 +1,603 @@
 {
-  "lastUpdated": "2026-10-18T18:12:36.636899+09:00",
-  "totalCount": 45,
+  "lastUpdated": "2026-10-19T09:34:00.495908+09:00",
+  "totalCount": 85,
   "articles": [
     {
-      "id": "766301e90097",
+      "id": "972e16f166f1",
+      "title": "엔라이튼, 기업별 재생에너지 조달·전력관리 솔루션 선보인다 - 로이슈",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3czkzWVYxMXNEVlRUNWVsUkdkdUV4R3dJZHVjejRmeUpMcWZqQURwLXpfZW1vX1o0dUFjV3hwcGhEanllS2NwdTFWZE5VaHFGVDQwOWp0Y3BiZS1pT2lTWkE4LWdzQWluUVNGUUQxeV80UkJJbXJLVGd3?oc=5",
+      "source": "로이슈",
+      "pubDate": "2026-10-19T00:20:58+00:00",
+      "description": "엔라이튼, 기업별 재생에너지 조달·전력관리 솔루션 선보인다 로이슈",
+      "category": "VPP",
+      "priority": false
+    },
+    {
+      "id": "e4832821a848",
+      "title": "충격에 강한 각형 ESS 배터리… 울산공장 年15GWh 생산가능 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWaFN4b1k0MDdlVGdUVTZKdVBQbksxbDdwTU9PWkhzT0FHQkZ2UDlrZXJhaEN2SExWb0hCdlBTOTBmRDkxQTV5MktWYlFVeFF2?oc=5",
+      "source": "문화일보",
+      "pubDate": "2026-10-19T00:15:43+00:00",
+      "description": "충격에 강한 각형 ESS 배터리… 울산공장 年15GWh 생산가능 문화일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "476b4a2f9806",
+      "title": "국내 유일 LFP배터리 상업 양산… 양극재 등 핵심소재 국내산 사용 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50WHh3aGlGT0FrVmVrQVdYRzVLYjVlOXQ1cU5Pck9LUG9vaUg5MHZUdU8tM1QycTZxUVc4dkJVVWc5RkhHRWZ6cW5xR2NFbjNN?oc=5",
+      "source": "문화일보",
+      "pubDate": "2026-10-19T00:15:25+00:00",
+      "description": "국내 유일 LFP배터리 상업 양산… 양극재 등 핵심소재 국내산 사용 문화일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "79af230654e6",
+      "title": "2조대 ‘정부 ESS’ 입찰 초읽기…‘국산화·안전’이 승부 가른다 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xQkVCYk5hNnJOREFhbmpQUDZzSlc3TzExb1hHdXNqbTNsNldFMFF0SWF6QUpkcTl0Y2R1c1pRNU9TWEZ0bXpWVXo2Y2ppVWtv?oc=5",
+      "source": "문화일보",
+      "pubDate": "2026-10-19T00:15:10+00:00",
+      "description": "2조대 ‘정부 ESS’ 입찰 초읽기…‘국산화·안전’이 승부 가른다 문화일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "66ac63d50266",
+      "title": "에너지 IT 플랫폼 엔라이튼, 'ESG 친환경대전' 참가 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NTGdVZVJFUUcwTENzcTJBNV9OdVFmaGdpR0trNGlsVXpWc2h4NGdVTVZzSnBFcmQyLUtxWFQwX3NhWGJ1bFNqRENZTmFmcHRPVmRpWXhR?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "2026-10-19T00:03:08+00:00",
+      "description": "에너지 IT 플랫폼 엔라이튼, 'ESG 친환경대전' 참가 지디넷코리아",
+      "category": "VPP",
+      "priority": false
+    },
+    {
+      "id": "b10aaf191c66",
+      "title": "\"한국형 원전 기술 자립 역사와 미래 조망\"…김병구 박사, 원자력 신간 출간 - 에너지코리아뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DS2oxOVJzUHlld09KM2JhODYtR2ttSnhkTGRZWjJmX3p5ZldEM2kzTlNUMW4ySmYtbWc2Yl9acVBwQ0N5MVNhdUF1dG01ODRXZmFmdnNISnpBV2MxZ1V0XzRtOWc5Mlh1a0VpNEtocjA?oc=5",
+      "source": "에너지코리아뉴스",
+      "pubDate": "2026-10-18T23:58:24+00:00",
+      "description": "\"한국형 원전 기술 자립 역사와 미래 조망\"…김병구 박사, 원자력 신간 출간 에너지코리아뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "8b77be76f54b",
+      "title": "렉스이노베이션, 한국예탁결제원 주최 'K-Camp 광주 7기' 우수상 수상 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5UHlKd1pKZE5sUGM0b0tVMUQzampwd1ozUnVQYUtJLXNDS21ta1FYWm1SdE9lU2RNX0ltWXdzSVFKSlVXOEgzdGI2c20xUQ?oc=5",
+      "source": "전자신문",
+      "pubDate": "2026-10-18T23:55:59+00:00",
+      "description": "렉스이노베이션, 한국예탁결제원 주최 'K-Camp 광주 7기' 우수상 수상 전자신문",
+      "category": "VPP",
+      "priority": false
+    },
+    {
+      "id": "f31fd0789d78",
+      "title": "신한자산운용 '전고체배터리·실리콘음극재 ETF', 3개월 수익률 22.76% 기록 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FY3BlLTRwOWpkQWZNR1VPam95LU1nT1BjcGNhek1udjVRY2p6Z2t5U3BHTVU5M1lFMWQ4MkFleXB0cE9Ic05rdWgzTnFsNjV2WWNJNHoxdVJ4bTJ0?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "2026-10-18T23:54:00+00:00",
+      "description": "신한자산운용 '전고체배터리·실리콘음극재 ETF', 3개월 수익률 22.76% 기록 뉴스핌",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "669194527fe4",
+      "title": "현대건설, 호주 전력망·신재생에너지 시장 공략 가속 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FbDFMcmJ3NHdMeUxCVkJGalpYYi10SkREMWY1ZExYMW5Gc3dRYUJQM1AxdzFNRG4xSXpHUm5IRjJCZjYwcXE1RTBjajJCWVd2c1hzcWRXS1I3R1dWeExzQjRJbVVBTmFz?oc=5",
+      "source": "www.ebn.co.kr",
+      "pubDate": "2026-10-18T23:51:32+00:00",
+      "description": "현대건설, 호주 전력망·신재생에너지 시장 공략 가속 www.ebn.co.kr",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "f67fa31f11d3",
+      "title": "“AI 시대 기업 경쟁력은 에너지”… 엔라이튼, 친환경대전서 맞춤형 RE100 솔루션 공개 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUxzeXBpdzVkNEViSmxjNTY3YURtTGdRVThRQmFhcVZQR0RMVVZRQkJBWlMyVGQ1eTdRai1YR2tBdTZtb3ZKUzMwN2ZEVnQ4d0Z2UFRnYmFFTm9oVjZKRVJrS1pTYm9kUExiMEV0dkhtbE5SM3A3MmNCZUZiMlNGUA?oc=5",
+      "source": "이데일리",
+      "pubDate": "2026-10-18T23:48:06+00:00",
+      "description": "“AI 시대 기업 경쟁력은 에너지”… 엔라이튼, 친환경대전서 맞춤형 RE100 솔루션 공개 이데일리",
+      "category": "VPP",
+      "priority": false
+    },
+    {
+      "id": "317c43cee3f9",
+      "title": "[삼성] 삼성SDI, 美 배터리·관세 정책 대응 로비…1분기 17만달러 지출 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UUktKZ1ltWTF2YUJCdHhYejdkX0lDOUVzUDIteThfXzZhc2xxS0dGSTFvckxiRmJ2UHE3TUh1WFpvUEUzME5tQ2ZvajlpUWZLZlZyUThmQkh5WjVpb1RsT0c1WXc5cFlV?oc=5",
+      "source": "www.ebn.co.kr",
+      "pubDate": "2026-10-18T23:47:06+00:00",
+      "description": "[삼성] 삼성SDI, 美 배터리·관세 정책 대응 로비…1분기 17만달러 지출 www.ebn.co.kr",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "65a1333bf9fe",
+      "title": "현대건설, 호주 에너지 인프라 협력 확대… 오스넷·CIP와 손잡아 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDRBS2Flek5sZ3VvcVJQNFFzOFAtUzRTczd4ZWo2aWRrdmxSbDRLc1RRX2QxVWdoVGxkOWl2Z2h4N21DdEowVno5VEtNM3U4TzhRTS1pSWdNbFExUDhDOHJIcEJvamc4OG9TQmVRdkJ6UzlfQ2xmZVpySVpFUTVGTlJ5eWVEeHJNT1VUY3NyZVpQNFJVMGpObdIBrAFBVV95cUxQbDhTY1l1VFE3ZFdEVkswejJ0MkszX29qUnh2dDUtYl9QSThIanhySUNRQ3BBUXF2SVFnSDNlOXFNdmtJekJUZThoZFk5VFZyMnhWdndjNjhnQW1GMGhMS1RoYTNXR1NEbS1MdEtzTm5IaktsT3JJcThYalhydlR2S0k2aFpWeHcxc0NGV0dkWmpkaDAzR0ZpNXFBODJkQmQxMU16SDQ4bTRZMXRQ?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "2026-10-18T23:44:00+00:00",
+      "description": "현대건설, 호주 에너지 인프라 협력 확대… 오스넷·CIP와 손잡아 - 조선비즈 Chosunbiz",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "fa48ed11d860",
+      "title": "'SOL 전고체배터리&실리콘음극재', 3개월 수익 주식형 ETF 중 1위 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GVGRvUFZ1ckFFMTdsVGRTZUlOQmdWVEtQZnJ3eFBuaDhranNaSGphb3ZfYjZybTZiLWhjdnJYcmxlWkw5UnhCZVNZSDJoZzlITk54RVNmS0NVNzBqcTRoSHhR?oc=5",
+      "source": "아시아경제",
+      "pubDate": "2026-10-18T23:37:00+00:00",
+      "description": "'SOL 전고체배터리&실리콘음극재', 3개월 수익 주식형 ETF 중 1위 아시아경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2b66dd9166ec",
+      "title": "LG엔솔 3분기 역대 최대 실적…북미 ESS가 갈랐다 - 리드경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jeWZhNUhXVXQ4TnlFNVhBSTFDOXN2WlZleG9ycVRlQy1GN0FsRUJJYkl1UHgzYXJacTllNURfWmRiWVZ2U3hCV1pEUHRFbXlWZ2IycFRlMXpva3V6MGdnTnpTaGpCYVlTTjBVM2JpT3E?oc=5",
+      "source": "리드경제",
+      "pubDate": "2026-10-18T23:34:00+00:00",
+      "description": "LG엔솔 3분기 역대 최대 실적…북미 ESS가 갈랐다 리드경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "dbf1480b0921",
+      "title": "현대건설, 오스넷·CIP와 손잡고 호주 에너지 사업 확대 - 시사코리아",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5BRU1OcUowVGFFc3IwSmtMbExqdHl2djEyUWR1dWYyRnRSek8wNFZYQTFhanY3UmdyM0p3MmdOTlJiMHZZ?oc=5",
+      "source": "시사코리아",
+      "pubDate": "2026-10-18T23:28:00+00:00",
+      "description": "현대건설, 오스넷·CIP와 손잡고 호주 에너지 사업 확대 시사코리아",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0654fee19666",
+      "title": "박정 의원, 분산특구 ‘전력 70% 자체 생산’ 기준, 재생에너지 확대 걸림돌 - 이머니뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BZ2c0bExqNzM5U1pyQWdVWkFWLUhvUU5mOEpFbjdNTlRvWlRnTGxzSkVwOFRjQkFuemRBWHYweUx5ZVlVbU9uYkJ2LXZDZlIySlFfYWZDamp6MTRwX0pfa2NJTWp6dnhvS2JEbldHQQ?oc=5",
+      "source": "이머니뉴스",
+      "pubDate": "2026-10-18T23:13:16+00:00",
+      "description": "박정 의원, 분산특구 ‘전력 70% 자체 생산’ 기준, 재생에너지 확대 걸림돌 이머니뉴스",
+      "category": "제도개선",
+      "priority": false
+    },
+    {
+      "id": "25d3d9a018ff",
+      "title": "K배터리 3사 실적 희비…LG엔솔 '최대', 삼성SDI '흑자', SK온 '적자' - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUEVfSkZEMFJmSkpyc0ZFdWJiRXZMb25mSHVyY0owY2FFTUFXOEpkUVdHN2k5eFJGMDh5WTJ4UDdlTHhGZTBCUTEzQm91VE1XZlpUOVhZb1Ewdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "pubDate": "2026-10-18T23:03:45+00:00",
+      "description": "K배터리 3사 실적 희비…LG엔솔 '최대', 삼성SDI '흑자', SK온 '적자' 파이낸셜뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ea4cc738cb21",
+      "title": "[박상욱의 기후 1.5] “AI로 인한 전력수요 폭증, 시민의 이해관계가 우선돼야” - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OLWotNW1ITVk1UjJKRzA4QXlBRnJkWGRRb2Q1WjVFUDRIdjctR3pJeGFEN0ZOTUF3TVMyS1lYZHZidV9JVUJZLVIwN1ozWVN5VkI2cg?oc=5",
+      "source": "JTBC",
+      "pubDate": "2026-10-18T23:00:00+00:00",
+      "description": "[박상욱의 기후 1.5] “AI로 인한 전력수요 폭증, 시민의 이해관계가 우선돼야” JTBC",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "84213ca51de9",
+      "title": "3분기 K배터리 실적전망은…LG엔솔·삼성SDI '맑음' SK온 '흐림' - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHdEU0tOSmMwZUZCSHMtbEhFb0FjWkw4TTJpZFZMNkk4ZUpIZFhKM1lhOVlUWlhpTG5KeHpmRTgtVHgyVGZBME05ZzJ3d3BOdVlzVThaU1g4d2NYTU9wQdIBYEFVX3lxTE45RHdEU0tOSmMwZUZCSHMtbEhFb0FjWkw4TTJpZFZMNkk4ZUpIZFhKM1lhOVlUWlhpTG5KeHpmRTgtVHgyVGZBME05ZzJ3d3BOdVlzVThaU1g4d2NYTU9wQQ?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-10-18T22:31:01+00:00",
+      "description": "3분기 K배터리 실적전망은…LG엔솔·삼성SDI '맑음' SK온 '흐림' 연합뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f0349c550e5d",
+      "title": "삼원계에서 LFP로…ESS 열풍에 K배터리 전략 대전환 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Sl9xNWFQbER2S3hGYmVTX0tnVk9iY1kyOUZNTFI0UkJPbFBOdzdud3ZmakgxY0hMOXhnenFMa1lJMFRNclFwN3J1ZmFlblpyRUpTYUZRQ0N0Zi1SbE1qOQ?oc=5",
+      "source": "아시아경제",
+      "pubDate": "2026-10-18T22:31:00+00:00",
+      "description": "삼원계에서 LFP로…ESS 열풍에 K배터리 전략 대전환 아시아경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b4ced70b9e2c",
+      "title": "[건설사 신사업 전략①] 에너지로 사업 넓히는 건설사 - 뷰어스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11STAtUlhELXB4UmRrTUxNVzVONmNrNkU0aGN5V2thb0w1dHZERDJXZF9hVmF5cW41VjZSOFpscGtYMVpLX0hIR3NPUW1yMkZFcWdjUlMxVXU?oc=5",
+      "source": "뷰어스",
+      "pubDate": "2026-10-18T22:00:07+00:00",
+      "description": "[건설사 신사업 전략①] 에너지로 사업 넓히는 건설사 뷰어스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "4717df5fc4b3",
+      "title": "\"전력수급계획 송변전사업 10건 중 6건 이상 지연…누적 121년\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JS1NMekxJZjdBNlMzeS1iOXpGeWFCcEJQdzRnRkRoa2pycEtOZEdJSEhMbEYzU1dYN2VXbXktTExBcjcyYXlOMVBRQlktdHI4eFFNTkYxN3VmMDTSAWBBVV95cUxOUVd3OEYtOEZxQm9HSUU1YWQ0bmdKOUFhTXkzZ1dwaC1hRFliN0dkSlJCNno3NnIyemwxRzRyb2k5QXM0cE51NzNsTVc2ZHJuZE95SmZ4R215S3Y5RmlzV24?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-10-18T21:47:00+00:00",
+      "description": "\"전력수급계획 송변전사업 10건 중 6건 이상 지연…누적 121년\" 연합뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "6fead147a379",
+      "title": "등방성 그래핀, 데이터센터 에너지비용 10조 원 이상 줄일 수 있을까? - ABC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KaHRqNFctaFlGMnFtWGNXMERVX0liV2c1bjN2QzZnM01pcml1ZkJVNzRYakdlMGNxTWpleDhrM1hRVmtCcVAteVpVWE51YUVlUDhaRWt5VUNPaXhaS0xlbzhvd2tnWEXSAWdBVV95cUxNSmh0ajRXLWhZRjJxbVhjVzBEVV9JYldnNW4zdkM2ZzNNaXJpdWZCVTc0WGpHZTBjcU1qZXg4azNYUVZrQnFQLXlaVVhOdWFFZVA4WkVreVVDT2l4WktMZW84b3drZ1hF?oc=5",
+      "source": "ABC뉴스",
+      "pubDate": "2026-10-18T21:18:04+00:00",
+      "description": "등방성 그래핀, 데이터센터 에너지비용 10조 원 이상 줄일 수 있을까? ABC뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "42aa9dfebc32",
+      "title": "[단독] 보조금 의존하는 재생에너지?…145조 중 91조가 ‘REC 지원’ - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SbEFsb1NIRTR2MHlBdzE4V0ZQWUtXS3owZHRUcDRMekt1cUNsb2pnaHNGNXVua21oT2VBQXExenBYYTBXVjBHdGU4WENVUDNpNkplWGpDd2cxRUZDaUNhaTVxNWtQczV5ejNSdS1iNlFFeVHSAXNBVV95cUxNUmxBbG9TSEU0djB5QXcxOFdGUFlLV0t6MGR0VHA0THpLdXFDbG9qZ2hzRjV1bmttaE9lQUFxMXpwWGEwV1YwR3RlOFhDVVAzaTZKZVhqQ3dnMUVGQ2lDYWk1cTVrUHM1eXozUnUtYjZRRXlR?oc=5",
+      "source": "시사저널",
+      "pubDate": "2026-10-18T21:07:04+00:00",
+      "description": "[단독] 보조금 의존하는 재생에너지?…145조 중 91조가 ‘REC 지원’ 시사저널",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "e8dbe3700c1b",
+      "title": "'SEP 2026'서 육군 차세대 전력망 '이동형 마이크로그리드' 공개 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91UkR0M013Y0dONGdmNEpLQ2hrQnpqQW9Kb0loNkdzekFYcU1ta0dCTGNVUUhfbTluOWNmYnIwVE1xUmNCelhyNi1kLUVxTkpxTU9VbzJTOFhkc1hsdThoclZhZmtZOHdQVkdUQ0FMV3pKZ9IBckFVX3lxTE91UkR0M013Y0dONGdmNEpLQ2hrQnpqQW9Kb0loNkdzekFYcU1ta0dCTGNVUUhfbTluOWNmYnIwVE1xUmNCelhyNi1kLUVxTkpxTU9VbzJTOFhkc1hsdThoclZhZmtZOHdQVkdUQ0FMV3pKZw?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-10-18T20:00:00+00:00",
+      "description": "'SEP 2026'서 육군 차세대 전력망 '이동형 마이크로그리드' 공개 - 머니투데이 머니투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "404d5456ba89",
+      "title": "첫 이용에 필요한 메뉴만 짚는 강원랜드 카지노 술 시작 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLV9hVW5TOUxQMVA4NXpvLTJRazU3cDJtQW81TC1lcWJaemJoNFlNTUMtWXZ5c2tKV1B3bHFwREs5MUpxU25XZjA5QXB4VHItUllxekFjdE9uMFM4VGdmakUzc1JlSUFwcVFmZVJaalBuTFlmUXVPVjdscy1XTDZoTzFKM1dKUXJxVkxtRkpCTFFTa1ViLThneHVaR3VYQVc3bm9uV2padGVGTEY2cmFvenFQY1pPT1ZSejNJ?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T19:41:23+00:00",
+      "description": "첫 이용에 필요한 메뉴만 짚는 강원랜드 카지노 술 시작 안내 Calgary Roughnecks",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "3094546515e7",
+      "title": "美석유 본산 텍사스 채운 태양광·풍력…\"이유? 가장 싸고 빨라서\" - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVFdWdlg5OTBBUU1HSS1oOTBjTE51UTNqVVJPQ25nbmxTWVFVWlZLd0kxZjRNUUs2NktEcGJIQmxRcWNfMG81a2RxTXV3dGx5YWRxX3hUUUVWanVHSTkwV0dxMkFKaW5wU3EwMlBDQl9kd9IBckFVX3lxTE5kVFdWdlg5OTBBUU1HSS1oOTBjTE51UTNqVVJPQ25nbmxTWVFVWlZLd0kxZjRNUUs2NktEcGJIQmxRcWNfMG81a2RxTXV3dGx5YWRxX3hUUUVWanVHSTkwV0dxMkFKaW5wU3EwMlBDQl9kdw?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-10-18T19:10:00+00:00",
+      "description": "美석유 본산 텍사스 채운 태양광·풍력…\"이유? 가장 싸고 빨라서\" - 머니투데이 머니투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "ef3cf0d59727",
+      "title": "태양광 먼저 깔고 AI데이터센터 건립…구글 텍사스 현장을 가다[르포] - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMG85eDgxaGtJQ205WXVKTG95dFNia2tsbWRLRWtLMTBMUExXajhUWWw2bGpIbjNqZnFhakhabUxac3hnMVN3aExXaU13YmpUdFJhQTJSU0V0MVhabmxnYkZObnFSRGoxeDJmZ9IBckFVX3lxTE1NUzhPZ3ZkblVQd04tTHpSX3BKZFZ3eDVwLXhNTFFSdzV2SnI5OFNvcm1XTWdWV3hWaG11bUpVVGEtYW95VWcybldTdHMxY05IRTlmQWxaZEVuaGhLcjRnOWp2LXp4TlF6OS13UzBqV3o3QQ?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-10-18T19:00:01+00:00",
+      "description": "태양광 먼저 깔고 AI데이터센터 건립…구글 텍사스 현장을 가다[르포] - 머니투데이 머니투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "528ef4f7a5fd",
+      "title": "소리와 움직임을 조절하는 토토야 어디있니 환경 설정 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVB5WDNnX09NZ1lvSHpJcUxtMW1TRlFYanpMendjMmVSbTY1MFF2VDJ4Y21GZmg3TzNxcHhrSFFVeGtDUjJLc0k4dzJoTWNEZ05Ib2g4ampJMm5lZzhoeTZsT3lQXzNsMEhQMGQ5dFNiSjJ0Wm9hZ0lEaWk3NndmbDZNa3JOME85?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T18:10:09+00:00",
+      "description": "소리와 움직임을 조절하는 토토야 어디있니 환경 설정 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "788ea9c5a60a",
+      "title": "작은 아이콘에도 설명이 필요한 팔라딘 토토 주소 인터페이스 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JX1BBX3VLeWhHSU50Y29qcEludTcySXpvRDlnZkNsS0ZHS3ZZSkc0SDREVnZ1ajNPSUNlcjJ0czRFbXVDa1pSMjY4T1ItU3BtbzU2VWlWVC1RTFk?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T15:58:25+00:00",
+      "description": "작은 아이콘에도 설명이 필요한 팔라딘 토토 주소 인터페이스 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "f93dd76a76e3",
+      "title": "[글로벌 포커스] 핵잠 도입 경주 합의 1년 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubllXSmFlZi1WYXk4Z1NoT1ZSbGg1bnhLV0lrVVdMZEY4cFZtTFMtRzQzUmNnTE50WGF1bDNtYWc3R09pT3ZScWVJQ2RvVHhScm5na3Vwa0pNaDQzMG9xd1dMYXlkam55Y2RmQtIBbEFVX3lxTE1ubllXSmFlZi1WYXk4Z1NoT1ZSbGg1bnhLV0lrVVdMZEY4cFZtTFMtRzQzUmNnTE50WGF1bDNtYWc3R09pT3ZScWVJQ2RvVHhScm5na3Vwa0pNaDQzMG9xd1dMYXlkam55Y2RmQg?oc=5",
+      "source": "국민일보",
+      "pubDate": "2026-10-18T15:36:00+00:00",
+      "description": "[글로벌 포커스] 핵잠 도입 경주 합의 1년 국민일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "48af3dcf7dbf",
+      "title": "[글로벌 배터리 대전 (38)] LG에너지솔루션, 중국의 ‘LFP 천하’ 앞에서 망치 대신 망간을 들다(上) - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQlBqUHM2N1U2eHpkNnNTTWl1dnY1NktkWS1PX0o2Qk9CdEJNdkYwMnFiNFZfUEJKczgyR1FOQ24wSTVtRURSdTJfSHJ4RmNjcU9NeHVCUGlmUFZzd2c?oc=5",
+      "source": "뉴스투데이",
+      "pubDate": "2026-10-18T15:30:02+00:00",
+      "description": "[글로벌 배터리 대전 (38)] LG에너지솔루션, 중국의 ‘LFP 천하’ 앞에서 망치 대신 망간을 들다(上) 뉴스투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "fbb0d3378111",
+      "title": "토토로 사츠키 나이 보너스 기능의 시작과 끝 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNclhnUzcxNnAzbS1WMU90VjVUYXVUemUyY01PcTFEd0pPdTZOcTdrNmZJM2U5a2xyUkR2c25JSlRHUVpIU3JLM1BfN2tsTnZJSHhKR3JvRDBfUkgtb1h1NnoyMWZhODRVbWJ2WHJOTlVsa24zcmpoYjRiUlJsaHQ1dnFIbExPYkNGeVFoOQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T15:25:48+00:00",
+      "description": "토토로 사츠키 나이 보너스 기능의 시작과 끝 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "5df5622a7788",
+      "title": "남부발전, 전기버스 사용후 배터리 활용 ‘화재방지형 R-ESS’ 실증 - 인사이트N파워",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCQ1lCN3kyOGdBWFVPNVlqZHBRSV9OU3AzV2FERXhOUlBHWnl4QVFibWdXU3JvQVFNQnNOYmNUWVVsMEczbVNpR21BSzVpOFN2R1hMV213OVdmNGh2QjNrNW9xTmFIdw?oc=5",
+      "source": "인사이트N파워",
+      "pubDate": "2026-10-18T15:22:01+00:00",
+      "description": "남부발전, 전기버스 사용후 배터리 활용 ‘화재방지형 R-ESS’ 실증 인사이트N파워",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "2d67352fd3f6",
+      "title": "\"데이터센터 멈추면 美 경기침체 온다”…블랙록 CEO의 경고 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50NzJPU0hfSnR6RFc0Zl83VFRkZjhhakpjT0l5R1dRRU5fWTdsVGhySnRqMUdLVDZ1R05aTEZ2OFFwRVJZSHNJTUVEdVNvdU5GSnVrR0hrQllYN0ppaWFnbHhSc1B3dm5TWXppNzFuajdmWDJ6SFB5WNIBeEFVX3lxTE50NzJPU0hfSnR6RFc0Zl83VFRkZjhhakpjT0l5R1dRRU5fWTdsVGhySnRqMUdLVDZ1R05aTEZ2OFFwRVJZSHNJTUVEdVNvdU5GSnVrR0hrQllYN0ppaWFnbHhSc1B3dm5TWXppNzFuajdmWDJ6SFB5WA?oc=5",
+      "source": "뉴시스",
+      "pubDate": "2026-10-18T15:03:00+00:00",
+      "description": "\"데이터센터 멈추면 美 경기침체 온다”…블랙록 CEO의 경고 뉴시스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "1a389e1645bf",
+      "title": "전기법을 개정하면 기업들이 친환경 전기를 이용하는 데 도움이 될 것입니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUtKdGRDYjVtc0FoLV9XTGZSX0RjMFN5RW5CeUQ2WVVSeEt1OFJMMjA4bUJrS2JYZTFwSHBwSDZ5NkE4RHpmSWtESl9zU3ZCODZHUzdlMG5GMWhicFM4cWpUT21aVTRyZmJ6N3JZOU5idWdTZE0yaHR3bHBreW5VY2g4RGZhcW8?oc=5",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-10-18T14:57:11+00:00",
+      "description": "전기법을 개정하면 기업들이 친환경 전기를 이용하는 데 도움이 될 것입니다. Vietnam.vn",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "e2ce5050b78c",
+      "title": "게임 진행 중 설정을 바꿀 수 있나요? 낚시게임 추천 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aTFBCYS1IWGVMbjdWeTZ1YlJydVBlS1FUQlJ0d1RESy1qYnJJSTd3OVRCOTJaVHhVWURyU25jSW9rRVY1Mml6RUlUNklRdEYwMkZ3dnF1S0xVU0M0aFhCd2RORTRZYUhOMVRzRlVMZ1lfU29y?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T14:47:29+00:00",
+      "description": "게임 진행 중 설정을 바꿀 수 있나요? 낚시게임 추천 Calgary Roughnecks",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f6493232a19a",
+      "title": "모바일 이용 전 알아둘 카람바 카지노 화면 비율 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDk0UVBQdE9sZmVfZmZVQWd1ckQybGZFMHBDaFA3MFEySzAzUm5Ibi1EeTRmZk5nOGVuNTZYZzFicDhzYy03NWQzeWVxLURYSE01SERYejFua0lOa1l6bzB0eFItUTVwRVFTeXV1b24zOGdqeHFjZUMzX2g1a0lBM2Rtck9XMjcwWFZuc3lkTW1CS3c3RnVTalhoUjF2dw?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T14:37:30+00:00",
+      "description": "모바일 이용 전 알아둘 카람바 카지노 화면 비율 Calgary Roughnecks",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "df028dc7db5b",
+      "title": "친환경 에너지를 기업의 경쟁 우위 요소로 만들기. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sNlhGMU1YSlh4dzgwdF82Q2NNZWs1SjlGR3MxdkZRVEpPcWVIRFRKRTNYdVVDZ3FqUDRjYXFGc2s4cUtnSjFBNlNMRlRXamxYa2IxN01BSDhjTWdKTks5azF5VDFoX3FmNDAyY3AtOXAtT1RNQ3RWbTl4U2NZdw?oc=5",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-10-18T14:31:55+00:00",
+      "description": "친환경 에너지를 기업의 경쟁 우위 요소로 만들기. Vietnam.vn",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "db12f2f4bb19",
+      "title": "게임의 전체 흐름이 궁금한 분을 위한 최고의 온라인 카지노 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaV9JaHBhM1V0TXd3T1J3dDF0WkVtUDVnZm0zX2ZGVXRHTVRITkxZdC1iTkxiVWcwbEhqeDRUVmI4NHl1UWtLcnNMeDNjVHFFTWpYVmpjX09WbG1nVzFLaTUwS1paYnVURnhzNkk1alEzSDNlWWFLT19SRmZJd21VaTZrcUhtMWdCTkE?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T13:23:30+00:00",
+      "description": "게임의 전체 흐름이 궁금한 분을 위한 최고의 온라인 카지노 Calgary Roughnecks",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5c1ff7dc7640",
+      "title": "재생에너지를 투자 동력으로 전환하기. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTd3YjhCOG43bThMcGRFVkZON3ZyOFA1V3BoVk1WcVh6aUVCck5vWENPOVN0X1QtekljTUpGQjJZcTVMVjJTVjluQng3cE12cGhuaXBLUjlyS2k2akxJSUxncDBZdW4zYUp1N29XdnpBalFxZDBLU3U4UEg2V1AtSjFJUG5CQQ?oc=5",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-10-18T12:58:43+00:00",
+      "description": "재생에너지를 투자 동력으로 전환하기. Vietnam.vn",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "f6b0c2218e70",
+      "title": "영덕 신규원전은 설마 이상 없겠지 - 경북도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43X2ppZnFQX1hUSGFrekFsSm9wT3Y1LUd2ZWY4RFk4aWRJWl9uRlZkLTQ3bFNWUFUyaG5la2xDTG04VGtHdDhYdWxyVkVuUVBYUWljeWFmS1J3TkEzM1FMeWR2VjdxcUNlYXc?oc=5",
+      "source": "경북도민일보",
+      "pubDate": "2026-10-18T11:25:06+00:00",
+      "description": "영덕 신규원전은 설마 이상 없겠지 경북도민일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "466904dd0283",
+      "title": "“전고체 배터리 잡는 자가 車·로봇·ESS 주도”… 시장 선점 경쟁 치열 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MTkVMUEV1ZzFNZkhEeUVGQVZzYTFzbThaUkN0dG1PUVRVUy1ia3JpU1NLSGl0aWZjV0RYNFRpWF9PdEs4VXRiVzh1WER2YnY3Nmw2TmkyUk9KdjZ0LXNvZGw0aHVKS1nSAWxBVV95cUxPYnFlVE16U2FZSEQwQzg2bWRVMDVwNlcyN0drSVpYZGFGNGhxdmYxckhaSGE3NGFEWURHckhuWEhEbTFYUzNrdGpFTl9DSmJuNFFyX3lQNk9ha2pBU1RYbXBFU29OM3lFYld6dVI?oc=5",
+      "source": "국민일보",
+      "pubDate": "2026-10-18T11:12:00+00:00",
+      "description": "“전고체 배터리 잡는 자가 車·로봇·ESS 주도”… 시장 선점 경쟁 치열 국민일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "efbcc4099b5b",
+      "title": "[찌릿찌릿(知it智it) 전기 교실]한 세기 전 ‘요정’처럼 다가온 전기…이제 그 마법이 멈추지 않는 ‘운용’을 고민할 때 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGRkt6Tms3S1h1LTdyT1gyc3dUR255cmpVUm1QRE9sX1N1d0UxQnEwZHE5d25GSDByT1JBZmRabHJrY3U3bHd1QXVBT1lubGhUZHEyQjlTOWFaWXZSWXFZ0gFfQVVfeXFMUEZGS3pOazdLWHUtN3JPWDJzd1RHbnlyalVSbVBET2xfU3V3RTFCcTBkcTl3bkZIMHJPUkFmZFpscmtjdTdsd3VBdUFPWW5saFRkcTJCOVM5YVpZdlJZcVk?oc=5",
+      "source": "경향신문",
+      "pubDate": "2026-10-18T10:55:00+00:00",
+      "description": "[찌릿찌릿(知it智it) 전기 교실]한 세기 전 ‘요정’처럼 다가온 전기…이제 그 마법이 멈추지 않는 ‘운용’을 고민할 때 경향신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "ca6ecb4af054",
+      "title": "\"전력 심장부에서 AI 수도까지\"…남도일보 제12기 K포럼 ‘위대한 답사’ - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAycTJrbEJ2eXN2Q0ExenVRaTdlZXZRUy1fb2IyZnJYVzYyaEoyZTdzVUQzbWxRai1FWEVOMnA2NUNjX05Pek90MzgtNWdXZGZ0QlN1ZlQwRW94VE55MlVaUUZ5YW9HVXpiOGhubdIBcEFVX3lxTE1GQWRLQ05JSTVRRVlkczZxSEVMWlJhUjN0bEFQcHpTdHVIT184ZmhqNU02MHNUcXliaG5WUmRjOEhWLVdDQ2I0SzgxaTNHOHY0MmNDTUpyaUZhUTg0RFZ6VEJKNEhPeGR3U1RJYk1vaGI?oc=5",
+      "source": "남도일보",
+      "pubDate": "2026-10-18T10:51:48+00:00",
+      "description": "\"전력 심장부에서 AI 수도까지\"…남도일보 제12기 K포럼 ‘위대한 답사’ 남도일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "2f9088749a0b",
+      "title": "[CEO칼럼] 울산의 미래 에너지산업 경쟁력 - 울산제일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CQnVkVm5WaUVIYklRVVRYTTJCYVYyRTV0OTVKdE9wMmI0RU51R0xBckVkRU5LNnBXdl9RMXZ0blZ0bmxhYTNsTUhlVDVHQlU5cUVMeVgyczg3NUxHSVpBTzVRZEhrZw?oc=5",
+      "source": "울산제일일보",
+      "pubDate": "2026-10-18T10:48:00+00:00",
+      "description": "[CEO칼럼] 울산의 미래 에너지산업 경쟁력 울산제일일보",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "434851d3e671",
+      "title": "처음에는 지나치기 쉬운 한국 삐아제 키즈 lp 토토 상태 아이콘 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtbEdIbWRZb1RoUmt0anVSakVlV1JsNktxMkRxYWZWOEk1X2NVNVB4cGZqcWNrZk1sQkNnaXNKa2V1dFpMUWZ1eW5oQ2NfaFpJbUYxUHlNVEpMeGtnMk9ESWU2SG90Wm5xSlFFa1o2MG13YjQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T10:45:32+00:00",
+      "description": "처음에는 지나치기 쉬운 한국 삐아제 키즈 lp 토토 상태 아이콘 Calgary Roughnecks",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "a9e469d32727",
+      "title": "[정기선 취임 1년-下] ‘퓨처빌더’ 내건 정기선…HD현대, 전력·에너지로 보폭 확대 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVkx5S2ZwUDgxVjEzTDVaT1d1bGRkQVpYYkVsWEd1Zy1SZGpZZHVJZHBZWUZRMzdzd1dMdldYZTRyYl9KN3llU0htai1mbzFSX3NjUlBya2JqWmJDeF9BMHFLWm1peXZKdk1VRlRCNlhsakJ3TzdFYTF4Z3dUM3FnbU1MTElXUQ?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-10-18T10:07:56+00:00",
+      "description": "[정기선 취임 1년-下] ‘퓨처빌더’ 내건 정기선…HD현대, 전력·에너지로 보폭 확대 글로벌이코노믹",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "039c20347b1b",
+      "title": "남아공 재생에너지, 2035년까지 화력발전 추월 전망…글로벌데이터 보고서 - 뉴스 및 통계 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2VuVUJyZnlfUHQxUkJZVm9MQ0NpbTNBdDZaM2FrQWJsWFZhR3A5TEwzX2Vpc3VCMVhfQlp6Tktxb0xUZVlWSWxiMm42NzZhUzNSZldpRmtFLUNHVlV1TkwwZHJmcWhDazJ1YUZQWUs5R2pzSnNhRHQycnhJSE5KQmV3SDZVSEd1cDN2NDVxRm9UbVFjNjBYQUdLbmNxWHh3UnRvNU9XeXhPZGZaVWlac2E1VHRudW9GQkdBaA?oc=5",
+      "source": "IndexBox",
+      "pubDate": "2026-10-18T10:03:43+00:00",
+      "description": "남아공 재생에너지, 2035년까지 화력발전 추월 전망…글로벌데이터 보고서 - 뉴스 및 통계 IndexBox",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "b47b3c715051",
+      "title": "처음 설정할 때 참고하는 빅타임 게임 옵션 설명 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00S0V5NC1yWVhCcXR6cWdxWlVsREZrLUhLV2RsNUYwQURVUmdvQmpUbGRrREVZVUlMa2JQVjlFVl9mSEd1bXVlWllzMVQwdVY1ZWhuQzFjMG11NmpRUnc4dzFySGZDbnl4c212UzhadWdzczRSOUJQSnotd0pVUjg?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T09:58:39+00:00",
+      "description": "처음 설정할 때 참고하는 빅타임 게임 옵션 설명 Calgary Roughnecks",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ebc23710a182",
+      "title": "게임 흐름이 끊길 때 확인하는 카지노 시즌 2 결말 연결 상태 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcjZILVhyYlJCMzg5dXRIbkJhdy11VzNfMXRlemRVV0RWVVRsZGlwYmRHYjdhUkJLUWxZMllNdENzNHZqQml3VE4zWXJ2TWpJbmhDbzRSTzBaZE11c01WMndHUG5kQUNRaTJuR1NCR2dGaC1IUFE?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T09:56:52+00:00",
+      "description": "게임 흐름이 끊길 때 확인하는 카지노 시즌 2 결말 연결 상태 Calgary Roughnecks",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c19a7c5d2ac0",
+      "title": "알림음과 배경 음악을 구분하는 단순 중독 게임 사운드 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzVqLTY5M2RNUUc3eVVKNFJNU0ZKUUVIZlRKMzRWMU9rRVZKUnBlLVJXZG4yTVhzOVVSd0s3WUtTeFZFQmFQblphSm8tMUxlTGFXNHRPNk1kV2twaWxPU3M0amdwLW1pRTAtZXg4Mzdab3NxekhUVFlaWnhhUzd5Szk0T0JVUGlCeFNyV21fQTRCOHdoSnh2Ri12bUthTXh4Uzc1S3c3NnlQOExZMlY4?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T09:48:02+00:00",
+      "description": "알림음과 배경 음악을 구분하는 단순 중독 게임 사운드 안내 Calgary Roughnecks",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "f71ca4669eda",
+      "title": "한전, 실적 우려 상당부분 주가 반영… 4분기 변수 해소 기대 - 키움증권 - 비즈트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mUlRGNXRLVWhncTRhMVA4NWhJN3hQSENoczU4anUzUTRtMWxxZ1RzWDBzbFZwM3Zxbkduc2JLeHFPZmtIR3cyVGt6QnEyM3FLaEpkS2lOR2RrNlhrLVRjV1FFSlVzQjdNXzB6UHFOczE?oc=5",
+      "source": "비즈트리뷴",
+      "pubDate": "2026-10-18T09:39:00+00:00",
+      "description": "한전, 실적 우려 상당부분 주가 반영… 4분기 변수 해소 기대 - 키움증권 비즈트리뷴",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "b6195a928b26",
+      "title": "아이콘 중심 화면에 익숙해지는 해외 배팅 에이전시 이용 설명 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk9TNy00cDR5cVc3bDJZUGlIR2NDSjhDTnBTaS03c0EtTUljODdyUnFaWGhFY2JTdDdpVmIyQjRJSWF2V2RKV3pvdS10TTRzRkpPcXRLMWwyd2JfY3FuNFF6aGl3b2Z0bTVQWVpNX0Qxb1ppR3pza25LQm5YQkM4cVI4cmlPdmVVcDY0b0lXTkFxUXlOTHJ0UHhkdHlmcUVuQ3JSeFc3RzBYdkQ1MjJFNFNR?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T09:19:19+00:00",
+      "description": "아이콘 중심 화면에 익숙해지는 해외 배팅 에이전시 이용 설명 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "3622d5aff99f",
+      "title": "[기획①]세계는 신재생에너지 전쟁 중… 보급 확대 넘어 제도 혁신 시급 - 영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sd1VfNkZneWhaSmd3ZWduUFI1ZkNTTDk4RDVzY194R0ZBOVd1OUtxRW5mb2dtbzlUMlN2UXJPVzh6Wi1NT0tWTFlHNGgxYXZmYlFndnozU185bmZiNHd4eHhpZk1yTDg?oc=5",
+      "source": "영남경제",
+      "pubDate": "2026-10-18T09:04:34+00:00",
+      "description": "[기획①]세계는 신재생에너지 전쟁 중… 보급 확대 넘어 제도 혁신 시급 영남경제",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "a4288294992a",
+      "title": "최고급 온라인 카지노 프리스핀에도 조건이 붙나요? - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1U2cmRCY1R4TWs5S1cwSV9HMUxzVTFaX0N4TkVoQUFqUV9RZ0FTTGtUbHJ1SjVtRmNOWUhubHpkLWh0TmxPYXU5RXREVUxwQ0V5NloxaGxrdHBhbUl0M0xBbFYzaGRrMk9zaldIdGd5R0cydHB0dzZacDFNazVITlV1ZlVLbXQzaEJFaHd0YWJzMVZzWVE5SXN3MW8xXzk0ajlhNWpLSDBqNkszQ0NYZlF3LXdqUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T08:45:13+00:00",
+      "description": "최고급 온라인 카지노 프리스핀에도 조건이 붙나요? Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "1bde96f6a185",
+      "title": "여러 창을 열었을 때 주의할 블랙잭 j q k 이용 상태 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORTlwSDZlZllfMDM0eVNpRzFVaXYwMnljWFAxMVFLSDI3M2RPSGk4OTZLbmZaQy13anRzV1J3cnhMb1FJWlJPcWd1a2tjc0lwMWZVNWZOeGxvOGFmSmhWVXk5ZF9faFVjTUdBeVp4eU1XSG1OTEc5Tko5aHB2dVdYZTNlVWtFSmZMdTFkY3RBbGplbU5qWHQwMDZ5Y2IzQjVwdVRIQjl2bnl4U3NlamExWGY2b1B4U05aaDBodFh2dmRuQ280NkkwMjVR?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T08:34:14+00:00",
+      "description": "여러 창을 열었을 때 주의할 블랙잭 j q k 이용 상태 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0be0065c9dfb",
+      "title": "어떤 페이지를 먼저 볼지 알려주는 원엑스벳 토토 길잡이 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUUdDSThhUnBjc2FSMlVpUDF4dm1LaVlfTFFVTWgzYWl6NU1IZy1NLWxOYU9BY1hrWlA3VTdKNTRPeW1pNEdnRnVrZUVnMVBlcnNoNUo3OU5VNVQ3SUllVGxBYTJ6YW0xb296dXdLQ3NYUjhwY2tr?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T08:21:43+00:00",
+      "description": "어떤 페이지를 먼저 볼지 알려주는 원엑스벳 토토 길잡이 Calgary Roughnecks",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "87d10989d2c7",
+      "title": "보너스 진입 조건을 읽는 토토 스코어 규칙 페이지 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yYmxuZ3RmRkxNWUk4YWpPdDZkdm1MQ1o1M3EzZG84NmItTEhSWnBlUFdwQjRhRFhzaUpmeUZrd3d0aWJ2cEpBbmhoOER4WksxNnhTby1GN2wzVUpIMU1Lcm82eVgySklBZVVDWXoxWXVlUUl5MWc3UC1jMTc?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T08:20:15+00:00",
+      "description": "보너스 진입 조건을 읽는 토토 스코어 규칙 페이지 Calgary Roughnecks",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "7ed3a4a76708",
       "title": "AI 데이터센터가 키우는 ESS 시장…삼아알미늄 주가 탄력 커질까 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzel9HRnRqb3FoY2Q5UVU4alZZSWU5T3lnNVJmU2lKR2c4eUdnRlFfd3pkTGx5ZVBBMHMtZUtIRFUwMVJYZjNWQ252UzhzQzZaRDhOZ1hZRFgyTUR0REJsWmNyUUtHYUhYdm8waDJYWE5ZQVHSAXdBVV95cUxPYTlnM3VUTWNxVTFTb3BOV2E5OVE2WG44NG5HU21HOTdVUzF5V25uRlRCZVVncXo1alF5UmlaWjlNVU9HbUtWUUwtd2dxaENOeDdxZzZ0WWlrWEh2UTdLczdNZlR2dm0yUDZPQmV2NEhOVkhqQm9Cdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hOWczdVRNY3FVMVNvcE5XYTk5UTZYbjg0bkdTbUc5N1VTMXlXbm5GVEJlVWdxejVqUXlSaVpaOU1VT0dtS1ZRTC13Z3FoQ054N3FnNnRZaWtYSHZRN0tzN01mVHZ2bTJQNk9CZXY0SE5WSGpCb0J30gF3QVVfeXFMT2E5ZzN1VE1jcVUxU29wTldhOTlRNlhuODRuR1NtRzk3VVMxeVdubkZUQmVVZ3F6NWpReVJpWlo5TVVPR21LVlFMLXdncWhDTng3cWc2dFlpa1hIdlE3S3M3TWZUdnZtMlA2T0JldjRITlZIakJvQnc?oc=5",
       "source": "핀포인트뉴스",
-      "pubDate": "2026-10-18T08:09:01+00:00",
+      "pubDate": "2026-10-18T08:12:05+00:00",
       "description": "AI 데이터센터가 키우는 ESS 시장…삼아알미늄 주가 탄력 커질까 핀포인트뉴스",
       "category": "ESS",
       "priority": false
@@ -20,6 +610,16 @@
       "pubDate": "2026-10-18T07:31:04+00:00",
       "description": "재생에너지 개발을 투자 유치 및 지역 성장 촉진과 연계합니다. Vietnam.vn",
       "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "58e64a3cc08a",
+      "title": "일반 라운드와 프리스핀, 스포츠토토 판매점 창업 비용 규칙 비교 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkpDcFFtRG42TGphU1pxLVREdzBBLXBWZHFLODJYZ29sc0JrUVhNZEREN3JFbE5mOEhPb1B2NUgtNTQyWVJIT3ZoYTZDdGFzQUduTXh0S2NVaDBzdUF2MHNNWk5zLU5aU0xyMk00ekpJeVZLY05uY0h1WFNQb29ld3M0S0l1SlJjU0JFS19neEVhTjNUVTBZanYzS2JxMHpRbnc3bFZYVjUxTmt4N215dkJxcmx3YlgtNjZQMFkwcW1BS1lRaHd2Nm5rMlRNYmJyYXc?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T07:10:46+00:00",
+      "description": "일반 라운드와 프리스핀, 스포츠토토 판매점 창업 비용 규칙 비교 Calgary Roughnecks",
+      "category": "AI",
       "priority": false
     },
     {
@@ -53,6 +653,26 @@
       "priority": false
     },
     {
+      "id": "51e0d044217c",
+      "title": "효성중공업 美 공장 찾은 미 에너지부…2.08억달러 증설 점검 - 한국신용신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LTGItR0NQT3VIbGJQTm5BTHVtMWFIdlhadHRFbTVqN3NIMjhWbmxCRnlfOS1ITFZibXlhX21nVTJwQWk1bVE1bHRFM0hENjQ0bVNVLTlJSTIteWdwV1RreDFHOFlWWF91SlN3?oc=5",
+      "source": "한국신용신문",
+      "pubDate": "2026-10-18T05:28:00+00:00",
+      "description": "효성중공업 美 공장 찾은 미 에너지부…2.08억달러 증설 점검 한국신용신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "59af45b878d6",
+      "title": "배당선 방식인지 확인하는 극동문제연구소 카지노 구조 안내 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQajBvdmpBamNLcFFLbXFDYUdCQ1hHZUx1Z0VLelZYYndtaVdaQXpDVkNkUnBaUEVLelRvcTlxNWRMRGp1b0E1NV9wcDgzYmdmNDZLQk1hRHZhTnNjWlV2ODh6dFRQODZxelN0OHlvN3pSRzBJN0I5UmdDdXlRMHg0aWFLNVczX2RBdk1OY090bkF4eF9YeEo2NFhLR2l2YmRGSDgzaTduRmU5YzdhZk5FQ0pucHRVSmhTcnJMQlJMOUlzYnp1bld3bXRiUTRTSzY0eFV0ZEpoWFFUa1JMX2lNT19TUks?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T05:26:53+00:00",
+      "description": "배당선 방식인지 확인하는 극동문제연구소 카지노 구조 안내 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
       "id": "48381948c009",
       "title": "K배터리 3Q도 실적 청신호..美 ESS 분기 설치량 최대 지속 - 머니투데이 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LaG5HQms3b24xd2ZfanRjNGtQdkV5V2JLZWdRYUVxNnIzYmFhSVdxOWt5SDRkenBxcTNTRE9xajhTUUpWREoyNXJLUmVDVU1RYUZub0lrY0JLeTQxNFhSSFN6YjRjWE9MekxPSXJ6LVhtQdIBckFVX3lxTE1LaG5HQms3b24xd2ZfanRjNGtQdkV5V2JLZWdRYUVxNnIzYmFhSVdxOWt5SDRkenBxcTNTRE9xajhTUUpWREoyNXJLUmVDVU1RYUZub0lrY0JLeTQxNFhSSFN6YjRjWE9MekxPSXJ6LVhtQQ?oc=5",
@@ -69,6 +689,26 @@
       "source": "에너지안전신문",
       "pubDate": "2026-10-18T04:42:14+00:00",
       "description": "“원전도 녹색금융”…JP모건, 1조 달러 금융목표에 원자력·전력망 편입 에너지안전신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "2f1d7f7d8240",
+      "title": "처음 읽는 게임 정보에서 찾을 파월 암호화폐 핵심 내용 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQT2Y5bXI5VjY1UTVCMEZFSkp5aU1qaGdERmpSVGg4cjhPNEg4RkpWT0hTSC1CVGYxYWg0ZVJPa0dseEJvQzZkNnZmLWQwNWZkLU1tMFRCNXIwTGUyendBRVhyZFU1NzRPa3lMT3BVaVBrU3c4enJXelp3MzBGMVhGMzZMRlg3elA2aE1lc2QzOEMwTWZKM1EtNV9sTFFBSTJsbF9NSTNLcWJhWnZjTllUU0VodGZZZEpJek93bUlxZlV5U1Bfb1FVYjY0dzJDNzYyRERpSjN1RlBiNUY5SlJUQm5idndsMDdhUUQtQlVKVWJDY2R4eWQwSHI1OWVUSUl4VDZkam1IdERtclIycVNJdGxZTV91cDlZSXNpcktfdWpFY0lsbkZJTkJDcVkzeHdYM0piWlhpbmRzcWhYZ1lrUW5TckoxQjFJVHROMmlORQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T04:28:52+00:00",
+      "description": "처음 읽는 게임 정보에서 찾을 파월 암호화폐 핵심 내용 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "49500f451b26",
+      "title": "[인터뷰] “소버린 AI 성공은 중국뿐…한국, 독파모 올인 위험하다” - 기후에너지데이터뱅크",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RUm9ONF9GVGRzanRnVjlLRkEzNnNtVGdra044NWVmN0l1OXJidWZ3Nk16SkQzS0hfQ3JsWk9wcE9NbnNyS2dSY1I3cUhLMklLRjVpSkZkSUpERFpCQUE?oc=5",
+      "source": "기후에너지데이터뱅크",
+      "pubDate": "2026-10-18T04:10:02+00:00",
+      "description": "[인터뷰] “소버린 AI 성공은 중국뿐…한국, 독파모 올인 위험하다” 기후에너지데이터뱅크",
       "category": "AI",
       "priority": false
     },
@@ -93,12 +733,42 @@
       "priority": false
     },
     {
+      "id": "8b2cf6e1f7ff",
+      "title": "국민은행 암호화폐 디지털 시대 웹사이트 구축: 기초 지식과 고급 기술 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTB2WUZQb0pHc0R3OHhndEtXTXhXS1g3d2gxdmxxSzNDUG1NNXp4bTBKWjEtMjJNcnRGU3g4STc4bU96bVphX1VoOVdZbGdDYk5mY1RsVEpnWUd0Zk1xTE9ob0FJZEtuYV9zQmFnWnV2VEE0ZEpOQWllN3NUVGdiQ1kxNEtSWHRKY3lCem80dm4?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T03:35:07+00:00",
+      "description": "국민은행 암호화폐 디지털 시대 웹사이트 구축: 기초 지식과 고급 기술 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "30bcd8c07706",
+      "title": "규칙을 한 항목씩 찾아 읽는 사설 토토 초범 소액 도움말 활용 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BbjVTZEZ6TU4zZENKbU9sa29qamlvXzJZTHdENUp3SlBxa1RjSlBLT2plQXl1MlU4SGtxMU5wVy1kRjNWTVFORjhPcDQtaXNlODEyU2JGbHpTNWptQkFnSHFLSWoyeXJ6UTZPeGVhWmFtQkFa?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T03:20:54+00:00",
+      "description": "규칙을 한 항목씩 찾아 읽는 사설 토토 초범 소액 도움말 활용 Calgary Roughnecks",
+      "category": "ESS",
+      "priority": false
+    },
+    {
       "id": "707ed18217dd",
       "title": "온세미, 선그로우 ESS '파워타이탄 3.0'에 SiC 모듈 공급…효율 99.3% 돌파 - IT타임스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ZmJ1NmlyTDNoS29jS2RMM3VVczIyMGNMak1ldnY1c0dCb2pRbGdWcFdKdm5CRk11Qk5BM0Qya01abUF1ZVBiMTFheWFEOVRiMHRTWEFSVmdXZ09ZTXNPSU5FVFh5dmhM?oc=5",
       "source": "IT타임스",
       "pubDate": "2026-10-18T02:26:04+00:00",
       "description": "온세미, 선그로우 ESS '파워타이탄 3.0'에 SiC 모듈 공급…효율 99.3% 돌파 IT타임스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f0a9c723c158",
+      "title": "같은 테마의 다른 게임과 보는 경마사이트 총판 공통점 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56OFBQTnNRa2dWVXphZkYwWmtBVUVDZGUyek4xV1VMd2JzcE4ybjBXM0NfQUJ4dXF4UUg2eWNKcm85VnBYYXZFVnhINDN1N1NqdnRfWVhKcElvbWRiR0lxUkdsTFE4TkY1akJwaXRrS1RycG9L?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T02:20:23+00:00",
+      "description": "같은 테마의 다른 게임과 보는 경마사이트 총판 공통점 Calgary Roughnecks",
       "category": "ESS",
       "priority": false
     },
@@ -123,6 +793,26 @@
       "priority": false
     },
     {
+      "id": "a5914d072f2f",
+      "title": "해킹 사이트인지 확인 보너스 재진입 조건 확인 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUEVxNmc0TElpVDVUangtdzNYZGRGUEtvaS1LakJRTTR2ZUFaa25oSGN1RUdlckt5MzhVU1pRQzlfSG5ZSWVoYm81blNyZ0J2QjNzYUlaQ1BrWXJKUXVZZXpIU3I1WTl0ZGtXaDRoSkdsZEthUk1nd0MyWk9YekM4NDRLVGNxWjc4ckh5YkRWbk5YTFc2V1dyWE5EQzRrYXY1LWhuMjA0bWlfLUpJay16dk83UXR0eHpSTGQ3a1V6SGxHcGFjNXFPemR6aw?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T02:01:18+00:00",
+      "description": "해킹 사이트인지 확인 보너스 재진입 조건 확인 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "d0cfafaa1df1",
+      "title": "처음 이용할 때 바꾸기 쉬운 로또 1등 보너스번호 기본 설정 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkZLT1lsYy1hc1h4UWtiUWxaa1k1Q0dmdGo4dTVFcmtuelJ2Rm1STDBjVWk3bmp6TXRoUnZVZzZLRllfT1B4R2w0MTVpZVRtR2FSSUtTcDV0WXZyYzhQdHFOVWd6MzdGSmp5Zndidzg5bUl2VGxSVmNCMC0taU5RVW5wRFphOExuWG1SOXB3OFJLRmFTMEZqcmRBUHl5THpIT0R3ZjZqTEdBWmVob1pYVVVTbVFqVzlxRzVxYw?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T01:57:33+00:00",
+      "description": "처음 이용할 때 바꾸기 쉬운 로또 1등 보너스번호 기본 설정 Calgary Roughnecks",
+      "category": "AI",
+      "priority": false
+    },
+    {
       "id": "19ad1fac6617",
       "title": "AI 수익성 논란… ‘전기먹는 하마’도 의심받는다 [페트로-일렉트로] - 서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNVdQOG02OW9FdkxCT09KclBwaXNla0FNUWs4SWRaS2w4NmJneXZpdV9mSFd4S3lHMl9MVllvdGxjOVhJRDcyQjZDMEN5MG5DeGfSAVNBVV95cUxNZE1CUExUUVVIZlJfM1IzQWFhV004ODNQR19HNVhoLW5kNDQtd2s4RnB4NlpoQTlhb0JKQTc0cmR1YklRbDdNQjdtakRVOHJvenhnVQ?oc=5",
@@ -130,6 +820,16 @@
       "pubDate": "2026-10-18T01:22:51+00:00",
       "description": "AI 수익성 논란… ‘전기먹는 하마’도 의심받는다 [페트로-일렉트로] 서울경제",
       "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0c40b6007b66",
+      "title": "기본 기능과 선택 기능을 나눠 읽는 바카라 유출 픽슬롯검증사이트 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU25SeEtmWVhCSmlIYlFBcHcxZmpzaUdSSmdFQnlrTVBBTDdvNTI4ZmZrVHUtTDZrTjI5TjhmVmFJcTN2bV8yS2Iya3NpZXVabGlGT2J3OFB0bE1MdHE3d3kzQ2E2Szc3NV9pTnNWb0RwdFJjNGVjYVpNa0g4a2RELUJ1YU1IbjhQbmI2SW1jclNxRFhFRWVYRFVwdnBYRUo0cVZpbVdnVGwwWUxjbWtRdDhJTlVPRmRxeUpQZm9PT0JoUlBuQjJ2ZDJZaUYtNkRaakJZZ3llZlhQYS1ES3RaN2RFUTA?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T01:20:41+00:00",
+      "description": "기본 기능과 선택 기능을 나눠 읽는 바카라 유출 픽슬롯검증사이트 Calgary Roughnecks",
+      "category": "전기요금",
       "priority": false
     },
     {
@@ -143,313 +843,13 @@
       "priority": false
     },
     {
-      "id": "7f76a5b1f7cc",
-      "title": "\"컨센서스 135% 뚫어낸 미친 실적\"… LG에너지솔루션, 3분기 7560억 영업익에 시장 '발칵' | - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVnhzdlF5a1hWbmpNTVZOel9ZejZ5blJjZDFlZ0tNOTZIT3JTSFVDdjBMb2FCWkZHdUJMYWtNU0Y0LTJLN0NGQWpCbzFzSlBSMmgxYWRpOGE4TzZJWDcxQ3hkSVZRZ2tEUXRzOHY4V0dZYTNfcTVN?oc=5",
-      "source": "핀포인트뉴스",
-      "pubDate": "2026-10-18T00:10:56+00:00",
-      "description": "\"컨센서스 135% 뚫어낸 미친 실적\"… LG에너지솔루션, 3분기 7560억 영업익에 시장 '발칵' | 핀포인트뉴스",
+      "id": "64eaa25ef310",
+      "title": "다양한 심벌이 쓰이는 이유, 영화 카지노 실화 구성 이야기 - Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVjVSdTAzQlQ5UDRhUXBZN3RnRFRNYzNyZHI5OHNfYXY4SmhBWFI1MGhPWklFX2F2S3ZqQ211WkhERHNqTEt5eHhxMFo3b1lGblZ0emNwRTUtVDNITzNPWFFubTVQQm9tQW5ES3NxMDQ4SVdEd1lWYk5mSnhCWUpQVkJDOWRBai1meWduanZLckRfd1dSRkZYeW5XMW9yU3VfanVrZzBzTUt1aWd6R1dlSzhOWF9nOXp0R2NoSGZkLXJpaTRJdDNsa2NnMk9jYlUwd0ZJMXc5LVlHaFJPZmlRUk4xR0tWVnh3bFRFNGpHQS0?oc=5",
+      "source": "Calgary Roughnecks",
+      "pubDate": "2026-10-18T00:56:18+00:00",
+      "description": "다양한 심벌이 쓰이는 이유, 영화 카지노 실화 구성 이야기 Calgary Roughnecks",
       "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "8f50b3b92c02",
-      "title": "‘전기 요정’ 마법이 멈추지 않으려면 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpaXpKZUpoOEFQenJ2XzRqdGNBeDZPZHRwdHRuUEZIaVJWbnRraUhKTFkwUXZSdVRWck8wS0IwYUpidElqcW9felI0OFRiUXBSX0w1R19pVTZqSG1LRTY40gFfQVVfeXFMUGlpekplSmg4QVB6cnZfNGp0Y0F4Nk9kdHB0dG5QRkhpUlZudGtpSEpMWTBRdlJ1VFZyTzBLQjBhSmJ0SWpxb196UjQ4VGJRcFJfTDVHX2lVNmpIbUtFNjg?oc=5",
-      "source": "경향신문",
-      "pubDate": "2026-10-18T00:00:00+00:00",
-      "description": "‘전기 요정’ 마법이 멈추지 않으려면 경향신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "0cb9316b01e8",
-      "title": "기후부 출범 1주년, 장수가 없다 [기후에너지환경단상] - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Y1A5d1RXVmJWYmRqNTVuM3ZMSkIxd015MGJ1TGRkSWJ0YnJWSmtYOTdfV1l4MjJGTU9COTZka2luWnhtY0VuVlVld2RMZ1pkRkFvWWZuZEp3bVhpV0VaYlh3?oc=5",
-      "source": "에너지경제신문",
-      "pubDate": "2026-10-18T00:00:00+00:00",
-      "description": "기후부 출범 1주년, 장수가 없다 [기후에너지환경단상] 에너지경제신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "94b03f8f8693",
-      "title": "효성중공업, 美 빅테크 AI 데이터센터에 2억 8500만 달러 변압기 공급 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWhJeGN3aGhiOHFjZFBUX1RIYzc2dWJQbVdtTG80SGkxUVZjY0dqUEhjMGp0czlMa1BBSDhHdnp3Q0J1UGlrczJWVmRZeTNDQ2VpOC1BbjBzTnJBdnQ3OGUzWE1mQnVTZUd6ZHc3bVZYZjFjRHVOYmxheFRDLXdaNjk4N0xiSzBo?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-10-17T23:48:25+00:00",
-      "description": "효성중공업, 美 빅테크 AI 데이터센터에 2억 8500만 달러 변압기 공급 글로벌이코노믹",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "372674b3c845",
-      "title": "셀은 반등, 소재는 주춤…K-배터리 회복 온도차 [위클리배터리] - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SSkNfXzdobU1YNzAyQkpTVzJGRGlBdldwQXc5MXFhbHFUa3JncUIwVEdsSDNqdmVkSmpJTU04X0otUzhnVzJVZ1FvSlU3S2VMYm9SdmxMMk1WZ0RPQWhuQjhGczU?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "2026-10-17T23:46:01+00:00",
-      "description": "셀은 반등, 소재는 주춤…K-배터리 회복 온도차 [위클리배터리] 디지털데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "416b9eeec2d6",
-      "title": "\"LG엔솔 납품 ESS 화재→지하수 오염\"… 美 넥스트에라, 뉴욕 2개 저장소 '가동 중단' - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFM4N0RhUmdKb2hDLVJRYl9GQU5vS2l1SEFkei1tNjVqRlVOcXlwLTNOSkVfdEw3R0JfYVVwazRnQ2h4a2pndFlhcGRNa05LeEwxTHBPVlpMMmZXZnZjVVVwZ3NSTzlVTENaUkU5Wmh1Qi1YNFJCcVZYRER1UVdhQzctVWJaTWJx?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-10-17T23:36:14+00:00",
-      "description": "\"LG엔솔 납품 ESS 화재→지하수 오염\"… 美 넥스트에라, 뉴욕 2개 저장소 '가동 중단' 글로벌이코노믹",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "dc4b07a8a789",
-      "title": "브라질 대선, 태양광 확대 놓고 룰라·보우소나루 정책 경쟁 - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12U0lBV0VOX25DdGhFUU9aRmlBRVRkNFphN0RLTXFxWGZISlRlSWxicXZtYmp4WlJBcGJ0YXYwekgzaWRqQ1lYR3F2Q1ZXeEl0c1NvWEZSd0NQZWx1c2hZSHJUbGk3R2V6M3c?oc=5",
-      "source": "AI타임스",
-      "pubDate": "2026-10-17T23:35:00+00:00",
-      "description": "브라질 대선, 태양광 확대 놓고 룰라·보우소나루 정책 경쟁 AI타임스",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "1fa890b759eb",
-      "title": "'변압기 뉴노멀' 진입 HD현대일렉트릭…미래 전력 솔루션 총망라 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43Z2lyaGZMZmM1NVN6YnNOUG5ZX0RxTUpkR2hjdmxwc2pfRE9QRUgwY0FDYUx4YVl0cDVGVEs3T2pUYXROQWwteENidW9wdHRHSzU4MmUwZlBfNmhfUFlMemFwV3RwVmdralE4X3JmQzh6UdIBckFVX3lxTE43Z2lyaGZMZmM1NVN6YnNOUG5ZX0RxTUpkR2hjdmxwc2pfRE9QRUgwY0FDYUx4YVl0cDVGVEs3T2pUYXROQWwteENidW9wdHRHSzU4MmUwZlBfNmhfUFlMemFwV3RwVmdralE4X3JmQzh6UQ?oc=5",
-      "source": "머니투데이",
-      "pubDate": "2026-10-17T23:30:00+00:00",
-      "description": "'변압기 뉴노멀' 진입 HD현대일렉트릭…미래 전력 솔루션 총망라 - 머니투데이 머니투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "76644da04d20",
-      "title": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임 - 한스경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TYmZYVzIxc1NNcDBQTS0wQU9Ra3AwMEw4OHNnbnRJNTNxYXUwT1Q4S0xhRmlrWlNTLXBLQTdiYm1YUkhBUktFaWJWSElFYlpKMkV1alBzLWJRSzRzdnJxY3hBOFFuVFBvRGVNddIBb0FVX3lxTFA5ZE1GTVlGSDZwcnpzbEdyZTR1WmVmWjNPdnZGRGRhSm10N3VWSHFIWkwyMlpBYWpZVzR1aUFQdEZ2STRSTkZiZEZCNVh3WHR2WHJackFkeGlrMEM3SzctNU5TOUlBdmtWN3Y5OTM3RQ?oc=5",
-      "source": "한스경제",
-      "pubDate": "2026-10-17T23:28:18+00:00",
-      "description": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임 한스경제",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "d10455b6e500",
-      "title": "승리 조합은 어떻게 표시될까? 룰렛 프로그램 만들기 결과 화면 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZUhDLTRxeXg3M045cmpFRndDMmpnOGZpSXNtZnFDMjl3RFAzZ2w1TzZyRnA2dHpKYUJMRkpCTXVqY2xDTnhKa0FsT0N2R01wUmdGeTZwZXhXWk1zSUUzajUyTzRULVNZY2pvRlR0b25zNHFSZ2NkdnIwOXVnYnJnOHU0TXE0cjdqU19JbE1DbEt3VkdQYkFoRjIwenU2X2tZX3ZOTXExQzZESHlCNTBRRmNlckEwZGZLQkxuVEh4LU9WemJJRTZUaTU0dXMzZmxwSmdabVFxNlhrVmVaX1FHYkFqaHQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T23:12:20+00:00",
-      "description": "승리 조합은 어떻게 표시될까? 룰렛 프로그램 만들기 결과 화면 Calgary Roughnecks",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "f0349c550e5d",
-      "title": "삼원계에서 LFP로…ESS 열풍에 K배터리 전략 대전환 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Sl9xNWFQbER2S3hGYmVTX0tnVk9iY1kyOUZNTFI0UkJPbFBOdzdud3ZmakgxY0hMOXhnenFMa1lJMFRNclFwN3J1ZmFlblpyRUpTYUZRQ0N0Zi1SbE1qOQ?oc=5",
-      "source": "아시아경제",
-      "pubDate": "2026-10-17T23:00:00+00:00",
-      "description": "삼원계에서 LFP로…ESS 열풍에 K배터리 전략 대전환 아시아경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7ca84799c5d0",
-      "title": "석유+가스공사 통합, 발전 5사 하나로…에너지공기업 통폐합 국감 쟁점 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JOGhKZ3dmc3N1LUFaRThVZzJ4Y3hMRWQ0TmVHdWhZd1BPckhremF3WnBhejdnNXVyY0Q2V21ULU1GMUgtUlU2dGMwMmhHVk5yNm5ZTEEtSTl3VUhjTlZBYXg0WkF4bGZKZEp6dHBEREHSAXBBVV95cUxPSThoSmd3ZnNzdS1BWkU4VWcyeGN4TEVkNE5lR3VoWXdQT3JIa3phd1pwYXo3ZzV1cmNENldtVC1NRjFILVJVNnRjMDJoR1ZOcjZuWUxBLUk5d1VIY05WQWF4NFpBeGxmSmRKenRwRERB?oc=5",
-      "source": "머니투데이",
-      "pubDate": "2026-10-17T21:00:00+00:00",
-      "description": "석유+가스공사 통합, 발전 5사 하나로…에너지공기업 통폐합 국감 쟁점 - 머니투데이 머니투데이",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "40b368729fd4",
-      "title": "게임 중 회전 잠금이 필요한지 보는 디즈니 카지노2 모바일 정보 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZUZiU19aZ1Fsc0hlR08xc3NQSmNoblFibTAtZjYtYmExUHgxNUhmU3lsbjNlWUFlY1BfZGdUTWJmN2dtZkxjamNrTUJncU1ZNk5ydzh5eGk4REZCSUxldVRvX3o4N2NmdFRGbGtxc3h1UUlTdkwxY3FMYkNVLXRpODdERExsOE5hSW1KNUpRWTc4dkNDTDNBZXVOYzhZUTl2WUtkSHl5eWZ5M28yaEZBVFJIWkpoaDQ0dFQ1aWlMamtZZk82Q3QtaGswSTVqVVRJb09qWEZ5YkZ4b05iYkxCb3Q4MWFJTTFpU1FmX2ZpTXNsX25PcmFEV0ZBaVVWNFFoeTNnT0R4cl91cllhNEE?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T20:45:34+00:00",
-      "description": "게임 중 회전 잠금이 필요한지 보는 디즈니 카지노2 모바일 정보 Calgary Roughnecks",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "d0c249aafd34",
-      "title": "[오너 리더십] 정기선 HD현대 회장 1년…조선 넘어 AI·에너지로 '실적 신기록' - 파이낸셜포스트",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10T0d4emxVaFE4clNFalBEaVpSSmxzOTRMMzV5S05xX0NhTkpKQVA0TXhfNk1FUWNXc25SZjh6VlVKVXZOUlJ1X2pDSHNaSndzNWx5T1luaVlZVzNYMW80bzdncXBmb0tSNmxzcmllMmZhalBM?oc=5",
-      "source": "파이낸셜포스트",
-      "pubDate": "2026-10-17T19:24:31+00:00",
-      "description": "[오너 리더십] 정기선 HD현대 회장 1년…조선 넘어 AI·에너지로 '실적 신기록' 파이낸셜포스트",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "7d6b1adedf26",
-      "title": "마작 패 프로그램 페이라인 용어와 판정 방향 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZUFTUU9GZnVITWdGNFpMOXItclh4UDRzZVZXYnRyb2ZBQmtQVlMzUHJ6R2JCYXlGQkpFOVdlVktyRFp0TW1ZZEx6bThJd0NITFlSV2Jqbnl6QmFOcWFUZnlscWJDTTlnQUFKZmNyc3dNdjYw?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T19:21:31+00:00",
-      "description": "마작 패 프로그램 페이라인 용어와 판정 방향 Calgary Roughnecks",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "4ca0f4450cf0",
-      "title": "바카라 온 더락 게임 정보에서 확인할 제작사 표기 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1BOLW5NbjhUQVAtU3V1WldRTWRJNVBxdnVsUlBkWWxpTE5OQnhsV2Q3ek5lNkJ1d0FFU0lURzFsUVlBNTFOQ2RmeUk4MXdIV3VhWktURFUxODdjZHNwWjJ0QTNyRjdGYW1PTkcyODhRNkN6QU9kUG1lM3cycWk2Rm1TV212SExTNWZyREhKVE1tOVBjS09jSjhBU05mb1BLTzB0bTZjd0k?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T18:56:50+00:00",
-      "description": "바카라 온 더락 게임 정보에서 확인할 제작사 표기 Calgary Roughnecks",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "2459ea6ebb0b",
-      "title": "게임 이름과 버전 이름을 구별하는 롯데인터넷면세점 룰렛 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGl3bjZJa00wRHlWNm04VEZ5d3lhaGtqcHlyeDB2M0NOQlZPT0FFYURJQklwNWhraEhmaFVxX0VxNzkyLUF2LVhadm1IOXRzVmtzYlJzYXdQaEtLTkVvd2JuazNvV19nSVpOM2pYdVE4MHlKVExGazNoVzJ4UUpyWWVtNXFRNU5YdVNoN0xZWE9aLUNXRzJWNjMxemszUjdPYXdV?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T18:04:00+00:00",
-      "description": "게임 이름과 버전 이름을 구별하는 롯데인터넷면세점 룰렛 Calgary Roughnecks",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "f1aebdd8b3e9",
-      "title": "프리스핀 중 남은 횟수는 어디에? 토토사이트 꽁머니 차무식 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2tpU2hRZEgxS2V2TlZEYjFfc3ljX3BUb3l0WUJ4bFRUOUtNcGlTMEVjNlpzZW1XZTJaWlNHRDFxVHpEZG53RG9janI2UGQyNTRtWTlWUWVzWDEtQ21GTjZvZEJXdVJoRVIzd1N1Y3RaS2VtazE0bjRCNi1mR3VVX3hDcm9yMDJrY3pGN1FTOFlubkNlTE94YTRVQUp5VkJVd2xTQmp3WjROZVBMYUpFYjRMZXNob0kwZFFyM1otOTRpTTd2YWhUdDhDX2xuQkxjV0NkLUxHSzM?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T17:52:43+00:00",
-      "description": "프리스핀 중 남은 횟수는 어디에? 토토사이트 꽁머니 차무식 Calgary Roughnecks",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "78d4879233bd",
-      "title": "심벌이 겹쳐 보일 때 읽는 온라인 접수 (http //youth.jobaba.net) 시각 안내 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmgwdUwtVEVET0R3ZTRqUGM1WWdKVG1TN2RDOVpIQzhLR1Vpa3BVOHl3NHl3Zk03T0c4RmxWdnptOWpsdHVuVDBYTnd5V2tIWHpHT3p1aTI2dUNrUTI5Z1c5MXhYeDg2UjJOQVB0SVJzOU1ULWJzSjNJNTZvUVRWNEJ6Zl9YXzh5SmppS01Ib1NXcnhNOTVwVEZnMmk1c2NPeVJoU0VJQVZ1TnBvM3doek8wbl9ja3QtclE?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T17:45:05+00:00",
-      "description": "심벌이 겹쳐 보일 때 읽는 온라인 접수 (http //youth.jobaba.net) 시각 안내 Calgary Roughnecks",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "82a0679c4855",
-      "title": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시 - KPI뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RdnBJRFA4RnNCVHpMc2NZeHVrQmZuRmJLV0FfRWRZZTNwYmZlNTFjakVaSXFMaTRtMnNUUnZLRFRRblpIaGxGWFhHXzRxMU9Sdld5VEFFTQ?oc=5",
-      "source": "KPI뉴스",
-      "pubDate": "2026-10-17T16:29:21+00:00",
-      "description": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시 KPI뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "cfb9e069c093",
-      "title": "AI 전력전쟁에 멈춘 원전까지 깨운 미국… 한국은 무엇을 준비하나 - 독립신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9valNyOG16UFc2bDNWRVl4VklXRzJsaXFnN0pWLXFhdjJvUmNveWxLS0FmTlpzeFdzMndlM2RKVTk1VEJIeTBiTGwwYUJ6RGI3ZmdVaDNnWmp6ZXNHV215Q2FTWUMtZnozU09Z?oc=5",
-      "source": "독립신문",
-      "pubDate": "2026-10-17T15:44:13+00:00",
-      "description": "AI 전력전쟁에 멈춘 원전까지 깨운 미국… 한국은 무엇을 준비하나 독립신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "18b1b93ddc23",
-      "title": "게임 특징을 짧게 비교하는 홀덤 승률 계산 공식 상세 항목 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONk9POWRybmxmUFU4LWVua1dGTklpSXYyaXFHaDlOR0dic29VSkxhMGduNkdkeVI1Q3h0MkU4T3c0NXFON2ZtSlBKSGRnYi1zeVFraW1EWTc5Q1A4YXFXQjVjYzg3UkI4NG1aeTV1aWN2eVloUmJtbWVyYl85cks5Um5pVXZOWHczUmxSSUJ1Q1RSNXdwN0lNM0xLWkRacElRRHhUZjNJXzhsQTNVSFdWS29Wa0ROb3Q2SGhyZFcycjE?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T15:43:14+00:00",
-      "description": "게임 특징을 짧게 비교하는 홀덤 승률 계산 공식 상세 항목 Calgary Roughnecks",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "cbf3ad2b701d",
-      "title": "원전 주기기부터 가스터빈까지…두산에너빌리티, 전력 인프라 수요 잡는다 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wbXUtZTJvNjU5YjNMZ2JhVVRYa0VWa1FOa3BGVG1YUHFZWXRpSnRHc0k1UC1QSDdMRjE2RHJjei1HVjRtMG5NVmhtelYzVUkzdnE4RF9EckpmWW5lazFkY2JQNmhDLXhOX0RqOUR5OUhuUTjSAXdBVV95cUxOd01NQkM0Y21Ra1UyZjR5R1JodDNNckwza0pad3VfNEJmT2sydWJfOFhrSEpnXzdNcUdxamw1eWV0T1piNF9Qbk0xSU1tcFpPZVBaS01NTURVR0lSaDF3OHNrdDlrQ2VSX3pvNnIzY1NKQjYxUnBzbw?oc=5",
-      "source": "핀포인트뉴스",
-      "pubDate": "2026-10-17T15:25:00+00:00",
-      "description": "원전 주기기부터 가스터빈까지…두산에너빌리티, 전력 인프라 수요 잡는다 핀포인트뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "4891280398cd",
-      "title": "보너스 전후에 유지되는 설정, 메이플 스토리 포켓 슬롯 기능 질문 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jNjdrcEs1NE01RGpxQm85MzM2dk1zRnVNeFdhbHAxYURocGpfTmRMOVhPSDBFcW9CYzRfMkVkT3VZbDlYMGx1SzRCb1RYaEYwRWxtMDM1LXJ1TjRfQTlfeWM5a0lDQUxMc1NaNXU1TDV1YUtBajhaVkhzNA?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T15:23:08+00:00",
-      "description": "보너스 전후에 유지되는 설정, 메이플 스토리 포켓 슬롯 기능 질문 Calgary Roughnecks",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e8134ce1bc3d",
-      "title": "세미나허브, AI 데이터센터 개발·구축·운영 전략 집중 교육 28일 개최 - 에너지안전신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBweDVyOWFsVjhlUUdfR2xmTThLR1JRYjBXUnV5dnA3eVZ3N1VqTDBlcEZpdWRpS2tmZkRiSzRVQTdwZzhaRWlqcTlyZG9YMmdTSU9iLVlpYnVVTmVRQ0swNl9kUWc?oc=5",
-      "source": "에너지안전신문",
-      "pubDate": "2026-10-17T15:08:00+00:00",
-      "description": "세미나허브, AI 데이터센터 개발·구축·운영 전략 집중 교육 28일 개최 에너지안전신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "dbad945baa1c",
-      "title": "게임의 분위기를 좌우하는 바카라 돈복사 색상과 음악 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nRm9Sc0lidVhraGNGNC0taUVGekNrM1BscExKQzRDdVdNV0lRTzlneVp4ZDJEMlpraWpYNWNBcGExVGxHdVdnaVVULV9NVGFKNGl0X21Ca0xBOExvamQyd0ctREJtUmF5QW1xR09fS1cxVXNw?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T13:47:18+00:00",
-      "description": "게임의 분위기를 좌우하는 바카라 돈복사 색상과 음악 Calgary Roughnecks",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "c9e0843d6f93",
-      "title": "지원 기능을 기준으로 비교하는 슬롯 무료 5 룰리 게임 목록 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGlOVlo4X1VaWXhQZ0tHZnJKUWg0U0FzNDdSQTdiVDY3TG5nVmd4bExMWXJ6SGJ2c0ZUNmJvcC1pV1dBcXUtc09CWFN1cEJYM1BTN3RsZmRYSlJ5VDRpMlZlOGNFX2tUTzByQS1JOFRjaEJIb2U1aEZLQ1dqSWpaRGkxVm9HZWQ4WExQUHd4T0l4TF9OTE9la0FXNER5VzljbmFaMnk5UG9LSTlGQTRudUhDS3ppRDlWSHc?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T11:50:09+00:00",
-      "description": "지원 기능을 기준으로 비교하는 슬롯 무료 5 룰리 게임 목록 Calgary Roughnecks",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "64825db4d39f",
-      "title": "중국, 1 년에 70 억 위안의 전력 절약 잠재력을 지닌 거대한 AI 센터 개발 - VOI.ID",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01UVJvTGhDdWVscmRUc2E2Y0x2dWMwNGYyRXFOSDJNTnJfbFV0RFBCTXp0d09iVHpKdmdMTEphaGFvd9IBQkFVX3lxTE01UVJvTGhDdWVscmRUc2E2Y0x2dWMwNGYyRXFOSDJNTnJfbFV0RFBCTXp0d09iVHpKdmdMTEphaGFvdw?oc=5",
-      "source": "VOI.ID",
-      "pubDate": "2026-10-17T10:24:10+00:00",
-      "description": "중국, 1 년에 70 억 위안의 전력 절약 잠재력을 지닌 거대한 AI 센터 개발 VOI.ID",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "a144b9e34747",
-      "title": "토토 캅스 PC 화면의 메뉴 배치 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaGNvR1BEWU5jQ05ZNW5vOG03SW05RnVMRlcwMWRIdV80UE13Zk1kclNZMzVFaUNrQW1xQUV5bUdHeGljTW9iT1ZrOGstU3pRbUhsZWd2LXNfam5LWV81QnZ4NmZNMjVGaDlmNTViWFZWOGlaX1JlaXZCMEZDWVJCQ3hSN2tQNEh6a0Q4VFZubjdxRW40MjFodl9ScTJLRk1jWi1EdUwtd2tQYUh4c2lZMjVRZDdTNW1GTE5UNGZjZW9XVy1mZ1prLXhjRlpJSVhMRDB5NFRlS0hxbUNqY1l0bklyZUJvNVMzM0NF?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T10:10:40+00:00",
-      "description": "토토 캅스 PC 화면의 메뉴 배치 Calgary Roughnecks",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "a6705af198f8",
-      "title": "배당선이 표시되지 않을 때 찾는 비너스 카지노 먹튀 설명 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanhXZF83bTVXSjhkMnpLWUs5MXV4dndUY0Z5OTFhME91ZVkyMGNTMUw1SzJINWcwbGlOZGVWWVlOMjhMWlAzZ1U1Z2NuZXQySVVLWkswOGRRVEYtb0haNGZPWjFNTHZaeDlFWlFRM1lYV3VDLXFNbk9WeGgzLXl3OEVnZTU4RlhGYzdEd1lR?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T09:28:07+00:00",
-      "description": "배당선이 표시되지 않을 때 찾는 비너스 카지노 먹튀 설명 Calgary Roughnecks",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "1f5a70e28db2",
-      "title": "바카라 빚 1억 컨설턴트를 위한 친환경 에너지 권위 있는 가이드 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UaVZlYmtMQV9mWkdGS1Izb0VyZjFTMTh0ZXdKQ0JWazlPcS1HWm9HWXVVX0hmc0VIQnFDZEs1UHdkb3FwLU92TWZYWkhpUFA3WWNXQjd2a0x3NmJ2Y053?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-17T09:13:11+00:00",
-      "description": "바카라 빚 1억 컨설턴트를 위한 친환경 에너지 권위 있는 가이드 Calgary Roughnecks",
-      "category": "AI",
       "priority": false
     }
   ]
