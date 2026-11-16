@@ -1,15 +1,935 @@
 {
-  "lastUpdated": "2026-11-15T21:20:51.867792+09:00",
-  "totalCount": 85,
+  "lastUpdated": "2026-11-16T11:26:06.060516+09:00",
+  "totalCount": 111,
   "articles": [
     {
-      "id": "8a70d319f2d9",
+      "id": "a184c9ecfff8",
+      "title": "삼성SDI, 美 블랙록 계열사서 '수조원 잭팟'…ESS 날개 달았다 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Cd1dhNjhaaEQ5X01aYzN4VmVUaDNkeWl5UjEzcG5hajRibXhkYlVzLXdSM3FkVUNXNUhDT0lMeGtyelE0TGZ2VmJnekZkeVU2RU5CWkhhNHN3RTdyN29BVmJUcXZBMHVaYlUyMw?oc=5",
+      "source": "비즈워치",
+      "pubDate": "2026-11-16T02:22:03+00:00",
+      "description": "삼성SDI, 美 블랙록 계열사서 '수조원 잭팟'…ESS 날개 달았다 비즈워치",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d27c9a9a3772",
+      "title": "효성중공업, SKT와 AI 전력시장 공략…차세대 배전기술 실증 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zSVZUODRPQmlxZ0tzZXhSS3lmYWJnc2tvTDBkZ2NUZnVucWhJRFJGdjZvTk5XSmdJa2ZnZ05tZ1pVRm5PeFllYjluX25DLUVBR0xTTA?oc=5",
+      "source": "이투데이",
+      "pubDate": "2026-11-16T02:19:00+00:00",
+      "description": "효성중공업, SKT와 AI 전력시장 공략…차세대 배전기술 실증 이투데이",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "3050c18f977b",
+      "title": "\"AI 데이터센터 전력 책임진다\"...삼성SDI, 美서 차세대 배터리 기술 공개 - 소비자경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNckdJOUktTVhpNXNKeWxDLWNaaVZwaHFBenZqN24wUzhsT0Q1ZzhSUGJUTVZhZHVsNC0tSGFKY3VTclEtalk0TTk3cGNaOHZiTjJ1cTZzaWJEOExIVFhiOUtZR25RWUVDUkE?oc=5",
+      "source": "소비자경제",
+      "pubDate": "2026-11-16T02:13:37+00:00",
+      "description": "\"AI 데이터센터 전력 책임진다\"...삼성SDI, 美서 차세대 배터리 기술 공개 소비자경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "625b5fdda439",
+      "title": "전남광주통합특별시의회 박원종 위원장, “전력 계통 연계 지연으로 인한 농가 피해 없어야” - 한국시사경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sdng1Z25nLUVnT2Q5OVA4anYzQVBuMzQ2QUFsUWJxc0R3Zmk3Wlp5X2dkQkJ4WGdQQ3RnMGRFZzhsek02Q21ZYUtvaFE0Nm9rRXBWcENDUVlpeFM4UVNqX25zMDI1RGRaS0E?oc=5",
+      "source": "한국시사경제",
+      "pubDate": "2026-11-16T02:12:29+00:00",
+      "description": "전남광주통합특별시의회 박원종 위원장, “전력 계통 연계 지연으로 인한 농가 피해 없어야” 한국시사경제",
+      "category": "VPP",
+      "priority": false
+    },
+    {
+      "id": "778460ca5420",
+      "title": "[내일날씨] 오후부터 전국 대부분 비…강원 높은 산지 눈 - 기후에너지데이터뱅크",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9md3VuQ09jRVBsLWEtT01pTFE1X3FZTF9yMGwwWENKaGZ4TEdEY3N0ZEx1Z2VXRDkxeW1qV0NUMXBvUE11UmFpR0YwUVZWZFhua0dJbDNHWFhGU2FXZ1E?oc=5",
+      "source": "기후에너지데이터뱅크",
+      "pubDate": "2026-11-16T02:10:03+00:00",
+      "description": "[내일날씨] 오후부터 전국 대부분 비…강원 높은 산지 눈 기후에너지데이터뱅크",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "d16e9a40da91",
+      "title": "폭염 때는 송전망 용량도 줄어… 전력망 설계에 ‘기후리스크’ 반영해야 - 기후에너지데이터뱅크",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JbXZETnVuNkhreGE3ZHY1enBIemtFNkdudG9kT3JONENYTnhuX2k3X1dodkcxUndsUVZsSXFCVDRqQlcxVE0wQ2VQUmJzRXU3SDFpMGxhQzJoazBIcXc?oc=5",
+      "source": "기후에너지데이터뱅크",
+      "pubDate": "2026-11-16T02:10:03+00:00",
+      "description": "폭염 때는 송전망 용량도 줄어… 전력망 설계에 ‘기후리스크’ 반영해야 기후에너지데이터뱅크",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "ceaefe0e9873",
+      "title": "삼성SDI 탈중국 공급망 부각…미국서 수조원대 LFP 배터리 공급 계약 - 뉴스포스트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41VXozTFZPZUdYOWNLczFubnR2cTE2MzBoVnZLVGRjTHEya3gtc3JYcTExeU1JVVE5S0xsa3hWMEZLajlxS0YtN3B0UXRFdzdLY2JSU2dGcGo0bjZOYllSeWZYVm9VN0NR?oc=5",
+      "source": "뉴스포스트",
+      "pubDate": "2026-11-16T02:09:51+00:00",
+      "description": "삼성SDI 탈중국 공급망 부각…미국서 수조원대 LFP 배터리 공급 계약 뉴스포스트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "4a2240207410",
+      "title": "삼성SDI, 美서 ESS용 LFP 배터리 16GWh 수주…2029년부터 3년간 공급 - 소비자가 만드는 신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXZWFaQjhpZDNDYzM5Smt0dGNpYTF4bHRpWUJZRzdTdXF5aGduVVJxWVVBb0VmLUZtWHRHQUhvR2RIM2oxR1AtVXhYNHE3aGtoRXR4c1NwZzlwNU51SUU5eWtORnp6OW1SdDFpeXJhMkdnaVk?oc=5",
+      "source": "소비자가 만드는 신문",
+      "pubDate": "2026-11-16T02:07:14+00:00",
+      "description": "삼성SDI, 美서 ESS용 LFP 배터리 16GWh 수주…2029년부터 3년간 공급 소비자가 만드는 신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f0eca8fb614e",
+      "title": "삼성SDI, 美 주피터파워와 3조 수준 ESS 계약…올해 ESS 수주 76GWh 규모 - 한국금융신문",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RWXJJOE5tbm1rU0lMcG8wcExpWGpCS29vMDNPUFZsVUNvSlFTTHF0aXQ2NVVKck1TcjJmODdkYVVHTGVsd2JWYy1XeWlqbTJuTGRMelBoVTNuVzgyM0hWWTJVNnRDbWh1VTJ6OGpUM1o4RktFOGQ5TmNHc0g?oc=5",
+      "source": "한국금융신문",
+      "pubDate": "2026-11-16T02:05:12+00:00",
+      "description": "삼성SDI, 美 주피터파워와 3조 수준 ESS 계약…올해 ESS 수주 76GWh 규모 한국금융신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b27b99fd559e",
+      "title": "SKT, 효성중공업과 GW급 AIDC 구축 협력…안정적 전력 인프라 확보 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hb05XQWpEYmVzUWloLU5JN2FvalMzeUlIWmtPbGJBcVVlY3IxeTQ1cHBaQmJRbFlQaXVvWUh2SC1QeWtJRXM3U19vX3ZHWWpjSmRRTTJEQVQxZjljbVQ0UTZvcTFRTlJaUm9GTHFvVXkyTTNp?oc=5",
+      "source": "이투데이",
+      "pubDate": "2026-11-16T02:00:00+00:00",
+      "description": "SKT, 효성중공업과 GW급 AIDC 구축 협력…안정적 전력 인프라 확보 이투데이",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "41e6ec1cd6b8",
+      "title": "김동명 LG에너지솔루션 사장, 美 버테크 통해 ESS 데이터 분석 플랫폼 '에어로스 인텔리전스' 출시 - CEO저널",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZMkdEZ0FGdXdEcUVlTlhpMS1YVGlEeDNVQzhPb2p3TnRoYlltTHZjLUJENV9ZckVQenFhbHpROS10RnBiX0VoRC1HNHpoTVd4QXk4QTdpYlVZRHFRTklwVkpFcDFTYmvSAWtBVV95cUxPdHo1RDNiaV9oSW5zTlkzTHNOZVh2elViQWFmUkRHajR0azByQTNJQmJRdlBxYmR0RjRWSmF5SGJyOGV0QUhhWDZuQm5IbUxfN3J4V2VVMUxrYXlrUnk1NG1yS2NoRmFQTzJhcw?oc=5",
+      "source": "CEO저널",
+      "pubDate": "2026-11-16T01:52:49+00:00",
+      "description": "김동명 LG에너지솔루션 사장, 美 버테크 통해 ESS 데이터 분석 플랫폼 '에어로스 인텔리전스' 출시 CEO저널",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "57f8c1d36147",
+      "title": "삼성SDI, 美서 16GWh ESS 배터리 수주 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DNEdBNlJXUDlpWVdCc3BXYlB1cS1vTjFUaFRHVkZnZ3UxZ2tOLTQ2RzhoWWNUVTI3WTJrNGJKN0dCalJCbGNuNGljazFZYkU5VHlfcjdPWjRjbTVRRVcxcHczN1J4OU5Wc2ktMU41MlDSAXRBVV95cUxONEloT1ZGa0thWlpBeFVsR3dFMFpUdVVRMEdkdDRwcUJpRGRZQm4tdTh2VlpKeFVXckxFd3R0MklnWHJ5c0drb0VjRnJNNUd3M0VPbW9FcGVfUHpXV3NmeUgzRXJYNU5TU1dwd2hDV1NKSWNSdw?oc=5",
+      "source": "IT조선",
+      "pubDate": "2026-11-16T01:48:36+00:00",
+      "description": "삼성SDI, 美서 16GWh ESS 배터리 수주 IT조선",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "909b3bdfecde",
+      "title": "화웨이, 20kW 가정용 배터리 '루테라 S2' 공개…테슬라와 경쟁 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kbWU4RHhfMDVFZnpicDVEa01vamkyQUFPVzJqQmhHTmNlam03d3pIbTZPYTFSQ19jUEZ0M3NiYUEzdjFtVDNNRHZLendFOE5hVDlLTTNQbWlwVkJTcmRfcXc2VFJMQUFScUprYzFHbm1uMms?oc=5",
+      "source": "디지털투데이",
+      "pubDate": "2026-11-16T01:48:29+00:00",
+      "description": "화웨이, 20kW 가정용 배터리 '루테라 S2' 공개…테슬라와 경쟁 디지털투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5316a89695f0",
+      "title": "삼성SDI, 美서 총 27GWH·수조원 규모 LFP 배터리 수주…'탈중국 각형 LFP'로 신뢰 구축 - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Qb29iMmdxR2RocHpISW9XX2VrakhJSnRVM0hIVVM4Uzd5NTBVYlJXYUJ0UHgtRFRQTjRlV0lGWTBLYU5ycW0wdjc4NE5LNHota091azZzcGxSUTJsM1ZSbjUxTC1LUFZQZVl4cC1Udm8?oc=5",
+      "source": "위키리크스한국",
+      "pubDate": "2026-11-16T01:48:00+00:00",
+      "description": "삼성SDI, 美서 총 27GWH·수조원 규모 LFP 배터리 수주…'탈중국 각형 LFP'로 신뢰 구축 위키리크스한국",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "cf5c3694dac9",
+      "title": "삼성SDI, 美 에너지 기업에 누적 수조원 규모 ‘리튬인산철 배터리’ 공급 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSXFKelRHdXc0RnE1NlNBcmVFS2FWUnpkWnRmNjNCWDNPaGVEQk5JMm03NUNjMmlKRW8wWS1hVUxQblgwZmIweUpQMk1vcE9RUF9zeExRNVEzSE5WdFpyaUhud0toaGE0UTNJcA?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "pubDate": "2026-11-16T01:41:56+00:00",
+      "description": "삼성SDI, 美 에너지 기업에 누적 수조원 규모 ‘리튬인산철 배터리’ 공급 ER 이코노믹리뷰",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "865982ec81e0",
+      "title": "LS일렉트릭, 美 빅테크 AI데이터센터에 1300억 전력설비 공급 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40UVFvdzM5OGliOER6SGtLQnJxUnExd3k1RVdPdF9VVm9zS3pNamlXV3ZlVmgwenlmcURFNTF4T0xGNHE5ckRlNHFFZkVLSEYwNzJTdzBrUVJrVFk?oc=5",
+      "source": "에너지경제신문",
+      "pubDate": "2026-11-16T01:39:45+00:00",
+      "description": "LS일렉트릭, 美 빅테크 AI데이터센터에 1300억 전력설비 공급 에너지경제신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "7dba89d215f7",
+      "title": "삼성SDI, 美서 대규모 ESS 배터리 수주...'현지생산·비중국' 승부수 - 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BMThFczctdHZHdVB3SHlPb1AtTDJwM0NzQmJJeUZqMUV3bUVzV0ZxX09KT3U2bWNISjFDdGNkck5uOTVnQzROTklaZXNseEh3MXJJaElaX0RvMzBKdFdzLUg2ejcyZG5jVVFrVnppams2ZDTSAXNBVV95cUxOQTE4RXM3LXR2R3VQd0h5T29QLUwycDNDc0JiSXlGajFFd21Fc1dGcV9PSk91Nm1jSEoxQ3RjZHJObjk1Z0M0Tk5JWmVzbHhIdzFySWhJWl9EbzMwSnRXcy1INno3MmRuY1VRa1Z6aWprNmQ0?oc=5",
+      "source": "초이스경제",
+      "pubDate": "2026-11-16T01:28:05+00:00",
+      "description": "삼성SDI, 美서 대규모 ESS 배터리 수주...'현지생산·비중국' 승부수 초이스경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d37363d535cd",
+      "title": "삼성SDI, 美 생산 LFP 배터리로 북미 ESS 시장 공략 가속화 - nbn 시사경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kcEVqVW1MdzNHaDl5TnRWUHg2aDZZd0hDWXdSUGxuRnVvcXFxLTVibTBpcC1RWnYySkRaZzI3RklkTDhzS2E1TlNNLW4zQXd6a0dnM1VMS2RBMnVXLTZCbXlvNkwzTFZxS1E?oc=5",
+      "source": "nbn 시사경제",
+      "pubDate": "2026-11-16T01:26:25+00:00",
+      "description": "삼성SDI, 美 생산 LFP 배터리로 북미 ESS 시장 공략 가속화 nbn 시사경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "6fe82f42af49",
+      "title": "삼성SDI, 주피터파워에 LFP 16GWh 공급…NCA서 LFP로 ESS 축 확장 - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93YWozb2FqWHJNV0FMa3pNUjRDVnI4Y0pYTFdhVHJPUTRWdk9BRHhSNHFBOE9hT1RDcXNJLVo4azYwQ2h0NTNDTGEwSWtsMnVOYW9NZDhhYzZLSUhiemRYOXdvczhaSnZpTUxOZw?oc=5",
+      "source": "중소기업신문",
+      "pubDate": "2026-11-16T01:25:43+00:00",
+      "description": "삼성SDI, 주피터파워에 LFP 16GWh 공급…NCA서 LFP로 ESS 축 확장 중소기업신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "4f35f69c16fe",
+      "title": "삼성SDI, 美서 LFP 배터리 16GWh 수주…'비중국계 각형 경쟁력' - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FVXZjLVYwT0pkdUZoQlpreFR3cG9ZdWpPMmJ0ZkhodnV5UjhhVTFpdzIycnYtLTdkUEJ2WW5HaHdPZm5VQTc1RWZKWmNaYVR1N05tODRTVzRmTGh2NHpCZDFOSURQb0JtUUpB?oc=5",
+      "source": "라이센스뉴스",
+      "pubDate": "2026-11-16T01:25:19+00:00",
+      "description": "삼성SDI, 美서 LFP 배터리 16GWh 수주…'비중국계 각형 경쟁력' 라이센스뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b631e615abeb",
+      "title": "삼성SDI, 美 ESS 시장서 16GWh 대형 수주…LFP 배터리 경쟁력 입증 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zV1RWTThoVzBwZmN5Y0R2V2pleWxMYWZxMFhHeWpfV2ttUEVZdWNvQmZWYUZSYi1mWERrVnpJOTBULTBUa1VqeWxsMXU1SlgxVjNWQW1xZXBPRnpEVlY3SENFRE9yd3lrdTdlMk0yVQ?oc=5",
+      "source": "이코노미사이언스",
+      "pubDate": "2026-11-16T01:23:00+00:00",
+      "description": "삼성SDI, 美 ESS 시장서 16GWh 대형 수주…LFP 배터리 경쟁력 입증 이코노미사이언스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "abc666a8b797",
+      "title": "가격 올리고 입찰 포기…ESS 특수에 전력비용 부담 커지나 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xY2RIOFpvZUI0QzVqR3ZjSlBXQlhudVVSRXV2LXEtcTFmdTRST3ZraDlkNC1IbDJ6YlNFMWotMU9aejJHR2ZMSW41SEhQS0ZZZmtiRUQtSzdlT3Y3V0t1djdzY3M3cWxxVHI2eWphTUVrdw?oc=5",
+      "source": "KB Think",
+      "pubDate": "2026-11-16T01:21:26+00:00",
+      "description": "가격 올리고 입찰 포기…ESS 특수에 전력비용 부담 커지나 KB Think",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "047c15766b82",
+      "title": "삼성SDI, 북미 시장 ESS 공급 확대...수조원대 LFP 배터리 계약 - 이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tYUdxbkZOWHNJaUxka055d1NfM2FpenhxZHc5ckVRTENZT192clV4SngxYV84aHltejZxQ000N1FLV1dZM1FQOXVRdjljMkdCYUdWamw2WDllWjRyS2NsNE5n?oc=5",
+      "source": "이코노미스트",
+      "pubDate": "2026-11-16T01:16:00+00:00",
+      "description": "삼성SDI, 북미 시장 ESS 공급 확대...수조원대 LFP 배터리 계약 이코노미스트",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "21e0cadb139f",
+      "title": "삼성SDI, 미국 주피터파워와 수조원대 LFP 배터리 수주 - 화이트페이퍼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaUW12MnE5UVlSVVYzQzBSNGdUbmdQUHd6b0EwOXFBd2QtRURrbGNrWUVIbl9OMF9IMEs1a3ZteFUySjcxVmpyLWNnRlBXcHF6cHM0c0VLZGpDVGtwUWZJemFaZ1JrcWRna3RrTDdqZzDSAXNBVV95cUxOb2dMUGFIWHlSbHN3bWRuTDJmX2Z3bzFwMnVOTER4djdTT2dHVHRGYVlaM2Fyemt2M2dRRWFpb2RESUh6dlpKdEx3TzlNZVJpaTFpcXdMVTUtR29fendQM1htc2tXTEUtWXBsZ0ViaGpUQTJJ?oc=5",
+      "source": "화이트페이퍼",
+      "pubDate": "2026-11-16T01:15:40+00:00",
+      "description": "삼성SDI, 미국 주피터파워와 수조원대 LFP 배터리 수주 화이트페이퍼",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ce49d534ba9e",
+      "title": "LG에너지솔루션, 북미 ‘RE+ 2026’ 참가… AI 데이터센터용 통합 전력 인프라 공개 - 기계신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1WDhYeEdya3gxQUYwSE9vaHhNSF9MU3RDWnVET3psd0FUVFd6bU9mblRIVUhwelR5Y215Z0lNbUs3QVB0eFZrQXZmUGlBMnBjTEZNbHA0dy1lV3dzaXNyYTVsaVctc2s?oc=5",
+      "source": "기계신문",
+      "pubDate": "2026-11-16T01:13:30+00:00",
+      "description": "LG에너지솔루션, 북미 ‘RE+ 2026’ 참가… AI 데이터센터용 통합 전력 인프라 공개 기계신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "15929c442b32",
+      "title": "‘북미 출격’ 삼성SDI·LG엔솔, ‘RE+2026’서 꺼내 들 차세대 에너지 카드는? - 뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82QmhUNG00Zl81NXJqRm45NG1ucTY5X1RsQWhycWx2MWd6Q1N1SGNreVF0Sks0Y2t2QzE0OThxWWxFR2t5RWtpQmh1c2QxcFhPNUpMcGpvYVdwVldVcnpHNUpPZnlqYlhzQ3ZNcw?oc=5",
+      "source": "뉴시안",
+      "pubDate": "2026-11-16T01:12:28+00:00",
+      "description": "‘북미 출격’ 삼성SDI·LG엔솔, ‘RE+2026’서 꺼내 들 차세대 에너지 카드는? 뉴시안",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "783487710035",
+      "title": "한국전력 주가, 11월 16일 장중 26,600원 3.80% 하락 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hZnI3ZmhFUUhKS1llbWRvZHZwZnFJNDFKeW9fYUs3WXFhdzNZSFRsRVJSRVFtUlEzeEhHSFZ0aHJwTlhXSUFFSnhoTUEyZFpBNzNKbFVoSlI0WnZoTUdOUnpaYXoxSmI1LUxyX0tuNUNQUQ?oc=5",
+      "source": "중앙이코노미뉴스",
+      "pubDate": "2026-11-16T01:05:04+00:00",
+      "description": "한국전력 주가, 11월 16일 장중 26,600원 3.80% 하락 중앙이코노미뉴스",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "feb0705363a5",
+      "title": "삼성SDI, 美서 ESS 배터리 ’수조원 잭팟’…16GWh 공급 계약 By EBN - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUQVQtOE9qeG9XcWVlU1BzR2VsS3lONG1yVVcxV01WTDNCVUlsWkxtZGV2am9UN3hZWEZoYXppNGY0LWJRbmxuNjhGNUJNVVAyWS1fbUdBX0prVFRzMDY1VTFsdmpwdDVaNmt4UmY0cmk?oc=5",
+      "source": "Investing.com 한국어",
+      "pubDate": "2026-11-16T01:03:00+00:00",
+      "description": "삼성SDI, 美서 ESS 배터리 ’수조원 잭팟’…16GWh 공급 계약 By EBN Investing.com 한국어",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "47e8fe82befa",
+      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…블랙록 소유 에너지 기업에 공급 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjNiT0ZxRGlqeFBkYnZvSl93UFJlakhWcXhfbGdfVUR0alFoNkdTbU9Mby1VeEF2eVpkeUtMeURPWTFTNlFZZm9pQjdxcTdhYkxiWUJ3VHNBekh5Mll6NUR3bDB1LWhsNnNrU0pnZVhkdDJJNFBtN1NaOTlScDdsaW5UaWlNTE55TzNIUXlGYw?oc=5",
+      "source": "조선일보",
+      "pubDate": "2026-11-16T01:02:24+00:00",
+      "description": "삼성SDI, 美서 수조원대 ESS 배터리 수주…블랙록 소유 에너지 기업에 공급 조선일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b925438daef6",
+      "title": "[특징주] 삼성SDI, 美 수조원대 배터리 공급 계약에도 상승폭 축소 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qYzR3RjJEN1NnbkZFV1ptU0ZMUlR3QXV6bnN2dm1NOHFwaFQ3ZHhja29HdkhqUC1zMzB6NEtnWTduWlp3eENha1lVV3lnTEhEaUJ6Y3lBUHbSAVhBVV95cUxNamM0d0YyRDdTZ25GRVdabVNGTFJUd0F1em5zdnZtTThxcGhUN2R4Y2tvR3ZIalAtczMwejRLZ1k3blpad3hDYWtZVVd5Z0xIRGlCemN5QVB2?oc=5",
+      "source": "아주경제",
+      "pubDate": "2026-11-16T01:01:44+00:00",
+      "description": "[특징주] 삼성SDI, 美 수조원대 배터리 공급 계약에도 상승폭 축소 아주경제",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "86bca5c7dd7e",
+      "title": "삼성SDI, 美 주피터파워에 수조원대 LFP 배터리 공급… 2029년부터 3년간 16GWh 계약 - 매일산업뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96WlYxTC1kalluS1VTUWZVbEFoQ2VOcGwtaG1FM0U2RktFa19VZGJnd3BhRWQxTmVvRFY1X0lORjVpaWtVYTVHZTAzMEVoenMxaFY1ejg4aGc4WVBocGVUREM2UQ?oc=5",
+      "source": "매일산업뉴스",
+      "pubDate": "2026-11-16T00:59:11+00:00",
+      "description": "삼성SDI, 美 주피터파워에 수조원대 LFP 배터리 공급… 2029년부터 3년간 16GWh 계약 매일산업뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "07e833e7ef7b",
+      "title": "삼성SDI, 미국 주피터파워와 ESS용 LFP 3년 공급 계약 - 데이터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iQldfOFlzVTFCcEptVW1IaW4tUHNyZ1pmVmZTSVZaTFVFcVVvTF9ZZDJQQTdPNHItZGU4d3RXQTJtdU1lNlV0c19QZU1KR25VaHJpVWJTa19YQmtYMk5z?oc=5",
+      "source": "데이터뉴스",
+      "pubDate": "2026-11-16T00:58:23+00:00",
+      "description": "삼성SDI, 미국 주피터파워와 ESS용 LFP 3년 공급 계약 데이터뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c0e3fbf813a2",
+      "title": "삼성SDI, 美 주피터파워에 LFP 16GWh 공급…북미 ESS 시장 공략 속도 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96NHNVR1ZOWjQ3OEF3TEpkUkd0SDItZklMejBLdmlPdEJWSklUYUYxMHFCUHBHUXdVbkVmY191RlBzcFY5ZlNPeW1XOVpYYmUzQ0ZvdWlQVUpzWWt2ZDdzVzFBeTZpYktNWVJhM1d3?oc=5",
+      "source": "아시아투데이",
+      "pubDate": "2026-11-16T00:56:35+00:00",
+      "description": "삼성SDI, 美 주피터파워에 LFP 16GWh 공급…북미 ESS 시장 공략 속도 아시아투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "cbf77f472340",
+      "title": "삼성SDI, 美 주피터파워와 수조원대 LFP 공급 계약 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81dDB4MEJXakhvN1pxd1RaM2NkWWhOalVLRlpIQlFzSzFvWDkzR3pJb3NSVzMxc25SWm00MzhERlY5enlDdWtVZVhYYVZOTkNIXzl1dXV2OGxmRnVPTlpPQ1NvWEY?oc=5",
+      "source": "디지털데일리",
+      "pubDate": "2026-11-16T00:55:16+00:00",
+      "description": "삼성SDI, 美 주피터파워와 수조원대 LFP 공급 계약 디지털데일리",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c668cf6fd80d",
+      "title": "삼성SDI, 美서 ESS LFP 배터리 공급계약…수조 원대 수주 행진 - 민주신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4ejhMMVdOZlNBREczZkhuMDRSV2EzM1hEd3NXanBLMExpaTNySGJMeXRkdWZoQ242VENXLWhiX3k4SVF4MVRmTEtfQkRiZEt2M1FmU19WY0o0bndLRE1tWDZwMlBSZ1XSAWtBVV95cUxNaWx3WVVlUEtxSkhZN2lKWEhaWkhTMDl4NGpHRXhtX3c2VkZYcmF2Y0taS1FZSmhERWZKVUdSWjNWS0xpdmZtbDRZZXpfRFU5cnk2U2Z1LVd2aHR3aUQxbm5EYThxSl9oNUxNVQ?oc=5",
+      "source": "민주신문",
+      "pubDate": "2026-11-16T00:51:10+00:00",
+      "description": "삼성SDI, 美서 ESS LFP 배터리 공급계약…수조 원대 수주 행진 민주신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d6d2f7e3fd5c",
+      "title": "삼성SDI, RE+ 2026서 북미 ESS 공략…주피터파워와 16GWh LFP 공급 계약 - 테크월드",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hLV9BMFV0cnpXMFBNdWNyZm1BdXBNakFPOFJGSFJBdEVlTE4wUlN5bzg4bDdkVTdKWHJzYUJpaGgwZ0JBa0ZvUGVlTjJXbUxzSVdFTGk5YmpybThpVW5wcmNpZVRQRUFJ?oc=5",
+      "source": "테크월드",
+      "pubDate": "2026-11-16T00:50:00+00:00",
+      "description": "삼성SDI, RE+ 2026서 북미 ESS 공략…주피터파워와 16GWh LFP 공급 계약 테크월드",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f18b40a5ae0b",
+      "title": "삼성SDI, 美 주피터파워에 수조원대 LFP 배터리 공급…누적 수주 27GWh - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nZ250TUZYM1hkM0FmdFZNOXA1MkxLOFBQT0ZIUThOUWRsNXRSYU5veXdPM09Dckg4R1lzUEZaU3k2a1VXMjZTQUFVcjUwWnZ6Q1hZdVQ3NEFsNEE4eVJYajJrZWhBajFCN1hVU1l5OFk0dw?oc=5",
+      "source": "인더스트리뉴스",
+      "pubDate": "2026-11-16T00:43:19+00:00",
+      "description": "삼성SDI, 美 주피터파워에 수조원대 LFP 배터리 공급…누적 수주 27GWh 인더스트리뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d4207f027e59",
+      "title": "삼성SDI, 미국서 수조원대 LFP 배터리 수주…ESS 공략 가속 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HZDhMTFY3R1ZGckM5bEtIbEdJeUhyRzhVQlF2QnBKN0FJXzNTR3YyUEFOdENmc25NY1c2Umg1blA3djQ4NmoxenFEZjBTR3R3LXdXczJlc1gyU05fRl9kY01uWkZFSDc3TEFZZ1c0cV8?oc=5",
+      "source": "신아일보",
+      "pubDate": "2026-11-16T00:41:10+00:00",
+      "description": "삼성SDI, 미국서 수조원대 LFP 배터리 수주…ESS 공략 가속 신아일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "9b3ad12e8358",
+      "title": "삼성SDI, 블랙록 계열 주피터파워에 수조원대 LFP 배터리 16GWh 공급 - 나눔경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqaXZMdXV4SzlxV01MUE1jX1NvTk9HY3luUzQzQ3hrMnp6OFNHOGkxbEFmWFNES1dNVHoxX0o2TGc0WXRuTEJCSmtjTFY5MEkwWWw2UDFPNlFZRUZHTjFMRy1wRjRuRFlxOFR3Sw?oc=5",
+      "source": "나눔경제뉴스",
+      "pubDate": "2026-11-16T00:36:19+00:00",
+      "description": "삼성SDI, 블랙록 계열 주피터파워에 수조원대 LFP 배터리 16GWh 공급 나눔경제뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "43e54924025e",
+      "title": "삼성SDI, 美 공장 가동에 LFP 수주 탄력…16GWh 확보 - 블로터",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUekJEUzM1Z1FCbzRGWDNNd0FXVWFNY25Tc21aclBXUjhmaEZ3Q3lwZENxbS14eVU3T0NwQVQyaWk1QmhvSnRzUE10M3pNaFljMzNVWmp6ZlFhMms5bWduYll0ZjUwUkVZ0gFsQVVfeXFMTmFFcjJPTU5CTXpJcFRNX0lVaTJjcF9Zc2YyajRqcnZicmlpX3ZFQnBCM2JUemNSdkQzOWNxbjRCbzdkTXFqR1RNbjZOaXl1MWpZREpUUU40aHAybXdXYmVkM0pjb21UbG1qWTgw?oc=5",
+      "source": "블로터",
+      "pubDate": "2026-11-16T00:31:57+00:00",
+      "description": "삼성SDI, 美 공장 가동에 LFP 수주 탄력…16GWh 확보 블로터",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b3c7e5f491c5",
+      "title": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모 | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jLU5jT3lPOXZYU0lwZ0VLd3dleDczUXZnYWJNbGdBV3RJZWloeWl0cUREVVNoTDYzYm9Vd0JYMVQ2WkkyVkZYcFdyZmNhS1BXQkNnaXdxbk8wajNNdmloNFhfdzVLNHpLal9JbUp0MnVoVzRk?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "2026-11-16T00:30:57+00:00",
+      "description": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모 | 연합인포맥스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "a67d88710348",
+      "title": "삼성SDI, 美 ESS 시장서 2조원대 추가 수주…주가 5% 상승 - 충청시사신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SRXg5Wm5tY0QweF9pUjI0RlpONmpyd3l4QWhpTnZkOFpyZl96UjJrX3RjQm8yTFBGX2dkYURvR1Bxc2NiNWx4UXFjaWRKR04yRFN4RHZfU01pU0VxSHcwOHlxUkU3WUVzRFBB?oc=5",
+      "source": "충청시사신문",
+      "pubDate": "2026-11-16T00:30:51+00:00",
+      "description": "삼성SDI, 美 ESS 시장서 2조원대 추가 수주…주가 5% 상승 충청시사신문",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b76035181793",
+      "title": "삼성SDI, 美 ESS 배터리 2조원대 수주…주가 장 초반 5% 급등 - 현대경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zd1lOek9veEZsOGNmcDd4VU9wTWxrQjJiS2hpR2NBYlM2aEJWNEpDU0laQi1GdEZXVS1aSzhwa2hrWWxTQjdyOFlmU09URUoycUtGMnI3VzFlNjRucE1xOVF0cEt6ejdoYkI0?oc=5",
+      "source": "현대경제",
+      "pubDate": "2026-11-16T00:28:59+00:00",
+      "description": "삼성SDI, 美 ESS 배터리 2조원대 수주…주가 장 초반 5% 급등 현대경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "9843fb0a96d6",
+      "title": "[특징주] 삼성SDI, 美 LFP 배터리 공급 소식에 장 초반 강세 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDIxeUJELUF2Q3d0ZkZyWnFlQ2s2azFwRFRqYzJQRWZMUzZsU0JDMlE1akcwWXc5YTIzeFZGU1pZX1FVRl9MMjFwWURmak52a2tCM0hwNHJoMXdhVHJqMmdHb2RHSFpnb2RqWmJhUXNFNl9IY3BCZHNtV0dLZXRxZlB3Y1BjbkV20gGcAUFVX3lxTE9FNmhJZ2p3SUR6YVhDdC1yb0ItaXhEVy1VMXFMVW5pdDZsbmRKZ1RlMzFnTGRIek1lUGRDYUxNMUNXbU1CRnVwOEhLMkNqVzFMS244MVhGUnYtelNydHpmLXhhT2tJdExfWHg5Y3BBbDhRb1lfWGVMaGFSV1VrRjhmRkFiUGk3WmE3c3RrbldxdFdWb0JFWkZEVWlhWA?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "2026-11-16T00:28:00+00:00",
+      "description": "[특징주] 삼성SDI, 美 LFP 배터리 공급 소식에 장 초반 강세 Chosunbiz",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "27318cecc54c",
+      "title": "삼성SDI, 美서 ESS용 LFP 배터리 수주 소식에 강세 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMUJ3T2gxUGNWTmlnMUJaU25Kbm5UczdGaXVMZnY3aUV1SmtKQWdwRDVwOW5sdldkMzFlNC1lck96YndwT0xUZWM1cUc3a2pPREl6NlNZZUk5dw?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-11-16T00:24:30+00:00",
+      "description": "삼성SDI, 美서 ESS용 LFP 배터리 수주 소식에 강세 한국경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "55f99db5903e",
+      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주⋯LFP 사업 확대 속도 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fdWF5RzMxWW9YMmZqQ2lZSGdhNFlvZVJ1OVYwbTQ4QWhuVUtTZGhSdm9KbVdmNHR0dlpyYlRYektnQS1aN2hrNUFpcWlhSkFXN2ZieUpMTFkxZw?oc=5",
+      "source": "브릿지경제",
+      "pubDate": "2026-11-16T00:23:00+00:00",
+      "description": "삼성SDI, 美서 수조원대 ESS 배터리 수주⋯LFP 사업 확대 속도 브릿지경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "fdc73003461d",
+      "title": "삼성SDI, 블랙록 계열 美 ESS기업에 수조원대 LFP 배터리 공급 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vVi1UWV9aV29wZERHRF9KeDE2UXE2Y29wVndOWnlGMnVfUndfN2w4NGJFYWRIVk5zZ1otX1hNaWFQcmlaM3ctSmxVdVFtcDVfeW9JOHln?oc=5",
+      "source": "헤럴드경제",
+      "pubDate": "2026-11-16T00:22:53+00:00",
+      "description": "삼성SDI, 블랙록 계열 美 ESS기업에 수조원대 LFP 배터리 공급 헤럴드경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "eaf1dd385e85",
+      "title": "삼성SDI, 美 에너지기업에 수조원대 LFP 배터리 공급...북미 ESS 시장 공략 가속 - 생생비즈플러스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tSHFTcjd5X0FCWU9adWdLSjRiRjBlMGp4Q3RCdGtOTVU3SG52QTBxY3lUVF9LT0tUTG50UFRsT25VaHlRdmNIWDAzZ2dGc2VkMjh5Q3pLRzN6WC1lOW40eWJXejNQcU9TLUp0OA?oc=5",
+      "source": "생생비즈플러스",
+      "pubDate": "2026-11-16T00:22:40+00:00",
+      "description": "삼성SDI, 美 에너지기업에 수조원대 LFP 배터리 공급...북미 ESS 시장 공략 가속 생생비즈플러스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "387485c0a854",
+      "title": "삼성SDI 5% 강세…美서 수조원대 ESS 배터리 공급 계약[핫종목] - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hRlpIaHFTTVlYU0pTSXN5bVA0RUVBUGRYTVBfeS05dUJ4Tm1jOV8zeUtQU1lmeElUN0xYR01QdHJnampZUmRYVUVqZ2dJUF9yM1YxTkxhaXMyNnZxdEM4?oc=5",
+      "source": "뉴스1",
+      "pubDate": "2026-11-16T00:16:38+00:00",
+      "description": "삼성SDI 5% 강세…美서 수조원대 ESS 배터리 공급 계약[핫종목] 뉴스1",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "662766027181",
+      "title": "“수조원대 배터리 공급 계약”…삼성SDI, 5% ‘쑥’ [줍줍 리포트] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5TjlVdDNQYzRWNDltdGo5OFRNWU5LS2M4TXNISEEwXy1wcDBnTmFxMkRYTzFlaENNM2ZJTV9rX2JHNGtoZlM2WmVFbHVPN2FiV3fSAVNBVV95cUxPdnpNeTVnU2hKZ21mUHFtc3B5aG5qYnM2MGZ2dWFzN1NXMVhtd0VFWF9MWmFmWl9jYlV3MnRjU1NUbnZTUE56RVBiS1V5VURhUGFVOA?oc=5",
+      "source": "서울경제",
+      "pubDate": "2026-11-16T00:15:08+00:00",
+      "description": "“수조원대 배터리 공급 계약”…삼성SDI, 5% ‘쑥’ [줍줍 리포트] 서울경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "608edb7ba8e7",
+      "title": "삼성SDI, 美서 수조원대 LFP 배터리 수주…글로벌 ESS 시장 공략 속도 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SRU9QYzdLeC1YdUw0Q2hVa3J4RWZ0YzZLS1JPYVlqelo1MG50Z3RvSUg4R0gzTUVNLVh3bUZrWHV5ajg4V1BHRlRnU1Jtd2lsRkxaZmlSSVBkOTVCbmNkZndzYw?oc=5",
+      "source": "쿠키뉴스",
+      "pubDate": "2026-11-16T00:14:56+00:00",
+      "description": "삼성SDI, 美서 수조원대 LFP 배터리 수주…글로벌 ESS 시장 공략 속도 쿠키뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "c977e8a4f94e",
+      "title": "[특징주] 삼성SDI, 수조원대 ESS 배터리 수주에 장 초반 5%↑ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JMUw5ZlZPQm9LcEppUnN5Nng3N0VWb2gwZDkxV0lVQ0o5NTlpQ3JiaFM1VTRoNG1jWGI2WVJaWVFua29RQzNxSVM4enJmdFlDV0FCNTVUazJRMk3SAWBBVV95cUxOVWhFcC15bDNVSlYxVkppVHc2QzU1cGFMY1oxeXNoUzVWYXFwNE9pblFuYU1mZXIzNTVIakk2ZjR3YmZWUnhtZkcwVDFGVy1vZkpKYlRJNnBmT2RxNVdrZGo?oc=5",
+      "source": "연합뉴스",
+      "pubDate": "2026-11-16T00:13:14+00:00",
+      "description": "[특징주] 삼성SDI, 수조원대 ESS 배터리 수주에 장 초반 5%↑ 연합뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "3c97746bf907",
+      "title": "[특징주] 삼성SDI, 대규모 ESS 공급 소식에 5% '급등' - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14bF9oM3NhZGtoRGJxVWcwb3AyYWxGSld2czc4dnlrNk9UT0R4S2tEQzR5dnVUQXhmYm9tRVA5LXYzLU1qTVBkTjFPVQ?oc=5",
+      "source": "아이뉴스24",
+      "pubDate": "2026-11-16T00:13:04+00:00",
+      "description": "[특징주] 삼성SDI, 대규모 ESS 공급 소식에 5% '급등' 아이뉴스24",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "81dc5ab47932",
+      "title": "삼성SDI, 美 ESS 배터리 수조원대 추가 수주 성공 - 스페셜경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmSERfbWo5OGNBa0JWaEE5RUFFbk80RjZqcEFJYkZKeXotTVl6dWNLUkplQmVhdWpJU1VEQkJMcEJBX1FHZFFmUHdTZlNSZUw2Vm1YVDdkZVdQNktwRnB2TERyZjhOZ1M0Tm1QVA?oc=5",
+      "source": "스페셜경제",
+      "pubDate": "2026-11-16T00:12:50+00:00",
+      "description": "삼성SDI, 美 ESS 배터리 수조원대 추가 수주 성공 스페셜경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "35ab0820f272",
+      "title": "삼성SDI, 미국서 16GWh 규모 LFP 배터리 수주 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa052Q1BBNVlpQUFnaGFpMnJnQVRjLVJxWV9hUXd4cDJZOFJtbk5oRldJTGctTlkzVkdOYmFabTFicXdrX1RxNUdaYjZhS3daUUVKbVVCZVZhU3piVERkSmVkSlNXQjR6eWpiRTJoTGdlTmp2eE1HWkFQNjZYMFBEQ2VpaDXSAZgBQVVfeXFMTWZrVnpZY0stMHktcjlLR0FEbjl1MFJMSmJZSDNRaUJHQnhNZl9XeE54aHgxWFlSd295UDljSnVSQnc5MGxtMk1rRG16OTl5cVpJX1hLQUhna1FEaHhyM25wWXlXRlZRWHp6a002R2NQT0FYaGROZmZXSi10NW84bENuOWZSaFN5a2VYQi1nRkdXVXVSY2FZQnA?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "2026-11-16T00:11:00+00:00",
+      "description": "삼성SDI, 미국서 16GWh 규모 LFP 배터리 수주 Chosunbiz",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "42b118aefece",
+      "title": "삼성SDI, 5%대 상승…美 ESS 기업과 배터리 공급 계약 체결 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CMnlnemRTbi1ra050QUZ4OUhRdUJ4TjJrQUt1SldBT1FyckpfbG1Dc2NWbkNNSW90SUlvNlZoempJVGRlRGxkX3hsSkJ4b01IUDB6ZFpXUUlqUE5Fc2lOTlBBc3RVcXFxUGVhZUlR0gFuQVVfeXFMTUIyeWd6ZFNuLWtrTnRBRng5SFF1QnhOMmtBS3VKV0FPUXJySl9sbUNzY1ZuQ01Jb3RJSW82Vmh6aklUZGVEbGRfeGxKQnhvTUhQMHpkWldRSWpQTkVzaU5OUEFzdFVxcXFQZWFlSVE?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-11-16T00:08:23+00:00",
+      "description": "삼성SDI, 5%대 상승…美 ESS 기업과 배터리 공급 계약 체결 - 머니투데이 머니투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "ba045f5171ee",
+      "title": "삼성SDI, 수조 원대' LFP 배터리 수주… 美 블랙록 자회사와 공급 계약 - 뉴스드림",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTHRjX1RUMll6UUpOOHVzdDUxTnBoamZJMWIyak92OERPZUJJQjRzbVJoWi1HcGJhTGRldEJSUkNCZUJYTmRNMkswREsxTmRzZGpQM3lSeXNrXzNEM21EbDJ4WWlCZkxLVURF0gFuQVVfeXFMTUJ2eXJUcmNJQ1JSTVpVUnYzN2xyaDBEeWxIM1ZETld2NjBTLW9NYXpodXQ1dktBZ3BGeTNtQXdkcmViblhTbENqRnYzRlZOR2lYQkxnQXczM3h1UlV1QjlFb2diTVp1SDJQT2tRbGc?oc=5",
+      "source": "뉴스드림",
+      "pubDate": "2026-11-16T00:07:47+00:00",
+      "description": "삼성SDI, 수조 원대' LFP 배터리 수주… 美 블랙록 자회사와 공급 계약 뉴스드림",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "08bae66439b8",
+      "title": "삼성SDI, 美서 수주원대 ESS용 LFP 배터리 수주…“3년간 공급” - 마이데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbnZoMktRUVAyR0NnaG9SQVYyNjFkZlhtQk53VXY2dmpYSWF5MjRaVDhKcW9lbS1NVUhTaDNXXzV0UGEtOW9PNllDd2tOSDRCajZNSWdJYzlmUlgwNGx1Ng?oc=5",
+      "source": "마이데일리",
+      "pubDate": "2026-11-16T00:04:13+00:00",
+      "description": "삼성SDI, 美서 수주원대 ESS용 LFP 배터리 수주…“3년간 공급” 마이데일리",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "7d630acd46c3",
+      "title": "삼성SDI, 美서 수조원 규모 LFP ESS 수주...\"경쟁력 입증\" - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfbm5GY3VKWUZka2ZlRzdmZk5PXzdFSXNDUlM1bVkxNGdJQ1JVb21lX0tHaXNiYkFoSVBTb0Y0dDVBcWdoNFg5UWstbEFWSm44bkZKcWJn?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "2026-11-15T23:55:05+00:00",
+      "description": "삼성SDI, 美서 수조원 규모 LFP ESS 수주...\"경쟁력 입증\" 지디넷코리아",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "745bcf3313c4",
+      "title": "유진證 \"한국전력, AI 전력망 투자 확대에 요금 인상 기대…목표가↓\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zMXIxNmNEY0d4Z0ZhYTVxMnFPRzNoNzJLVFROTmY5Z2YxODkwLWdvTGFLSE5yS2Jnck1RNFR6aHNvUnJKZmxsdVpLS2N1eUstNnk2MThvWEZva1RxY0s3UXctSkVEaEhaTk1ZVTViNHg1VWtJRmhMTtIBeEFVX3lxTE9zMXIxNmNEY0d4Z0ZhYTVxMnFPRzNoNzJLVFROTmY5Z2YxODkwLWdvTGFLSE5yS2Jnck1RNFR6aHNvUnJKZmxsdVpLS2N1eUstNnk2MThvWEZva1RxY0s3UXctSkVEaEhaTk1ZVTViNHg1VWtJRmhMTg?oc=5",
+      "source": "뉴시스",
+      "pubDate": "2026-11-15T23:53:05+00:00",
+      "description": "유진證 \"한국전력, AI 전력망 투자 확대에 요금 인상 기대…목표가↓\" 뉴시스",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "213a5f273966",
+      "title": "[특징주] 삼성SDI, 美 ESS 대규모 수주 소식에 프리마켓 3%↑ - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQWY3RlZnemI2amhjYVVlN3Q4NGJvczlxRTRjS1BGeGhhNk1EZU5pR1drdnFEcXo5dXh1TGZBc2lNZ1BiSnFOaWV0M0lZN1RZR2VKZzE0RmtyYm5I?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "2026-11-15T23:51:00+00:00",
+      "description": "[특징주] 삼성SDI, 美 ESS 대규모 수주 소식에 프리마켓 3%↑ 뉴스핌",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "f6fb7d699404",
+      "title": "삼성SDI, 美 주피터파워와 16GWh 규모 LFP 배터리 수주… 누적 27GWh 돌파 - 파이낸스스코프",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdTQwcnJwWHhkdkk5WHZlUkJOMHRmSjlaQnU1bE5ibFEwcDF4bTJ5WXU3U1JZVmdjdTBnRmFEMkkxeXJxakpNckhjTXYxMWlsYUs4WmNuVzZVRHJZREV6ZXBkX3Z5SEphWEE?oc=5",
+      "source": "파이낸스스코프",
+      "pubDate": "2026-11-15T23:51:00+00:00",
+      "description": "삼성SDI, 美 주피터파워와 16GWh 규모 LFP 배터리 수주… 누적 27GWh 돌파 파이낸스스코프",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "a0ec9d184d63",
+      "title": "유진투자증권 \"한국전력, 4분기 적자 전망.. 목표가 하향\" - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDZNMlRzOGVUNTNCc1kyQ09xQjRvWXA5NzY3QzlfOEd5U3B2RjRSZVBGdll6WnBYWkdnS01uYVljWE5Kal9iWm9CUGtPYkR5a3lUNUplbU16LU5LUGJMVEltOEtXYmNILVF2T1JOaXNuSWRZOS1Vb2pTSHpYc0lYN2V4c1p4eWo0?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-11-15T23:49:08+00:00",
+      "description": "유진투자증권 \"한국전력, 4분기 적자 전망.. 목표가 하향\" 글로벌이코노믹",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "9cfd1bdefac7",
+      "title": "삼성SDI, 美 주피터파워에 ESS용 LFP 배터리 16GWh 공급 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QQXBpMlFxZF9YZGhDUUUxYjgtTEktUkFVRmp2SDlWbkdPWjBMd1VRRWVEQVpQZ0FNcDdiR3lfMFY5T3hMcjRrbkRtS1hyUElKX3lVcmhhWndwVGVfRXhyZDYza0pCUQ?oc=5",
+      "source": "디일렉",
+      "pubDate": "2026-11-15T23:47:51+00:00",
+      "description": "삼성SDI, 美 주피터파워에 ESS용 LFP 배터리 16GWh 공급 디일렉",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "e55ed026a2a6",
+      "title": "삼성SDI, 美에 ESS용 16GWh LFP 배터리 공급…2조 이상 추정(종합) - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwRVpRZFJwWVIyWmYxZHZJcG43QXRROFhDbTIwMTV6SDZwOHN1SzQ4Q05aWkUyUkt3SVJBUHJKTndQV1FzeHJVd2J5VE9VV2pSOUFFc2ExLUVnSUdwd2dRSm9paFk?oc=5",
+      "source": "뉴스1",
+      "pubDate": "2026-11-15T23:46:21+00:00",
+      "description": "삼성SDI, 美에 ESS용 16GWh LFP 배터리 공급…2조 이상 추정(종합) 뉴스1",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "cf4a1c9b7495",
+      "title": "삼성SDI, 미국 ESS 개발사와 수조원대 계약…양사 누적 공급 27GWh - 마켓잉크",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVVXhFblptTmc1YmpsX2NGc3hvT2VsbjBZWjZyeTFybVgtUEFOdTY0WGxnRDJocENIZEVsYlctbjhuZFN3Sk9NRGc0N1FxS2lVYzFUcmtuOHBVbkpiVVZxN3JfbVBmVEsxckFiVm5Xdw?oc=5",
+      "source": "마켓잉크",
+      "pubDate": "2026-11-15T23:43:12+00:00",
+      "description": "삼성SDI, 미국 ESS 개발사와 수조원대 계약…양사 누적 공급 27GWh 마켓잉크",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "573901c7fd36",
+      "title": "LG에너지솔루션, 美 RE+서 AI 데이터센터 통합 전력 솔루션 공개 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mLXVKb3M3a1ZpXzl5U0JTTGEzZVRnS0Qyc1VpaGMzMDlESlVwNDQwaWhBLVEzTW1DSHV2azBGUGhCSGpKdHRSY1Y0MmlUVVJNT3YydS1kbjdpR1E0eWFFMGRSU0dLN1ZTbTNZ0gFvQVVfeXFMT1luVnVHMnAxelVCUWVFcy1CSVdIT1VWOHJteHZ4YTg3MXNpSXZZREFtVno3SHlOOExjSEFOZFFfbGtuaVRHVEp4aTBSNzVhcG1lSXRuQS1qNnlJeWRSbU5Ma2hFMmF6VnF3SHpJOTBV?oc=5",
+      "source": "한스경제",
+      "pubDate": "2026-11-15T23:41:58+00:00",
+      "description": "LG에너지솔루션, 美 RE+서 AI 데이터센터 통합 전력 솔루션 공개 한스경제",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "126fe93265e4",
+      "title": "\"북미 데이터센터 정조준\"…삼성SDI·LG엔솔, 차세대 ESS 놓고 격돌 - SR타임스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PRTh1VHp1aHZQLU9vZTFCZXllYlVSaktuNWtPYnlHaVZwUzY3QlpFZlhrdm4zd1NIaDFjWGFDenlWWEpheFFuZzdrSEYxMW1Oc0RWc0hubWxWcDR1eV9rWl90V2dmWms?oc=5",
+      "source": "SR타임스",
+      "pubDate": "2026-11-15T23:40:26+00:00",
+      "description": "\"북미 데이터센터 정조준\"…삼성SDI·LG엔솔, 차세대 ESS 놓고 격돌 SR타임스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "06b6d35b75f1",
+      "title": "삼성SDI, 美 주피터파워와 ESS용 LFP 계약…3조~4조원대 추산 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80Z2JGMHJPVlhqaDdVNEdVeUNtOUlITzI3dmtqdTdGM3IwajBTM1hkdHF5dUNOYnFKamRRTHBJMjg1X3lBZjRyV21BOUg5MkdrUktqUmZjWGlBR1hZMjM3WFhuRU9EbHVpSUdzUmp5bzUybWpRSE40Rkhn0gF_QVVfeXFMT3VoRG5VUVE3ZWp4cHRMWXZHNHpqNjZaYjRiQTdWTmc4dElMaHF1a1FoVU1kSDVOV3RvRVBMQktxWl9UX1BBbVB3LU1qNHAxRkRuVnJFb0pVZFhodkpfOFZsT0JYampETDRzT3JwQ3Ewb3JCNV94a2dmWFRnTURtYw?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-11-15T23:38:38+00:00",
+      "description": "삼성SDI, 美 주피터파워와 ESS용 LFP 계약…3조~4조원대 추산 - 머니투데이 머니투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "314b82238120",
+      "title": "삼성SDI, 미국서 수조원대 에너지저장장치 배터리 수주 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4eWlJVElsUFlwM0VzUkJjUXhUamp0T2ZaMHZla2dadTN0QkdwcWs0bXQyWGI3ZnROVUtMd0xYY1VlWkV5VmViUTBjRmxlek9DaFV5NXZHTmJudnB2TEo5OGFnMF9sS3M?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "2026-11-15T23:35:00+00:00",
+      "description": "삼성SDI, 미국서 수조원대 에너지저장장치 배터리 수주 연합뉴스TV",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "65f430369e64",
+      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…\"AI發 수요 선점 지속\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fOW9qd0hzRThZeG1sOC12NzI5QVJYaEhBdkNPSXZ5Y1VocVhGelFoV3FtTWxSbVByZG5Zb3M5NkloU1FPdGp0R3ZPbkNPWTAxcEV6SUlfVi1OMDVQd2x0OTY2a3ZOdVVLbFBsV0VKeW8wVThfQ05ITdIBeEFVX3lxTE9fOW9qd0hzRThZeG1sOC12NzI5QVJYaEhBdkNPSXZ5Y1VocVhGelFoV3FtTWxSbVByZG5Zb3M5NkloU1FPdGp0R3ZPbkNPWTAxcEV6SUlfVi1OMDVQd2x0OTY2a3ZOdVVLbFBsV0VKeW8wVThfQ05ITQ?oc=5",
+      "source": "뉴시스",
+      "pubDate": "2026-11-15T23:31:15+00:00",
+      "description": "삼성SDI, 美서 수조원대 ESS 배터리 수주…\"AI發 수요 선점 지속\" 뉴시스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "769a92cb04d5",
+      "title": "삼성이 해냈다...미국서 '초대박' - 한경매거진",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14czBKcElKM2czSVlESHlHVFh6dWE2N3dZZDBDZEgwRUlKbE1mT3hjZ2NjaXFIUHJ2dFJMRk8tczNBYXowRDhhTFBkN3ZjdlRWbGtRb184XzBwNUtMeW9nelN5MV9WcjRSLTZNRg?oc=5",
+      "source": "한경매거진",
+      "pubDate": "2026-11-15T23:30:00+00:00",
+      "description": "삼성이 해냈다...미국서 '초대박' 한경매거진",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "749e06cdf2f3",
+      "title": "삼성SDI, 美서 수조원대 ESS 배터리 수주…탈중국 공급망 공략 가속 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMd1ByZVJkTlFodFNGckVkYjltRE1HeGdKNUs2ZjVibTc4UnJvQmQtcmtDeDFzaE9iWUVrbGlBQ3d4d3FCUGktUC0ydVZfS0NSdUxnYWJ0RHRsdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "pubDate": "2026-11-15T23:28:30+00:00",
+      "description": "삼성SDI, 美서 수조원대 ESS 배터리 수주…탈중국 공급망 공략 가속 파이낸셜뉴스",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5d9583ffcbb8",
+      "title": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공급 계약 체결 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13V2RhOGFvZ0lYcXJhMm5jRWVrY2cxVmgwLUpHcEZVY0s1Q3EwWGpLb0xuUjdaLU5DQjZYTW1mYlJTU0toZ0VPSVlkdFFTSkNkTC1JYkk0SEFiQQ?oc=5",
+      "source": "한국경제",
+      "pubDate": "2026-11-15T23:22:52+00:00",
+      "description": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공급 계약 체결 한국경제",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "d78381a2613c",
+      "title": "[속보] 삼성SDI, 美에서 '수조원대' ESS용 LFP 배터리 수주 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44d1k4S3ZPRGxhbmdZd3ZjLXZHY3ZmZG5hUnBYT25XYTUxSmNXTUt2SlNGNVY4YzJiWWw4VGxxdndqRE9vaTJaVF9rQ2MyUmFWYTdwSy1qV1pEUDNvUUN3cjFTcm9PMFhydS1MYdIBckFVX3lxTE85V0hlbmQ5R2Z0WG5ib3JlQUNoQmp5RnRDdjlJM1VEZl9sYUhCejVPSkZPN2pQaDY5Xy1OTFRUdDFjSzYwUGZESURhbTRzV0RjbXNuZjZSMUdBN2tNUFlFaGw1WHk4eFNvajhlOFBsYU9oZw?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-11-15T23:22:48+00:00",
+      "description": "[속보] 삼성SDI, 美에서 '수조원대' ESS용 LFP 배터리 수주 - 머니투데이 머니투데이",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "43d9db55aee4",
+      "title": "삼성SDI, 미국 주피터파워에 ESS 배터리 16GWh 공급 : 기업·산업 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PTlRJcnpXbWRSNEFUaDJNUDFWU3NLU3QwRm0wUWtBTDNYYkwzSkdfTzE0T1JtQVU1MTNTNk5QaFdQblh0UklJM2hhUQ?oc=5",
+      "source": "재경일보",
+      "pubDate": "2026-11-15T23:22:00+00:00",
+      "description": "삼성SDI, 미국 주피터파워에 ESS 배터리 16GWh 공급 : 기업·산업 재경일보",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "5f1b54eab941",
+      "title": "삼성SDI, 美서 수조원 잭팟…블랙록 품은 기업에 배터리 공급 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeG1FQmVFS3llTEhLQXlrTFhLcExDU2lHd1ExSHQyVmpXeUktclJ6a042TXdvX1RhVUgwRVVINDU3VXR2N1ZsODBVMENPbUEzcVJvNm90NkpDMml0dllIVmpLSlFOYXZsYU5ZMkFvMFFlSk9hMUx3eF92dEo4dzVhWg?oc=5",
+      "source": "이데일리",
+      "pubDate": "2026-11-15T23:19:49+00:00",
+      "description": "삼성SDI, 美서 수조원 잭팟…블랙록 품은 기업에 배터리 공급 이데일리",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "4ea4b1d3965d",
+      "title": "▒종합 경제정보 미디어 - 이데일리IR▒ - ir.edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vcm5DR2hlRy13Q2hoaHM3bDJoZlZEaTdRbUtHTXZRNVdVOWJnSTRKMVRPSklvUHVMV2I1V094aTliQ21ha0JJV3ltV3ZncVNiR2lUWHNUMHBuV0tLTV9COFF3Zw?oc=5",
+      "source": "ir.edaily.co.kr",
+      "pubDate": "2026-11-15T23:19:49+00:00",
+      "description": "▒종합 경제정보 미디어 - 이데일리IR▒ ir.edaily.co.kr",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "0f82da8d598c",
+      "title": "삼성SDI, 미국에 16GWh LFP 배터리 공급…누적 수주 27GWh - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlYtb2VBVmktS3dpaFBrSlZ2OWotaFhlTjZrU19id19iS0lLb2E2b0NmT205NXotVkFvcG9nOUZDVUhJclkwdjRSbmFqUFczTjFZZkdWeDFjY29LMmJHOFRuODhWTlc0Z01QUUx5cVRaRnJmSVJiVHdYZDZiUWtXbDFvU1Radw?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-11-15T23:19:17+00:00",
+      "description": "삼성SDI, 미국에 16GWh LFP 배터리 공급…누적 수주 27GWh 글로벌이코노믹",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "3086628398a4",
+      "title": "삼성SDI, 美서 16GWh 배터리 수주…계약 규모 수조원대 추산 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjeGFXMXBQQ2pzYml6UURjYnFJbjVMS01jTXhKdXpDVzZkaThOVDlSSXRkNWJ4Mkk5b0FIMmpiRXNsaW16MEJqcGZVR1BfVTdjb0RpS3pTcmFxUmtsLXhoeWczUzk?oc=5",
+      "source": "서울경제TV",
+      "pubDate": "2026-11-15T23:18:28+00:00",
+      "description": "삼성SDI, 美서 16GWh 배터리 수주…계약 규모 수조원대 추산 서울경제TV",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "b63f3c0507c4",
+      "title": "삼성SDI, 美서 수조원대 수주…LFP 공략 속도 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vU243aS02Q1Z3ZVhvdm5hNzVCZVZ0NGhlc1BNR1NsZ203aHpqMmVfZUNRTHdIcVFLUVJlOFQyTWhSWG9TUWZHb25iMHlHN0M0Y28yWEhGc1JFZw?oc=5",
+      "source": "경북매일",
+      "pubDate": "2026-11-15T23:16:00+00:00",
+      "description": "삼성SDI, 美서 수조원대 수주…LFP 공략 속도 경북매일",
+      "category": "ESS",
+      "priority": false
+    },
+    {
+      "id": "fd635d7f1c89",
+      "title": "유진證 한국전력, 실적 부진에도 전력시장 개편 기대…목표가는↓ - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXZDJtUl9BTjNuaFpBZlNqZzd3TmNLYW9pcmNjekNZcE1WSzVUODItUzMxcThRMmxld3JHVE9sVGctWVpfY25PSmtBd2k3T3hzazZhUHNITDPSAVhBVV95cUxQV2QybVJfQU4zbmhaQWZTamc3d05jS2FvaXJjY3pDWXBNVks1VDgyLVMzMXE4UTJsZXdyR1RPbFRnLVlaX2NuT0prQXdpN094c2s2YVBzSEwz?oc=5",
+      "source": "아주경제",
+      "pubDate": "2026-11-15T23:15:59+00:00",
+      "description": "유진證 한국전력, 실적 부진에도 전력시장 개편 기대…목표가는↓ 아주경제",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "ce973cbdb405",
+      "title": "SK이터닉스, 태양광 구조화 규모 증가 수혜…\"산업용 전기요금 인상에 PPA 수요 급증\" - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oLVNMQmFiS2N0YjE4TFQtdVZMOWdpak9DbFIxOEZiRXVIM1B0YTd1ay1wOTU4V0l6WThRLVB6djBuMnY1ZTEyWDk1RHk1bUxRd1NRTThuU2gxX1FyWU1ZYlhIN3JuY2M4cTV1Nw?oc=5",
+      "source": "프라임경제",
+      "pubDate": "2026-11-15T23:04:32+00:00",
+      "description": "SK이터닉스, 태양광 구조화 규모 증가 수혜…\"산업용 전기요금 인상에 PPA 수요 급증\" 프라임경제",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "6d688e7be80d",
+      "title": "LG엔솔, 美‘RE+ 2026’ 출전…AI 산업 통합 전력 인프라 전략 공개 - IT비즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2X1hibENPbnEwcGhLRmRjM1FVeHpUVW1uUllya1FObjIzSE5fdlNTVWhGa2J0TERrTURLRGJ5TDhxMjlmUDhUNlpwSnRjY0xIYnBDNC1seHRRM25USnIxU3dGZU8xLVRWREdHSg?oc=5",
+      "source": "IT비즈뉴스",
+      "pubDate": "2026-11-15T23:00:00+00:00",
+      "description": "LG엔솔, 美‘RE+ 2026’ 출전…AI 산업 통합 전력 인프라 전략 공개 IT비즈뉴스",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "811f7e22528a",
+      "title": "한국전력, 4분기 적자전환 우려…목표가 4만원으로 하향-유진 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHF6YlRjY3p5ZGJGbFFvdkxCcE1RZEdJMllsdTUtUU14ZXdzUGQyQ1pmR3lSU2t1bDZVbXBHbE1ydjBKNmhidHAxN3R6QUQzR1huVzN6Z0tMandZMVpPRk1kSXRoVUVTRGt0LWdMaENHVTFZRExhWGxfSVJId1FUZw?oc=5",
+      "source": "이데일리",
+      "pubDate": "2026-11-15T22:57:24+00:00",
+      "description": "한국전력, 4분기 적자전환 우려…목표가 4만원으로 하향-유진 이데일리",
+      "category": "태양광/RPS",
+      "priority": false
+    },
+    {
+      "id": "5426aeeb9018",
+      "title": "LG엔솔·삼성SDI, 북미 AI 데이터센터 전력시장 정조준 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42dkI4dWVjWWVtZ244QUw0NzBteC0zTDRFVTFGTklRNnl1YlN4Z2RfRUJtRm5JR3ZMbHJYNTR1QmRXaDM5V3Q2aVE0WkRBZ0YtRTRMbGFoVFBIekxlaFdZa25DZ2dWTUNqZ2h1WldnQ2vSAXRBVV95cUxPaW5VeDBaRVhFRXdCbVdfM1E5aUh2VUxOT3FsQktXejVSUlQ5dWJTZVFJSWJjQUVkQlhrNUJlRVp4NXNuRlNXQldQZ2huUlpXSURmOFpnRzVubjF1dWN1TkRFVHY0cC02Tzk1bzFCQ2c5T3g0Ng?oc=5",
+      "source": "이뉴스투데이",
+      "pubDate": "2026-11-15T22:57:13+00:00",
+      "description": "LG엔솔·삼성SDI, 북미 AI 데이터센터 전력시장 정조준 이뉴스투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "9b82ec442b2f",
+      "title": "원전 AI공장 40MW 구상…SovAI·BAM 개발 협력 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ud2p6Y3lVTjR4WGtnUV92SlJ6QU9iNHBXTlFraExsNVBLMnVjZGxMXzdueHB3ZlBvZWlQaTRFb0dfMEhCU2EyMFNFQktUQ0VHNDJtWUdHZkRDcHRmRWh5aFEwQWw?oc=5",
+      "source": "에너지안전신문",
+      "pubDate": "2026-11-15T21:49:25+00:00",
+      "description": "원전 AI공장 40MW 구상…SovAI·BAM 개발 협력 에너지안전신문",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "130f2b922c0f",
+      "title": "전기요금 인상 압박 커진다…전쟁·AI·사채한도 ‘첩첩산중’ 한전 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mTm96WWRYUTN2NGtMTnp3UE83MWQ2cUVRYzdicmFTRnhFNWUyc0dBUmEwczBZd0NaaDZOc0tabWZqZ2tpY1dNVFZZN2NDOHNDZ0pkSktTOVo?oc=5",
+      "source": "국민일보",
+      "pubDate": "2026-11-15T21:00:00+00:00",
+      "description": "전기요금 인상 압박 커진다…전쟁·AI·사채한도 ‘첩첩산중’ 한전 국민일보",
+      "category": "전기요금",
+      "priority": false
+    },
+    {
+      "id": "9dee4af538b5",
+      "title": "“AI 시대 최대 과제는 전력 확보”…한미 전문가들 벨뷰서 에너지 미래 논의 > 시애틀 뉴스/핫이슈 - SeattleN",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CRTRrVEFRSTZaNEFqSTJZa1d6UHNTTW9nalNQanNGOUZBa2JsMXR3X2s0OV9pdkdTUW5aSTRqYWs5RnNHZlpPZW9oM1VHanV6QjZXNWMwb29YV3gyemNLU3dFQk9YbHFa?oc=5",
+      "source": "SeattleN",
+      "pubDate": "2026-11-15T20:25:03+00:00",
+      "description": "“AI 시대 최대 과제는 전력 확보”…한미 전문가들 벨뷰서 에너지 미래 논의 > 시애틀 뉴스/핫이슈 SeattleN",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "4ab17f742bf1",
+      "title": "데이터센터, 주민 마음 얻으려면…\"전기요금 낮출 해법부터\" - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VZ0pkNmdOaWVRVTdGMEVuUzRzQmxQNmFBbEFsanZZSktiTWRrMXF0dHBfb2lRbHk3LUdzdjRZS1A3NktOYXBzTzBxaUxCY3RLODlrUUJxcmVnODg5VmpCOEd0U2lWMUR4OHR0SDVSZGVfTTdUcmhBLXdB0gF_QVVfeXFMT0JzZm1JSmE2ZWU0aklXRFV3TDJSQ0owTGZRWjM3ZGVyMGR3MWNEQVUzT2xoR2tUSHBId2VnSnZETEdKdjlPMlhGSW5NSmpkM3U5VnFpaV9UTld3bUN2aHlzeWNoVGpZdnJzaFljN0Nzb3g0dVJmZmRWblVWOG9MMA?oc=5",
+      "source": "머니투데이",
+      "pubDate": "2026-11-15T20:10:00+00:00",
+      "description": "데이터센터, 주민 마음 얻으려면…\"전기요금 낮출 해법부터\" - 머니투데이 머니투데이",
+      "category": "AI",
+      "priority": false
+    },
+    {
+      "id": "0c3c2529d6bd",
+      "title": "티고 에너지, 구글 클라우드와 AI 기반 에너지 운영 협력 - elec4",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zX2lGQTFqcGJzQW52NXptdThTRFJ3aWhoc1VaejcxQWtnUXlmVkZheTBZMXVPSEgtRTV2NzNETW83MVctb2lUNURJU0JpUVpIdEM5RGNfNzJ3V3l1SkVGTVExM2lhTzBaRkJMRExn?oc=5",
+      "source": "elec4",
+      "pubDate": "2026-11-15T17:47:54+00:00",
+      "description": "티고 에너지, 구글 클라우드와 AI 기반 에너지 운영 협력 elec4",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "7c636e5acf0b",
+      "title": "중국, 2030년 신형 에너지저장 설비 3억㎾ 목표 - 유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tQ1hJd3dMUV92aGhJNlQ1eHI2NnZrMWtJNDE1aGpqYzVWdE45R0Jkck9HcDZvQm1KUE9fQVVyYUhGZUtFWmNDcjQxYXRNU1V2YVZF?oc=5",
+      "source": "유스연합",
+      "pubDate": "2026-11-15T17:41:16+00:00",
+      "description": "중국, 2030년 신형 에너지저장 설비 3억㎾ 목표 유스연합",
+      "category": "전력시장",
+      "priority": false
+    },
+    {
+      "id": "28c04a282615",
       "title": "LG에너지솔루션, 북미 AI 전력시장 공략… ESS 사업 확장 - 비즈트리뷴",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mc3h1d244UHNDdXpyMkdJOU56aHhCN1p0Y3djUFBIOENqQko3VGRIRkh6cEh1QzZYWnhfZy1DaXgyUmxQNFFyN043S0d0OUU0X2pWQ1U2RXR2MExrOHNqb1F3WmxpV2dGaExiekdfWng?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BRDROQks0Y1pXMW9Wd3Flb29HNWVDSmJxLTdLcjh5WUltR2s3T0o5dDFJcHgyNnRyQmtUM1FZYnk0QWRVRnRTRjZzODlxSFZZazBuUUtnRlE3NENLMTVOS2NFY25GSVB1a2JuLUpROA?oc=5",
       "source": "비즈트리뷴",
       "pubDate": "2026-11-15T11:39:47+00:00",
       "description": "LG에너지솔루션, 북미 AI 전력시장 공략… ESS 사업 확장 비즈트리뷴",
-      "category": "ESS",
+      "category": "AI",
       "priority": false
     },
     {
@@ -23,43 +943,13 @@
       "priority": false
     },
     {
-      "id": "16270bca1e5a",
-      "title": "삼성SDI, 미국 ‘RE+ 2026’서 ESS·UPS·BBU용 배터리 선보인다 - 코리아리포트",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSXVwdTlEcG9qREJCWHE4SGFzbTQ1LXFJMlh1SGV0bXBKUnhEN29BV040RFo1RTV3VHFMNkZWbzFDcTgxZ05FZXpZUEhfQS10WVRXeHBhRzg0SXpIOXY3WVMwYUNEN2tmVHFkRV9QYXg?oc=5",
-      "source": "코리아리포트",
-      "pubDate": "2026-11-15T11:30:33+00:00",
-      "description": "삼성SDI, 미국 ‘RE+ 2026’서 ESS·UPS·BBU용 배터리 선보인다 코리아리포트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "e817e5106d3f",
       "title": "LG에너지솔루션, AI 전력시장 공략 가속…배터리 넘어 데이터센터 통합 인프라로 확장 - 이코노미트리뷴",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTndCd1gzajlQcldlZ01YYnMxdUt4TDRFeXNmeXBqWXJYczl6V3NVdHJEOUM4NHF1bXk3MGhxOGVCcHlsQTNlTGhpczE5SlFNb1RkSXpjZWFRRTJWU2JhYnVuSjhfdkMzRWdCT3lEbDRoMFAxX25j?oc=5",
       "source": "이코노미트리뷴",
       "pubDate": "2026-11-15T11:14:49+00:00",
       "description": "LG에너지솔루션, AI 전력시장 공략 가속…배터리 넘어 데이터센터 통합 인프라로 확장 이코노미트리뷴",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "69ebba36cf24",
-      "title": "삼성SDI, RE+ 2026서 차세대 배터리 솔루션 공개…美 ESS 시장 공략 - 파이낸셜신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11cDVKN3I0eERyLUhQekprNkFjUEpKRHFtSjhCSGNjX2pBVXl4QmtJXzZZbEFIeFN0Y2hmdDZXaHFrZWlDb0VkLUk0M3kxbzN5bmZWRUVWUDNDY3Z5MkgxcEVxdWFpMUwyZkRN?oc=5",
-      "source": "파이낸셜신문",
-      "pubDate": "2026-11-15T09:57:00+00:00",
-      "description": "삼성SDI, RE+ 2026서 차세대 배터리 솔루션 공개…美 ESS 시장 공략 파이낸셜신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "a1d517ac7ec6",
-      "title": "삼성SDI·LG엔솔, 美 'RE+ 2026'서 AI 데이터센터·전력망 배터리 격돌 - 매일산업뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2RjNWSk5YUHR3VkpHMzlVbmo4cGlXbkY5dW5ENjdfY3NjWHJ2VElvSWFYTmxJcmxxcWtsZm1vQjFLOHJJTFRyMlRDcHY2U1ptbFdLVlp5aDZoZkExd3hDRVB6TQ?oc=5",
-      "source": "매일산업뉴스",
-      "pubDate": "2026-11-15T09:44:04+00:00",
-      "description": "삼성SDI·LG엔솔, 美 'RE+ 2026'서 AI 데이터센터·전력망 배터리 격돌 매일산업뉴스",
-      "category": "ESS",
+      "category": "AI",
       "priority": false
     },
     {
@@ -73,26 +963,6 @@
       "priority": false
     },
     {
-      "id": "3625a408822b",
-      "title": "비싼 돈 주고 쌓아놨는데 '날벼락'…기업들 비명 쏟아진 이유 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kUFp2T3RuMWFYUjg3ajJXWDRsSG5nOVFSNzdBWnp6aDZ3YmhhY2JhU0lfVUgwaUw4RXpzUURhR0ZMZV9Ka1lOcFpLSjF6bXBiN0xTcjl5OWY2QQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "2026-11-15T09:21:13+00:00",
-      "description": "비싼 돈 주고 쌓아놨는데 '날벼락'…기업들 비명 쏟아진 이유 한국경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e506f8670736",
-      "title": "삼성SDI·LG엔솔, 미국산 LFP 앞세워 북미 ESS·AIDC 시장 공략 - 라이센스뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxQmJZdGwyMTdWY09vQVQzVEFSS3gta09PWGxidE41WDBFQ1Qtd2NYNzZUd1BsWHVQNUZyekVzUzhXVTJHd2lORVVhdVhLSlhCMjNHejNsVjlCYndTOEdqaklxZGZLeUVDdVFF?oc=5",
-      "source": "라이센스뉴스",
-      "pubDate": "2026-11-15T08:33:01+00:00",
-      "description": "삼성SDI·LG엔솔, 미국산 LFP 앞세워 북미 ESS·AIDC 시장 공략 라이센스뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "83d9957c28ee",
       "title": "김천시, 지역기업의 해외 진출 지원 `전력` - 경상투데이",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HNU9zTlV6dFN3bWEtU25YREtqOWQ3WFNvbzhPOWVmT0ItcTBZaERwcHBNNXZwcnhfWDRGWEVCSk92OXhaclZqbFE1RWdjX1hqSXlxZmE2a3MzUE9kZGlWRTZFNXhpYUU?oc=5",
@@ -103,33 +973,13 @@
       "priority": false
     },
     {
-      "id": "5816ce93a4c6",
-      "title": "삼성SDI·LG엔솔, 미국 ESS 공략…AI 데이터센터까지 확대 - 뉴스토마토",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBua2xhS0VtTER3RTJCVV9RaWN2eWpNajdxbkdjTFRTUG1KaGJxRWQ4WURuSEJaQWNFMXp0eWdkZmJnWDBmXzVRSVJNUmd0YXhfTURYcWNUNC1MbW93ckQ4?oc=5",
-      "source": "뉴스토마토",
-      "pubDate": "2026-11-15T08:14:44+00:00",
-      "description": "삼성SDI·LG엔솔, 미국 ESS 공략…AI 데이터센터까지 확대 뉴스토마토",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "a95d0de934a6",
       "title": "LG엔솔, 美 RE+서 차세대 배터리 전력 솔루션 공개 - 디일렉",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETnhJMDA4cENybC1tQXJfVmZWV1F3eFVTUEVaUU5DZ0ZKc2dIUnZOSTdTSVhlUzM4UGtBOTFWaWI4eHpJSWppcktLNDNDMHBOVkdDRUxuRWVHTUh4ZEo0akJ0b1JOUQ?oc=5",
       "source": "디일렉",
       "pubDate": "2026-11-15T08:04:27+00:00",
       "description": "LG엔솔, 美 RE+서 차세대 배터리 전력 솔루션 공개 디일렉",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "703f0b5ba15e",
-      "title": "LG에너지솔루션 AI 데이터센터 공략…엔비디아와 손잡아 - 자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fVEx3OHV2NUxQb0lrcGRtRC14T3VKR24tS0lmTEZVUmFvNXFkRTNzV2Nla2JXV3FpOWNCQnk1US01UURjd2RSellGZnF5Nm5veFlIYXdSTFI4NlRYN05PMjR3Y1loUWs?oc=5",
-      "source": "자본시장뉴스",
-      "pubDate": "2026-11-15T07:45:00+00:00",
-      "description": "LG에너지솔루션 AI 데이터센터 공략…엔비디아와 손잡아 자본시장뉴스",
-      "category": "ESS",
+      "category": "AI",
       "priority": false
     },
     {
@@ -139,27 +989,7 @@
       "source": "포쓰저널",
       "pubDate": "2026-11-15T07:23:30+00:00",
       "description": "LG에너지솔루션, RE+ 2026서 AI 전력 인프라 정조준…“통합 에너지 플랫폼 도약” 포쓰저널",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e3c3cfe48a3b",
-      "title": "티고 에너지-구글 클라우드, 태양광 설치업체 및 전력회사 위한 AI 도구 개발 협력 - CEO경제신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRDJMVVZXRV9mbXN2bVFNamhhci1qUHFYZE9iLWFBY2dhTVZsUGhGUGZMeFJpVmtiWERZeVdIY2VxZkM0TEZhSm0tVDhVWDQ4MnZ5ejgxT3BfVWdxQmpuRjVLM1RucmotOVZjTQ?oc=5",
-      "source": "CEO경제신문",
-      "pubDate": "2026-11-15T07:00:00+00:00",
-      "description": "티고 에너지-구글 클라우드, 태양광 설치업체 및 전력회사 위한 AI 도구 개발 협력 CEO경제신문",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "752c95baeb06",
-      "title": "LG엔솔·삼성SDI, 美서 차세대 ESS 공개...AI데이터센터 시장 공략 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDTnBRRnpnRlhoZFk3Y0xvQk9UY0h1YUdVd1ZPYkxSVlN5YUlMQ0R3emFLVV9RcUV6VV9wUE1DaGFXZWxsc0ozMUF6MkpqemlEUnNwUVN3?oc=5",
-      "source": "중앙일보",
-      "pubDate": "2026-11-15T06:47:05+00:00",
-      "description": "LG엔솔·삼성SDI, 美서 차세대 ESS 공개...AI데이터센터 시장 공략 중앙일보",
-      "category": "ESS",
+      "category": "AI",
       "priority": false
     },
     {
@@ -169,17 +999,17 @@
       "source": "스페셜경제",
       "pubDate": "2026-11-15T06:46:20+00:00",
       "description": "LG엔솔·삼성SDI, 북미 AI 전력시장 공략 본격화 스페셜경제",
-      "category": "ESS",
+      "category": "AI",
       "priority": false
     },
     {
-      "id": "a62ec912e3e8",
-      "title": "삼성SDI, 美 현지 생산 LFP 배터리로 북미 ESS 시장 공략 - 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtbHh0RjZzLUlpVC1LR0hpSm5RMzZublZBaUE3NDZtM0c0dG1FcXY4dHJXeTNWc3FRWDdfQ1hrS2NiWnBDZ1E0cTRvVUptNGdSSjdyQzF2NDFBZ2gzaWZxRXpobUhqeXU5Q0tQeHNMVdIBc0FVX3lxTFBKY3RhYjFDd3JmeFo3Q2xEb2VsYnpLdTN0azdpNndzVWU4aXVTMDZmVmJQY0RCcWc5a3ExQU1iZ0dHLXZVSEVKZGFhc0Z4Q29VdXQ3MjA4VG1XMlM3c0lROFpLRndZa2EtbVg3ZEZvdl9yOFU?oc=5",
+      "id": "924713ceeecc",
+      "title": "LG에너지솔루션 'RE+ 2026'서 북미 AI 데이터센터 공략 솔루션 공개 - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GOFJYYktEY0xMVFFiZzJPQ0pyQ01GbkVCUWZ4VFp3cXI3RTljZVRudWU5MzRJNXg2bnF2R21iYWU2dHhXZW1zLUNHMUh3WUEwaG05X1dKU3J2Y3BLaGxuSklYa01CTnVjNmhnSmVtVy0zbGPSAXNBVV95cUxNRjhSWGJLRGNMTFRRYmcyT0NKckNNRm5FQlFmeFRad3FyN0U5Y2VUbnVlOTM0STV4Nm5xdkdtYmFlNnR4V2Vtcy1DRzFId1lBMGhtOV9XSlNydmNwS2hsbkpJWGtNQk51YzZoZ0plbVctM2xj?oc=5",
       "source": "뉴스웍스",
-      "pubDate": "2026-11-15T06:39:41+00:00",
-      "description": "삼성SDI, 美 현지 생산 LFP 배터리로 북미 ESS 시장 공략 뉴스웍스",
-      "category": "ESS",
+      "pubDate": "2026-11-15T06:44:25+00:00",
+      "description": "LG에너지솔루션 'RE+ 2026'서 북미 AI 데이터센터 공략 솔루션 공개 뉴스웍스",
+      "category": "AI",
       "priority": false
     },
     {
@@ -189,7 +1019,7 @@
       "source": "동아일보",
       "pubDate": "2026-11-15T06:38:53+00:00",
       "description": "LG에너지솔루션, 美 RE+서 AI 전력 인프라 공개…배터리부터 전력 관리까지 동아일보",
-      "category": "ESS",
+      "category": "AI",
       "priority": false
     },
     {
@@ -203,16 +1033,6 @@
       "priority": false
     },
     {
-      "id": "aabf21d63838",
-      "title": "삼성SDI 미국산 LFP로 ESS 공략…데이터센터 겨냥 - 자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XLVVqSjRRYXFhdThGYVBYYWpybThqYm5iYWpMVlhuMkUwN3o0elZab0s4dkhRT0lpazR1N1lGUENLMVg3Nm9GdlRibHdGV1hXaG1xS1lHUElENWRBLUhDQTg0OUVZVXM?oc=5",
-      "source": "자본시장뉴스",
-      "pubDate": "2026-11-15T05:59:58+00:00",
-      "description": "삼성SDI 미국산 LFP로 ESS 공략…데이터센터 겨냥 자본시장뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "bb6200df04f3",
       "title": "LG에너지솔루션, 'RE+ 2026'서 AIDC용 통합 전력 솔루션 소개 - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDOERZVjRMWm5pbUxWMV9wYkNIODlIZlA1LUxGU2ljNXdRTkEtWDdaRGN6cjRsNEtzVmhEbXBsSkV4MXhCSFJnSU1HOWl6WW1hODhyTzdXSjhTQ3Q5?oc=5",
@@ -220,26 +1040,6 @@
       "pubDate": "2026-11-15T05:46:00+00:00",
       "description": "LG에너지솔루션, 'RE+ 2026'서 AIDC용 통합 전력 솔루션 소개 뉴스핌",
       "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "e6daa2b6249a",
-      "title": "삼성SDI, 미국 ESS 시장 겨냥 차세대 배터리 공개 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRVExYlFNQjduMzNGNEtEUHVOYXBKNzNuYWV3OHpmMFFhbnlDUng1WUZQT1ZqUDNHX3ZabVA4ejB2V1VQQVV4MkdWR1lyUC05ZDZZSXhsbEdZTFNC?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "2026-11-15T05:45:00+00:00",
-      "description": "삼성SDI, 미국 ESS 시장 겨냥 차세대 배터리 공개 뉴스핌",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ed66c986a52c",
-      "title": "삼성SDI·LG엔솔 미국 에너지전시회 참가, ESS·AI데이터센터용 차세대 배터리 공개 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15M0xHeU05cUt2dGVjT3J5VWY4U1JpR3gxRC1ZX21sS3J5U3lEWTZadW1rYjBGeENNVWJlbk4ybU5HcVpXekkwaC1oUnBnZ2tiMzlOUFo3MnIyZ19pWTZyMFA3VEVXSDFJUXdQWkxJN3NpTG8?oc=5",
-      "source": "비즈니스포스트",
-      "pubDate": "2026-11-15T05:38:31+00:00",
-      "description": "삼성SDI·LG엔솔 미국 에너지전시회 참가, ESS·AI데이터센터용 차세대 배터리 공개 비즈니스포스트",
-      "category": "ESS",
       "priority": false
     },
     {
@@ -253,33 +1053,23 @@
       "priority": false
     },
     {
-      "id": "6944466603bf",
-      "title": "LG에너지솔루션, 美 RE+ 2026서 AI 데이터센터 전력 기술 공개 - 서울타임즈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRaDBfb2RWaWZuX1FtVXg1SGhCd0JXMFJkZXprdHdGcGFVRHNUaFZ5TmFfRDRpQUUwaU82MVFkOVQzU3JEZXZ4Q1B1LXVKZzdKbFRROEx2azBjanNkLV8zRjdMa0lacjJqZmJ3?oc=5",
-      "source": "서울타임즈뉴스",
-      "pubDate": "2026-11-15T05:12:14+00:00",
-      "description": "LG에너지솔루션, 美 RE+ 2026서 AI 데이터센터 전력 기술 공개 서울타임즈뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "2229c504efd7",
       "title": "LG엔솔·삼성SDI, 美 RE+ 출격...AI 데이터센터 전력시장 공략 - 아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02aUQ1UjhCb2FCUDVpT2xxWXNUb2tJNmVDOTJrTXUwR3U0UEZYRTJvdkpxNmFzV2xNWHB0TG9lLXZrenkwVVdFTVlodTZpaDVjQVk3MGxsMDPSAVhBVV95cUxNNmlENVI4Qm9hQlA1aU9scVlzVG9rSTZlQzkya011MEd1NFBGWEUyb3ZKcTZhc1dsTVhwdExvZS12a3p5MFVXRU1ZaHU2aWg1Y0FZNzBsbDAz?oc=5",
       "source": "아주경제",
       "pubDate": "2026-11-15T05:02:01+00:00",
       "description": "LG엔솔·삼성SDI, 美 RE+ 출격...AI 데이터센터 전력시장 공략 아주경제",
-      "category": "ESS",
+      "category": "AI",
       "priority": false
     },
     {
-      "id": "e6034218acb1",
-      "title": "삼성SDI, 美 RE+ 2026서 차세대 배터리 공개…북미 공략 가속 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQb0g4RzFFQk9tdE1Ub0Y4TmROelpES2NOM280NnR4Yjk5WkZDMlpkWDZfREZWRUxtdVdnNkZqWklfS013dGxDeG5CX1R2NHdSR0tiY3dFay1KUdIBVEFVX3lxTE1UbGpjd1o3UVIwWWJEMkJ1dGRrUE9pSXZHQnVMT0FlOEFJSGhxeGZwZXJSSEVYQk5RNng3LTh5c01hQkxtUnpMbTBRYWVKSHZiRTR0Vg?oc=5",
-      "source": "더팩트",
-      "pubDate": "2026-11-15T04:59:31+00:00",
-      "description": "삼성SDI, 美 RE+ 2026서 차세대 배터리 공개…북미 공략 가속 더팩트",
-      "category": "ESS",
+      "id": "04d4d81a2af3",
+      "title": "티고 에너지-구글 클라우드, 태양광 설치업체 및 전력회사 위한 AI 도구 개발 협력 - 뉴스와이어",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBcXNUOUFmZjhIY3ZyaXE1cm96QWhfVTNEbmN5Z0dVVUpuLWMzV3duZXBUMHQ0YXJublk2V0xGWFRfVWhQRDk2cDZjYWxMV2RyY2hqV2NQNlRLQ3FGU19n?oc=5",
+      "source": "뉴스와이어",
+      "pubDate": "2026-11-15T05:00:00+00:00",
+      "description": "티고 에너지-구글 클라우드, 태양광 설치업체 및 전력회사 위한 AI 도구 개발 협력 뉴스와이어",
+      "category": "전력시장",
       "priority": false
     },
     {
@@ -293,46 +1083,6 @@
       "priority": false
     },
     {
-      "id": "7be839e567cc",
-      "title": "삼성SDI, 美 최대 에너지전 'RE+ 2026' 참석…AI 배터리 공개 - https://www.2news.co.kr/",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tMk12am1qU19ydXRsdlJtZjhMa1dwS1BVbG9DbTJqU3ZPRVp2NWoyM3ZyZ3p6a3ZmbFVKQTh4ZmxuUkhOQkhCOTd6OUd2dEozS0htQ1FOY3FOMlFiaEFUZWV1OW82dnQx?oc=5",
-      "source": "https://www.2news.co.kr/",
-      "pubDate": "2026-11-15T04:51:00+00:00",
-      "description": "삼성SDI, 美 최대 에너지전 'RE+ 2026' 참석…AI 배터리 공개 https://www.2news.co.kr/",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ace15d23236e",
-      "title": "삼성SDI·SK온, 2조원대 ESS 수주전 '정면승부'…LG엔솔 불참에 경쟁 판도 변화 - 중앙이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuVDVrSVhlS0gybUJYWmVfZDAzdHp1ZnM4aDZGV3NORURZTHdfTlJZaVVnNUIzNzJ4RU83ZFpOV0lLd2hUSWtHaVlOTlpCYldQU3pmMHNXbU8zcWxxbng2SnMzRVJXcVdidnVYemFSX25oUQ?oc=5",
-      "source": "중앙이코노미뉴스",
-      "pubDate": "2026-11-15T04:50:00+00:00",
-      "description": "삼성SDI·SK온, 2조원대 ESS 수주전 '정면승부'…LG엔솔 불참에 경쟁 판도 변화 중앙이코노미뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "6fea5fdd469a",
-      "title": "LG에너지솔루션, 미국 'RE+ 2026'서 AI 데이터센터용 차세대 배터리 공개 - 웹이코노미",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuSXFEZGR1SGpRYmw5ZXNENmRQOVNNUy1qd2x6Vk8zTmFFNFdwVEFnVmFhVGRjQ0k3MUJUUGVDa3NFalhVU05Mdl9tNkd3UnR5bllyVHR2YUxES3Z6NWRpbWFvWWRFR3NOZnMxeGNYSGh0Zw?oc=5",
-      "source": "웹이코노미",
-      "pubDate": "2026-11-15T04:43:58+00:00",
-      "description": "LG에너지솔루션, 미국 'RE+ 2026'서 AI 데이터센터용 차세대 배터리 공개 웹이코노미",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "bc4560bfb4a2",
-      "title": "삼성SDI, 북미 겨냥 차세대 배터리 설루션 공개 - 동행미디어 시대",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WUDhLczAtZUswS1hjZ3JqcHhTRmhYWVZKTWowS3ZEX3ZNYkdGaWU1RmFrLWJVRzZucFFJSlFnOFJBaTJ2WnVFVTZRd0tlbW9tdEV3VDBBM01ZTTRaNFE?oc=5",
-      "source": "동행미디어 시대",
-      "pubDate": "2026-11-15T04:43:44+00:00",
-      "description": "삼성SDI, 북미 겨냥 차세대 배터리 설루션 공개 동행미디어 시대",
-      "category": "ESS",
-      "priority": false
-    },
-    {
       "id": "2fdadf09ef29",
       "title": "고려아연, U.S. 테네시 핵심광물 제련소 전력 사용 승인 확보 - Traders Union",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmMxeHhqRm1GcktRRUFnTUk4M2c5T0E3TnVLSHVxUEpHZ3kyY1Z1VkJhczZPTkkwcVlBb2JmWmNReno5d001elhoMjkwVVowNmlZNGlONjZNT05xdEljOVE5NlNBaS1EVjNsMmhGVG1IMmZiWVNiX0pPWmpVU3p6bWdqZnEtdEROVTlFT0FtNkpBNTh6aWx4ZlQ5T3MyVWsxa3c?oc=5",
@@ -340,76 +1090,6 @@
       "pubDate": "2026-11-15T04:41:19+00:00",
       "description": "고려아연, U.S. 테네시 핵심광물 제련소 전력 사용 승인 확보 Traders Union",
       "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "83cca47f7279",
-      "title": "삼성SDI, 미국 'RE+ 2026'서 ESS·AI 데이터센터용 배터리 공개 - 웹이코노미",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KcDdLSnprcFIxZEZPbi1SWGhOWU1SWDQ4TVg3eXJUSkV1NHdOd1lxcFlNVXgyYm5sQURXWmdOaEluSDd0dFFQaTFKeTF1OXRYQm1EUWx4dl8yLUN0TmtuVmIzTDItYXBDalRmdzczbGpNQQ?oc=5",
-      "source": "웹이코노미",
-      "pubDate": "2026-11-15T04:39:03+00:00",
-      "description": "삼성SDI, 미국 'RE+ 2026'서 ESS·AI 데이터센터용 배터리 공개 웹이코노미",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "88192153d869",
-      "title": "삼성SDI, 美'RE+ 2026' 참가…차세대 배터리 토털 설루션 공개 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSjJZZVdVU1FELXFPYm1JYUtUdjNoVEF4ZXJQN1dFSTF4Y3NjMXMydHFmTzdlS3Z0VnVUTHh2dm1RUHpONm5ybVpnTjY0eEFWY3VvUkoza2NVT19PSmcyTzhSNlc?oc=5",
-      "source": "뉴스1",
-      "pubDate": "2026-11-15T04:28:42+00:00",
-      "description": "삼성SDI, 美'RE+ 2026' 참가…차세대 배터리 토털 설루션 공개 뉴스1",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "25aa1dbf1e93",
-      "title": "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개 - 디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMU4yX3NZNGppQ2RhTmx2ZDhQX1FBdUFEUjlabkpUWFQyWEYwNHFUQlFiRUpQQklzVkRkZzRNLVh1andoM09GVzVaV1JscllTV0lUMGtJMndyLXBpTWJPYzY3OE0wUQ?oc=5",
-      "source": "디일렉",
-      "pubDate": "2026-11-15T04:22:02+00:00",
-      "description": "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개 디일렉",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "b4714e5bccab",
-      "title": "삼성SDI, 차세대 배터리 토털 솔루션 공개...ESS시장 공략 잰걸음 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92bzFhVV9fX29WbFhrbzZSVGRjTW5GS2ltMXRLMWNfUzlaZmdXOEJBWlV3ck9iTGREd1NUSk45RjYzcjFkdGcweEpER2RKNG1zOHRiQnF3?oc=5",
-      "source": "매일경제",
-      "pubDate": "2026-11-15T04:02:25+00:00",
-      "description": "삼성SDI, 차세대 배터리 토털 솔루션 공개...ESS시장 공략 잰걸음 매일경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "b8c19588df6f",
-      "title": "삼성SDI ‘RE+ 2026’ 참가…차세대 ESS·데이터센터 배터리 공개 - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbDJCekRSUkFocW5tczVZOVZ2Y1dpZmowRnItTzhZbGN4aGFRU3FUbFJiLU1VU0s0elh0UXdYYTE0dUNabk4ycFh2RWlxWUZMSWRhdDgwbGF6TUx5Ylc1clZCWm1qaUhPMnJJM1RtMEdKRnpUYnVFM1dqUzdyb0tHQVhIdW1BdmNqS1Y5cktlNXRTNnJjR3FJaHoybmNRcnlhZ21aTXNkVXFmUFNzMHNvYy01NUs1ZmlBYjVpOTBsdnFWTGM0OU5Ca25OMklkdw?oc=5",
-      "source": "데일리안",
-      "pubDate": "2026-11-15T03:47:00+00:00",
-      "description": "삼성SDI ‘RE+ 2026’ 참가…차세대 ESS·데이터센터 배터리 공개 데일리안",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "3e2cc9629038",
-      "title": "삼성SDI·LG엔솔, 미국에서 차세대 배터리 구상 모색 - 국제신문",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjR5SmlWUjBBZjViU1dGUGktck9yd1VNajBaUVU4dE9GMFlab1ZCZjdaTU5tT1pmOEtjUHV1cGNMaVVJVTVVYXQyTEtoX0FGRVdabnoyeGlkWGcwWEdwSnNIdEE0cHU0OGVXY281ejNkRWs3NEtpeXI1MERtbFVzdlF4ZGxNU3l0ZDFmLTFB?oc=5",
-      "source": "국제신문",
-      "pubDate": "2026-11-15T03:44:00+00:00",
-      "description": "삼성SDI·LG엔솔, 미국에서 차세대 배터리 구상 모색 국제신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "22051b9cd863",
-      "title": "LG엔솔·삼성SDI, 美 'RE+ 2026' 참가…AIDC ESS 공략 - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uMzh1ZlFxMXd2MS04UFdpLTVyaE00UXhaSXM2NUdtaVZXRlRzWG1JX0lWR3Y0bnE4QXYyMFByb3hMU2dXUU9CVFp6d3BieFpDNTFoTlRVdkRJZ3dXcTVR?oc=5",
-      "source": "MTN 머니투데이방송",
-      "pubDate": "2026-11-15T03:23:34+00:00",
-      "description": "LG엔솔·삼성SDI, 美 'RE+ 2026' 참가…AIDC ESS 공략 MTN 머니투데이방송",
-      "category": "ESS",
       "priority": false
     },
     {
@@ -430,426 +1110,6 @@
       "pubDate": "2026-11-15T03:21:10+00:00",
       "description": "나주시, 호남권 반도체 클러스터 배후거점 육성…전력·에너지 기반 활용 신아일보",
       "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "0985aecdb6f4",
-      "title": "삼성SDI, 미국산 LFP ESS로 북미 공략…LG엔솔은 ‘AI 전력 인프라’ - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZGtlMTR0MktvV2F1MldYa2NNZWVVSlRoREtZNi11VjM5QUJEX0QwdFdicEp2LVlUNm42Rml3LThkOWRBWVZ4bkRhVERWcHgyVWxXOW9kWk5EQdIBX0FVX3lxTFBUYmNqaFJvQjRnemEyQVVOS2ZFVVJPZWhhWHpKbXVNTHRkTkljVU5IbFlBYTltZnZabWZ1aW45V3dINlRmVnNsczJvN19jU19GZkdOemR4b0VZcWhZOUxr?oc=5",
-      "source": "경향신문",
-      "pubDate": "2026-11-15T02:23:00+00:00",
-      "description": "삼성SDI, 미국산 LFP ESS로 북미 공략…LG엔솔은 ‘AI 전력 인프라’ 경향신문",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "37a40a4e9577",
-      "title": "삼성SDI, 美 ESS·AI 데이터센터 시장 공략…차세대 배터리 총출동 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkSVJxbGFFSjg1dWQ0N1V2MVltNVFtVE90UHpJODZOS0w2R3Ezd0JnTHhQNmU4djlJREpxdlJ1cHQzWUFCZmE0anpqYUVyTGRkSnZXNjlQR2FoQQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "pubDate": "2026-11-15T02:05:05+00:00",
-      "description": "삼성SDI, 美 ESS·AI 데이터센터 시장 공략…차세대 배터리 총출동 파이낸셜뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "41d84d7fcca6",
-      "title": "LG엔솔, AI 데이터센터 전력시장 공략…배터리 넘어 에너지 플랫폼으로 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jYTZkeEstbEdkSFNmMTQzZEJIRF9KWE1MNzREdzA0eTZZRmNDdDd6WGJCVjVSek1WcHJvemh5MFNZZG5PWjFHT0hTS19zYUZ5SGt2WFhuWXM2dw?oc=5",
-      "source": "파이낸셜뉴스",
-      "pubDate": "2026-11-15T01:59:47+00:00",
-      "description": "LG엔솔, AI 데이터센터 전력시장 공략…배터리 넘어 에너지 플랫폼으로 파이낸셜뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "1077aba2a9dc",
-      "title": "내년 철강, 수요 부진 속에서도 수익성 개선 기대감…수입규제·원가가 변수 - 산업일보",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBuZXRnZlNPSkxyVlAwUUNFWmRJS1phUGNqYVJkbEtXRXNNdXYxb0dzeUNYYWhlWWF4THBoT3liYllwQjdH?oc=5",
-      "source": "산업일보",
-      "pubDate": "2026-11-15T01:59:44+00:00",
-      "description": "내년 철강, 수요 부진 속에서도 수익성 개선 기대감…수입규제·원가가 변수 산업일보",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "ef37f224bf04",
-      "title": "LG엔솔·삼성SDI, 美 ‘RE+ 2026’서 AI·ESS 솔루션 공개 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRcEdUTklfaEEzVFc5VEx4RXo4NGRkZk1UTk5aT1JkSGd4dlN6bmxIQ3RqRXRVazQ0QkQ0VVU0SFg1SVlIdXRFcThvY0RJVDR4N3JDZjJwZnd3OUdyalBsSGFLbC1jQUR1M1IyaDNwTHJIOXZF0gF0QVVfeXFMUFFwR1ROSV9oQTNUVzlUTHhFejg0ZGRmTVROTlpPUmRIZ3h2U3pubEhDdGpFdFVrNDRCRDRVVTRIWDVJWUh1dEVxOG9jRElUNHg3ckNmMnBmd3c5R3JqUGxIYUtsLWNBRHUzUjJoM3BMckg5dkU?oc=5",
-      "source": "IT조선",
-      "pubDate": "2026-11-15T01:57:26+00:00",
-      "description": "LG엔솔·삼성SDI, 美 ‘RE+ 2026’서 AI·ESS 솔루션 공개 IT조선",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7e5c309a3cb2",
-      "title": "LG엔솔, AI 데이터센터 전력시장 공략…차세대 배터리·ESS 공개 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53a0tEcWNVU24tWW1abGdKcnR4SzJWd19idG8wSG55U1ZsYVFwczZ6Sm14cDBvbDFtWWFScllFRVBQeGpKTllyaTZNNnYyOHJxa25IdC04ZnNxR1UxdFd4R2tmU0k5elpPdmd0MFB5V190QdIBckFVX3lxTE53a0tEcWNVU24tWW1abGdKcnR4SzJWd19idG8wSG55U1ZsYVFwczZ6Sm14cDBvbDFtWWFScllFRVBQeGpKTllyaTZNNnYyOHJxa25IdC04ZnNxR1UxdFd4R2tmU0k5elpPdmd0MFB5V190QQ?oc=5",
-      "source": "머니투데이",
-      "pubDate": "2026-11-15T01:56:15+00:00",
-      "description": "LG엔솔, AI 데이터센터 전력시장 공략…차세대 배터리·ESS 공개 - 머니투데이 머니투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e4b181cbec60",
-      "title": "LG에너지솔루션, 북미 RE+서 AI 데이터센터용 전력 솔루션 공개 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LbFI5Ql9kUy1IMVZHTlVqLWg5Ni1XUG1SaUZkWEpxUnBkYnRYYXdMdzJCS29QZVQ1bGlnaGxCeXVQRVJ0Z0ZtbU55ZElCQQ?oc=5",
-      "source": "전자신문",
-      "pubDate": "2026-11-15T01:56:13+00:00",
-      "description": "LG에너지솔루션, 북미 RE+서 AI 데이터센터용 전력 솔루션 공개 전자신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "2d354659c466",
-      "title": "삼성SDI, 美 RE+서 차세대 배터리 기술력 선보인다 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oa0RjdHBrNmhKc1NLQ3ljTGhYUUZYNVdUSXI0MUtCalZ2TUtIZ0tzR25VRzNLTzM4RWdRVm1heHF2eUJqQ2VZUkxuU2NqUQ?oc=5",
-      "source": "전자신문",
-      "pubDate": "2026-11-15T01:56:03+00:00",
-      "description": "삼성SDI, 美 RE+서 차세대 배터리 기술력 선보인다 전자신문",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "892669704140",
-      "title": "삼성SDI, 美 생산 LFP 배터리 앞세워 북미 ESS 시장 공략 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QU29jUk9HeE84ZGF3elVxVXJhZVk1QklXTlZEdnRLZ3ZTb09rSTNxY2tFamFfOXVnRnFRWmIydllBX0E5QWxPMTFWa29WRzVpNkpNSUF6OXZNcmlQQ0ZUM09ZR2pfOFl2eFI1aGs1LXg3QdIBckFVX3lxTE5QU29jUk9HeE84ZGF3elVxVXJhZVk1QklXTlZEdnRLZ3ZTb09rSTNxY2tFamFfOXVnRnFRWmIydllBX0E5QWxPMTFWa29WRzVpNkpNSUF6OXZNcmlQQ0ZUM09ZR2pfOFl2eFI1aGs1LXg3QQ?oc=5",
-      "source": "머니투데이",
-      "pubDate": "2026-11-15T01:55:40+00:00",
-      "description": "삼성SDI, 美 생산 LFP 배터리 앞세워 북미 ESS 시장 공략 - 머니투데이 머니투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "8362bebee41b",
-      "title": "LG엔솔·삼성SDI, 'RE+ 2026' 참가…AIDC 특화 배터리 소개 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ycklLajFldVVHQUVNMGxKNU1oWmttaGx6akVzbW9Cak5rcjhxM1V0ZE1yRGxTX3FOaWxheXU3NnRLWUl6c09JQ2VfTEtwVTcxYUpwSzFR?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "2026-11-15T01:46:57+00:00",
-      "description": "LG엔솔·삼성SDI, 'RE+ 2026' 참가…AIDC 특화 배터리 소개 지디넷코리아",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "9f9c777da6aa",
-      "title": "LG에너지솔루션, 美 RE+서 AI 전력 솔루션 공개…에너지 플랫폼 사업 확대 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX2JwQVljTmk0eW5qNkg0ZjZISmR5eXJCS3Q0T2xhZHVoQVVmNk9BZ1FqbkJZQ0VWbmJLZ1ZGM2FlaVJsMTB0UzJONW00eFlHODd6VnZqSTR5N2dOdEU5RHhMRlg5dExRYUwtM0VUNnpIWGVoRkZGOFlPQVlSdWg5RjBTYTJ0dw?oc=5",
-      "source": "글로벌이코노믹",
-      "pubDate": "2026-11-15T01:45:20+00:00",
-      "description": "LG에너지솔루션, 美 RE+서 AI 전력 솔루션 공개…에너지 플랫폼 사업 확대 글로벌이코노믹",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "91429ee869ff",
-      "title": "삼성SDI, 미국산 LFP 배터리 앞세워 북미 ESS 공략⋯AI 데이터센터용 솔루션 공개 - 엠투데이",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tTHFEREVNSTRhcm9WNFRaend1anlwZVF2VzJIU1lJd0xWWHV0S2tDNXE0d3RvN3ZpV1lFa1U5VXl1UEdhUl9vdkxqU3V2U1JFU2s2a1hjSk9OZ1hwRnlfOUVqNERPSUFaNVJSdzRhYw?oc=5",
-      "source": "엠투데이",
-      "pubDate": "2026-11-15T01:45:00+00:00",
-      "description": "삼성SDI, 미국산 LFP 배터리 앞세워 북미 ESS 공략⋯AI 데이터센터용 솔루션 공개 엠투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "433fbc6bcb37",
-      "title": "LG엔솔·삼성SDI, 美 RE+서 차세대 배터리 기술 선봬 - 뉴스락",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBadjJNNk4td0hQSFRSS0JMclY2ekd4YllrZzVjSHluX0xaaWZUTFQ5M1k3VmdndWxWS3hGNzhtRDl3WjZ5X2xuSXQ3RUYyVzZEd2QtUTlsME1zOTAtOVoxOXZ5d3VsTWJVQVBkbw?oc=5",
-      "source": "뉴스락",
-      "pubDate": "2026-11-15T01:34:34+00:00",
-      "description": "LG엔솔·삼성SDI, 美 RE+서 차세대 배터리 기술 선봬 뉴스락",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "692d519fec25",
-      "title": "삼성SDI, 美 RE+ 2026서 북미 ESS 공략…현지 생산 LFP 배터리 공개 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTTJUNENUb29lcUJsRXJpWUVzV0Q3NXd2dlFWZDJSNDZEVVFCbnk0amtyVmZwNUxPeUdSU2JFYTFsWVFyMk5yRXRsa2E4dHhrZGZ3RGZxd285a0RpY1FSLUQ0YjZIQmc?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "2026-11-15T01:34:01+00:00",
-      "description": "삼성SDI, 美 RE+ 2026서 북미 ESS 공략…현지 생산 LFP 배터리 공개 디지털데일리",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fb9f3b65dd77",
-      "title": "LG엔솔, 美 RE+서 AI 데이터센터용 통합 전력 솔루션 선봬 - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43N0ppNFR6cW54bUlpUzBhMG81WGNmd3VsU0MxbmhEd3RLaEU4dDdBYXIteWFBVzR2RWxpTWI0YU9nUFRNeUZ2eHZYRQ?oc=5",
-      "source": "아이뉴스24",
-      "pubDate": "2026-11-15T01:31:51+00:00",
-      "description": "LG엔솔, 美 RE+서 AI 데이터센터용 통합 전력 솔루션 선봬 아이뉴스24",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7c0002e6fe19",
-      "title": "삼성SDI·LG엔솔, 美 RE+ 출격…ESS·AI 데이터센터용 배터리 공개 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xSTBMdkZDNjFHUUtHN2NwTVdLYUVtNkZoQVk5UUxZNjN0TV9zVEtQbUFqM0NubzRNZjNKZE1EaDFuRmdVQ2pEb3lDMjY3Z1BYb2xrZGJPeXF3a2pfWVBwTUJtVEU?oc=5",
-      "source": "매일일보",
-      "pubDate": "2026-11-15T01:31:40+00:00",
-      "description": "삼성SDI·LG엔솔, 美 RE+ 출격…ESS·AI 데이터센터용 배터리 공개 매일일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "567d250bb831",
-      "title": "LG엔솔·삼성SDI, 'RE+ 2026' 참가…AI 전력 솔루션 선보인다 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MUlZ6NFZrU0JXWWlSV2k0ZzBKNmp1c0lrODNyX3d0cFFCeVI3bUtXYWZSRUNDZGJhTl9rVWtSSGtrSV8wSUlpaDY4ZjloMFRFSVgwNm1kUVF3ZFRpanFiVdIBeEFVX3lxTFA0T0FNREd2MDU0a0RuQ3Z5VHRST2gxS1ZmLTlIc2JocmZ6NHlTSmhnSUFXd00za3YzV3ZLMFRuX3Y4aC1nU0tsR3B2ZlJOQzJSbGg4clo1ZHRjVC1kcE9XX29VV2t0ZmNNR3FXc1Z6N2FMa0pydmZHcQ?oc=5",
-      "source": "뉴시스",
-      "pubDate": "2026-11-15T01:17:27+00:00",
-      "description": "LG엔솔·삼성SDI, 'RE+ 2026' 참가…AI 전력 솔루션 선보인다 뉴시스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "2e26e71d7bf2",
-      "title": "LG엔솔, RE+ 2026서 ‘통합 에너지 설루션’ 선봬…에너지 플랫폼 기업 진화 - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xVzk2eTVvcDQyQS1PeHctdWZmbWxZMFhoYVAyYUtFVUNyTHFWTmtGUG51aWRwY3FueDZoUzhrYXhRQ1JjNVd5TmZKdzR2ckZhSDZHa3NR?oc=5",
-      "source": "헤럴드경제",
-      "pubDate": "2026-11-15T01:12:43+00:00",
-      "description": "LG엔솔, RE+ 2026서 ‘통합 에너지 설루션’ 선봬…에너지 플랫폼 기업 진화 헤럴드경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "d20113d989fe",
-      "title": "[뉴스+]삼성SDI·LG엔솔, 美 ESS 시장서 격돌…AI 데이터센터 전력 수요 정조준 - 비즈니스플러스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TdHc2MkdtS3hBMC1nWUcwUlFOUWZOb3pZa3BwdlVDMlFvQjhPSTkxcnVIT1BmU2k5R0RGeFJHR09ZQTRfWFlMX1JmbUZ1QjNaQWhMSmhyRTZhTy1ITHJJendjUk54Z29fNGRMN0kyYw?oc=5",
-      "source": "비즈니스플러스",
-      "pubDate": "2026-11-15T01:10:09+00:00",
-      "description": "[뉴스+]삼성SDI·LG엔솔, 美 ESS 시장서 격돌…AI 데이터센터 전력 수요 정조준 비즈니스플러스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "6a6bb938d6db",
-      "title": "삼성SDI, ‘RE+ 2026’서 차세대 배터리 토털 설루션 공개…북미 ESS 시장 정조준 - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoX2ZYVTJLWktQZ0tLOEZsWjUzTEYxa0d5QjZZTUlCX0pDZWN3VDJ5Y1Q1dWxWWk1neUpvUkFnZklHTjdNYmZUOWFkREdKRWxNOG04Ui13?oc=5",
-      "source": "헤럴드경제",
-      "pubDate": "2026-11-15T01:03:01+00:00",
-      "description": "삼성SDI, ‘RE+ 2026’서 차세대 배터리 토털 설루션 공개…북미 ESS 시장 정조준 헤럴드경제",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "60e9b9137516",
-      "title": "LG엔솔·삼성SDI, 북미 최대 신재생에너지 전시회 참가…\"AI 성장 뒷받침\" - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03cHh5UzBoWC1JY1ZNQWRNb05uTVkyTWpJeHJaeTZETWlxLVpCMl83RU5aeEthLXE5bWxlRWdXMHVNQlVTNExDRTV3S1lXUnRMWVRia2tsNkkzV3h1c2FfUzlnZEZzMHp3T3gyM3pGVGhhZw?oc=5",
-      "source": "KB Think",
-      "pubDate": "2026-11-15T01:00:06+00:00",
-      "description": "LG엔솔·삼성SDI, 북미 최대 신재생에너지 전시회 참가…\"AI 성장 뒷받침\" KB Think",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "e12cde2e6090",
-      "title": "삼성SDI·LG엔솔, 美서 AI 데이터센터 배터리 맞대결…ESS 시장 공략 - SBS Biz",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYb2JPQ0xab3h2Y3RPNHAzN1JXcUpOamJWeDVadXJ6ZG1kZmU5Rnd0eUxaTzk5dXN1QkZIazBES2M2ZnFFbk9JTzdtaDdmREVqQVZR0gFYQVVfeXFMUHNvRmRFVWRqZ1NHVmNtZkp2alNDRUNZdUFRWE40MHEtaHBfUk1YM1VxMFZRTXczckdaZVRWdmhIeGxLSFBSa2tva1FRZnhBWmROdzlmbTRSaQ?oc=5",
-      "source": "SBS Biz",
-      "pubDate": "2026-11-15T00:53:00+00:00",
-      "description": "삼성SDI·LG엔솔, 美서 AI 데이터센터 배터리 맞대결…ESS 시장 공략 SBS Biz",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "20998f33d4b9",
-      "title": "삼성SDI·LG엔솔, 미국서 차세대 ESS·데이터센터 배터리 공개(종합) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJQWtuVS1pWlNFQmhIMmtiU1lCRXcyc1JHczdfWWI1MGdJaC1xNWdBNE80OF9zRGFJb1FlWkt5bVl2SVlJZldjSWExNHFJSFl1VFYzVWh6VHlYTThxSmVMX9IBYEFVX3lxTFBJQWtuVS1pWlNFQmhIMmtiU1lCRXcyc1JHczdfWWI1MGdJaC1xNWdBNE80OF9zRGFJb1FlWkt5bVl2SVlJZldjSWExNHFJSFl1VFYzVWh6VHlYTThxSmVMXw?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "2026-11-15T00:43:51+00:00",
-      "description": "삼성SDI·LG엔솔, 미국서 차세대 ESS·데이터센터 배터리 공개(종합) 연합뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "37fec061c6a9",
-      "title": "LG에너지솔루션, 북미 최대 신재생에너지 전시회 참가 … AI 데이터센터 전력시장 공략 - 워크투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvY1kwTGZjaHp5cDhFRVh4X2g4QXc0WDJsRVFPUFJ1ck1KX2w3VGRiNVhDbjRobDAybFloYzVXbVY5MXJyVXpIV0hEQmstOVRSU0xHWkRGYm8wN1JYS0R3b09rb0pvTmpuVlFGdg?oc=5",
-      "source": "워크투데이",
-      "pubDate": "2026-11-15T00:43:06+00:00",
-      "description": "LG에너지솔루션, 북미 최대 신재생에너지 전시회 참가 … AI 데이터센터 전력시장 공략 워크투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fc93f6dc8120",
-      "title": "LG에너지솔루션, 미국서 ESS 신기술 공개⋯북미 에너지 시장 공략 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNclpXdWJEY3FLbXB1eEl6XzdXVW5aNkFoZzUzSjZGMG9DRHFwaENHdlh6dll0YTBJZ202b3FYSC1pU25sYTVycFptLXQzdjdWSmQ5NQ?oc=5",
-      "source": "이투데이",
-      "pubDate": "2026-11-15T00:42:00+00:00",
-      "description": "LG에너지솔루션, 미국서 ESS 신기술 공개⋯북미 에너지 시장 공략 이투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "a6de0d26129f",
-      "title": "LG엔솔, AI 데이터센터 전력시장 정조준···에너지 기업 변신 가속 - 서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44UjB4TmhkVVBpVHZrOTRrZmhhdUlfYXctUk45cGVmdDl3ZmZ0M2REQU03SnhndURNWmRJenRub2VDYUY0alZjNDlxUUJMVGRGOEw1blZxTE9KaFFyb3BuUFNMX2gtNUlDblE?oc=5",
-      "source": "서울파이낸스",
-      "pubDate": "2026-11-15T00:38:08+00:00",
-      "description": "LG엔솔, AI 데이터센터 전력시장 정조준···에너지 기업 변신 가속 서울파이낸스",
-      "category": "전력시장",
-      "priority": false
-    },
-    {
-      "id": "286e9c55f3eb",
-      "title": "삼성SDI, 美 'RE+ 2026'서 차세대 ESS 공개…북미 시장 공략 강화 - 비즈니스플러스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SUVhOeGp0NDJrak0wSkNuanhMU0h0ejVqNFpiRzY3WUl5QWs4VXN5Zm9sc2g0SW5HejFKc0hvd0JHam5EN0VQN250SU4tTWg5ak9LUDM5NlZhTndMdE9BOVJzVmlVZDgzSWM2T2FROA?oc=5",
-      "source": "비즈니스플러스",
-      "pubDate": "2026-11-15T00:35:30+00:00",
-      "description": "삼성SDI, 美 'RE+ 2026'서 차세대 ESS 공개…북미 시장 공략 강화 비즈니스플러스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "9eb6b46bdf8c",
-      "title": "삼성SDI, 미국서 현지 생산 SBB 2.0 첫선 : 기업·산업 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42VnIzcmFpM3NiSjF3cW1CYl9kRm5qd254RWpQTW5KNlBiT1BwZnR1OHk0aXRCX2JXUFdCbFM3bS1tWm03VHBOQ3ltYw?oc=5",
-      "source": "재경일보",
-      "pubDate": "2026-11-15T00:29:39+00:00",
-      "description": "삼성SDI, 미국서 현지 생산 SBB 2.0 첫선 : 기업·산업 재경일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "f0c23dd23d18",
-      "title": "삼성SDI, 라스베이거스서 차세대 배터리 솔루션 공개…북미 ESS 공략 속도 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rOWdUZlNSdjN4bnlqaUJMZVI3S25FNWE4d29hcmoxajRYYnpfTFdzMk96RHUyUTJ4c2hVTVpxblNLQkNoWlptSnVodjBIYWR0Y2RkaQ?oc=5",
-      "source": "이투데이",
-      "pubDate": "2026-11-15T00:27:00+00:00",
-      "description": "삼성SDI, 라스베이거스서 차세대 배터리 솔루션 공개…북미 ESS 공략 속도 이투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ac9bb7451e3c",
-      "title": "삼성SDI, AI 데이터센터용 배터리 북미 첫 공개…미국 ESS 시장 공략 - SBS Biz",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hSHJmMFpmRTlDMUlIY2lFbmlaa1o1d0JtM0FjRko3aThNWkxYa2xMZVhEWUJmbkdwXzBIdmhDYlZVZVozNjNwRmZmOGp2TWdHcmVKZkV4MWPSAVhBVV95cUxNYUhyZjBaZkU5QzFJSGNpRW5pWmtaNXdCbTNBY0ZKN2k4TVpMWGtsTGVYRFlCZm5HcF8wSHZoQ2JWVWVaMzYzcEZmZjhqdk1nR3JlSmZFeDFj?oc=5",
-      "source": "SBS Biz",
-      "pubDate": "2026-11-15T00:24:00+00:00",
-      "description": "삼성SDI, AI 데이터센터용 배터리 북미 첫 공개…미국 ESS 시장 공략 SBS Biz",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "32bb2357525c",
-      "title": "베트남, 태양광 발전가격 상한 최대 16.9% 인상…ESS 결합형 우대 유지 - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ISThOMjBSWm9VTlMwT2RRSENtbGt6RnE0YVM0MHdmZ2pfUi1xTXNLUi1RWGJIUUZucXl0RDVuNVdJRmdGUUFTT0RadTdtUDZROU56NGlaWHFzWDN5XzFQd182Nk5MbWN6U2c?oc=5",
-      "source": "AI타임스",
-      "pubDate": "2026-11-15T00:10:00+00:00",
-      "description": "베트남, 태양광 발전가격 상한 최대 16.9% 인상…ESS 결합형 우대 유지 AI타임스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "6e01d472e72c",
-      "title": "삼성SDI, ‘RE+ 2026’서 북미 ESS 시장 공략 나선다 - 아시아투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEc2VYNmdQVHVXWVQxd3hiY0RaZHZvOUowd0FfdEdSQllBV3NpSlEwazVHTkQ3YXlMbzhxUFYzX1dyVVZiLTdHSjhldklWdDRSNUJNNFdvSnZTOVFCdzBnUlAzUUttbTN3QVBxNGRn?oc=5",
-      "source": "아시아투데이",
-      "pubDate": "2026-11-15T00:03:12+00:00",
-      "description": "삼성SDI, ‘RE+ 2026’서 북미 ESS 시장 공략 나선다 아시아투데이",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "2e834a81ff71",
-      "title": "[주간 산업 나침반] 中, 한화오션 제재 유예 연장...ESS 수주 경쟁·진에어 통합 본격화 - 중앙이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aU1Fnc182WXIwRHZjOU1uWUtzRmE4Q2pOLVVYUkRyeDdkU0xNcWZIM3dTVUF2Zmlxdi0wZ0QzTERacTdXWmFfa0VweDhYOGhOUXNKUzV6N0d0UTc4a0xKQXlvZjI3aXozdXFsR0hjcW5JUQ?oc=5",
-      "source": "중앙이코노미뉴스",
-      "pubDate": "2026-11-15T00:00:00+00:00",
-      "description": "[주간 산업 나침반] 中, 한화오션 제재 유예 연장...ESS 수주 경쟁·진에어 통합 본격화 중앙이코노미뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "0c68950c38b1",
-      "title": "삼성SDI, AI 시대 겨냥한 차세대 배터리 북미 첫선 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84aU1GZnVHZ0lEZzAwOHpHMEpEZWxXNnc4SDY1VVJnZjF3emNRSm9RY0RFaFBHd0pyQjlNbXVNVlBZWVpxM3BIQUtpN3VJektnRWNnQXEwZVR4OXU5eG9ucmJhM2poUU12Ni15ckU4TlE1OXdG?oc=5",
-      "source": "부산일보",
-      "pubDate": "2026-11-14T23:42:06+00:00",
-      "description": "삼성SDI, AI 시대 겨냥한 차세대 배터리 북미 첫선 부산일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fbd5ac011ac8",
-      "title": "[분석] 삼성 각형 vs SK 파우치…ESS 2조원 시장 '쟁탈전' - 파이낸셜포스트",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsd0hGM3hJNVFlZ1V0S0RpVUZmYUFpQTRNZ1FFNHl4b3RPWHU5WmF2ZEJPS1RKRHhLcHUzd2ZwREZpVkdlNFBtcDhzSF9kem1FNC1QanFlLWdIczN4NGJJX1VRZ01IWHVlU2ZyUjUtOHFSUlZz?oc=5",
-      "source": "파이낸셜포스트",
-      "pubDate": "2026-11-14T23:08:35+00:00",
-      "description": "[분석] 삼성 각형 vs SK 파우치…ESS 2조원 시장 '쟁탈전' 파이낸셜포스트",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "fbb327b55cf2",
-      "title": "ESS 3차 물량 7.08GWh 놓고 삼성SDI·SK온 2파전 - 글로벌E",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtOFlKVHNIM0xMRko3akhNYTV2bXVySU9IaGx2SHBPRU9aTElfZV9mSXVSblNJN19sVkhBdWgyNzJOQ0pTZEk3aFNfNFpNWFljMi1rRDFHV29pcVVCR0dNS0NhTnZ3dzhidlo1ZHVDMNIBb0FVX3lxTFAtOFlKVHNIM0xMRko3akhNYTV2bXVySU9IaGx2SHBPRU9aTElfZV9mSXVSblNJN19sVkhBdWgyNzJOQ0pTZEk3aFNfNFpNWFljMi1rRDFHV29pcVVCR0dNS0NhTnZ3dzhidlo1ZHVDMA?oc=5",
-      "source": "글로벌E",
-      "pubDate": "2026-11-14T22:23:41+00:00",
-      "description": "ESS 3차 물량 7.08GWh 놓고 삼성SDI·SK온 2파전 글로벌E",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "2a019c8df12b",
-      "title": "‘데이터센터 전기료’ 논쟁…韓 전용 요금제 고심 : 경제 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UdWZIeUJ3MkcwYUY1cHR6bTIyN3hnZDFPMi1qV01NeHN0NkhaNzVFaGwyU0s2WUdZMmliaGdlYi13QW1qRm5jeFZodw?oc=5",
-      "source": "재경일보",
-      "pubDate": "2026-11-14T22:00:00+00:00",
-      "description": "‘데이터센터 전기료’ 논쟁…韓 전용 요금제 고심 : 경제 재경일보",
-      "category": "전기요금",
-      "priority": false
-    },
-    {
-      "id": "44eb713969fe",
-      "title": "ESS 1조1800억 입찰, LG엔솔 빠지고 삼성·SK 양자대결 : 기업·산업 - 재경일보",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yS1l5NGljcGQwa3lMS0JBQkdWeDdOSDBWbTJTSFl6S0o5MlExRF8wQjZlSWk2SjRjT1BUUy0ySi1USElHdWczSjVzMA?oc=5",
-      "source": "재경일보",
-      "pubDate": "2026-11-14T21:58:00+00:00",
-      "description": "ESS 1조1800억 입찰, LG엔솔 빠지고 삼성·SK 양자대결 : 기업·산업 재경일보",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "ffc369b247cc",
-      "title": "LG엔솔 빠진 역대 최대 ESS 입찰…삼성SDI 대 SK온 맞대결 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kUFR1cU5sdnd0dElZeUtBNWxNRU4tNGI0aXNqRmhSU3E3UmpJdE0wV3hQMTRLal83bTRQWDljT0JMMTdaWmZkVjZ6S2d4T1luTTluNzU3Z19td0dMWWJ6QdIBYEFVX3lxTE9kUFR1cU5sdnd0dElZeUtBNWxNRU4tNGI0aXNqRmhSU3E3UmpJdE0wV3hQMTRLal83bTRQWDljT0JMMTdaWmZkVjZ6S2d4T1luTTluNzU3Z19td0dMWWJ6QQ?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "2026-11-14T21:31:00+00:00",
-      "description": "LG엔솔 빠진 역대 최대 ESS 입찰…삼성SDI 대 SK온 맞대결 연합뉴스",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "7d5c9f6890e2",
-      "title": "전기차에서 ESS·선박·로봇으로…포항 배터리 엑스포 - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQc3FfY1ZDdi1kLUlxcFdVbG93VE50czB4eFNiRDI5d0dhX0JwTV9SYUpBaUNoTWNRdDNJWjVKSFFieGlmVFpva2h0VVJKMXdFcGktaHFUU0VmUEVua1k5ZEtVOUI0NDNRR3h6dDZ5U0thdmxjaDBGR1Joc0JTM3NNNmg3ZnZIRERGUUIyMHZYVlgzNXNBYTNyMk9SUENOclVXb002R1BWcG9HSmVfb05ONE5sNkduU0tram9lUDVuQmlvRHBTaEg1Nk03d3M5VmJTbXF5THkyZ3k1bl95dlRrWTFSeXk2SzZyeDYzczM5VTk5Q1dPUU5zeVplZVBjYUJ4bE5BVDhjY21qSS10?oc=5",
-      "source": "데일리안",
-      "pubDate": "2026-11-14T21:21:00+00:00",
-      "description": "전기차에서 ESS·선박·로봇으로…포항 배터리 엑스포 데일리안",
-      "category": "ESS",
-      "priority": false
-    },
-    {
-      "id": "428d0762199d",
-      "title": "[공사 Pick] 한국전력·한전KDN, AI 기반 감사 혁신과 ·글로벌 영토 확장 - 라이센스뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84UGtjOUJmcURKd1V5cmtpQWtWVnRmZFBMd0kzeWMxdHdZblhYbVZxbVdWVWlnYzJYQldQd2dyQ1IyVVphNGQwWG1ZNVd5VDFwVjNPN3dKWlJHcXZBcHh3b3NKZ1VFcE4tTGNB?oc=5",
-      "source": "라이센스뉴스",
-      "pubDate": "2026-11-14T21:00:00+00:00",
-      "description": "[공사 Pick] 한국전력·한전KDN, AI 기반 감사 혁신과 ·글로벌 영토 확장 라이센스뉴스",
-      "category": "AI",
-      "priority": false
-    },
-    {
-      "id": "18558bf91855",
-      "title": "스코틀랜드 풍력 감발 전력, 비트코인 채굴 활용 제안 - 토큰포스트",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFcWQ3U2ZYbDBTNmhfU0x3Rmo0aXJQNTdUV3FJeTNUVXdxV3l2a0RLVllua2tPUFkxRzE5QTlCTTJNS0VwY3FOcmN6TFhxb1BoZk42VkhTMGEwOTFyX2p2NNIBZkFVX3lxTE5vZDJRQVRxbGJvQS1hdmRZU3FrZklZR0ZjTXZnemw2R0lTdURJaEhsX1JfdGQ1LUE5UHNzZEtzZ084Z1FtekU1d2dZYUlaeXJyYjE0ZXZiUlFhYW9mTFY0OEpDSnlXdw?oc=5",
-      "source": "토큰포스트",
-      "pubDate": "2026-11-14T13:19:19+00:00",
-      "description": "스코틀랜드 풍력 감발 전력, 비트코인 채굴 활용 제안 토큰포스트",
-      "category": "전력시장",
       "priority": false
     }
   ]
